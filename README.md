@@ -1,6 +1,10 @@
 <div align="center">
 
-# ⭐ Rating Aware Recommendation Project
+# 사용자 평점 기반 그래프 추천
+
+**Rating-Aware-Recommendation-Project**
+
+**기술 분류:** 추천 시스템 › 그래프 신호 처리 › 평점 반영 이중 그래프 필터
 
 ### 사용자 평점 기반 그래프 필터링 추천
 ### Performance Improvement of Recommendation Systems using User Evaluation Information
@@ -13,7 +17,33 @@
 
 [원고 읽기](#quick-start) · [저장소 구성](#structure) · [자료·설정](#data)
 
+[예시 이미지](#preview)
+
 </div>
+
+<a name="preview"></a>
+
+## 🖼️ 예시로 보기
+
+<p align="center"><img src="assets/previews/paper-architecture.png" width="793" alt="논문 그림 · Rating-Aware-Recommendation-Project" /></p>
+
+**논문 그림** — 공개 원고 4쪽 그림 1: 평점 정보를 반영하는 제안 모델의 구조입니다.
+
+[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
+
+
+
+<a name="input-processing-output"></a>
+
+## 🔄 입력·처리·출력
+
+| 단계 | 이 프로젝트에서 다루는 내용 |
+| :--- | :--- |
+| 입력 | 사용자·아이템 상호작용과 평점 |
+| 처리 | HiGSP 기반 두 그래프·필터 점수 결합 |
+| 출력 | 추천 순위와 NDCG·MRR 지표 |
+
+
 
 ---
 

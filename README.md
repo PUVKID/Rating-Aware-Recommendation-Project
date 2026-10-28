@@ -10,11 +10,11 @@
 
 **기술 분류:** 추천 시스템 › 그래프 신호 처리 › 평점 반영 이중 그래프 필터
 
-![Paper](https://img.shields.io/badge/Research-Paper-2563EB?style=flat-square) ![Document](https://img.shields.io/badge/Document-PDF-475569?style=flat-square)
+`논문·연구 자료` `Document`
 
 [원고 읽기](#quick-start) · [저장소 구성](#structure) · [자료·설정](#data)
 
-[예시 이미지](#preview)
+[핵심 구성](#input-processing-output)
 
 <details>
 <summary>📄 원고 제목</summary>
@@ -27,21 +27,11 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 <a name="overview"></a>
 
-## 🗺️ 한눈에 보는 구성
-
-<p align="center"><img src="assets/overview.png" width="960" alt="프로젝트의 입력·처리·출력을 정리한 설명도" /></p>
-보관한 프로젝트 자료의 흐름을 정리한 설명도입니다.
-
 ## ✨ 최종 원고에서 살펴볼 점
 
 상호작용 그래프와 평점 정보를 결합하여 추천 순위를 평가하는 원고입니다.
 
 공개 실행 코드나 데이터 분할 목록은 제공하지 않습니다. 학회지 양식만으로 게재 완료를 뜻하지 않습니다.
-
-
-
-
-
 
 - 두 그래프를 결합하는 설계와 네 데이터셋의 평점·상호작용 구성을 설명합니다.
 - K별 Recall·NDCG·MRR 결과를 구분합니다. 모든 지표가 일괄 개선된 것으로 요약하지 않고 ML-1M의 MRR@10 감소도 함께 읽습니다.
@@ -50,14 +40,16 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 <a name="preview"></a>
 
-## 🖼️ 예시로 보기
+<details>
+<summary>📎 논문 도표와 출처</summary>
 
-<p align="center"><img src="assets/previews/paper-architecture.png" width="793" alt="논문 그림 · Rating-Aware-Recommendation-Project" /></p>
+[📊 원고 도표 보기](assets/previews/paper-architecture.png)
 
 **논문 그림** — 공개 원고 4쪽 그림 1: 평점 정보를 반영하는 제안 모델의 구조입니다.
 
 [근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
 
+</details>
 
 <a name="input-processing-output"></a>
 
@@ -65,9 +57,9 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 | 단계 | 이 프로젝트에서 다루는 내용 |
 | :--- | :--- |
-| 입력 | 사용자·아이템 상호작용과 평점 |
-| 처리 | HiGSP 기반 두 그래프·필터 점수 결합 |
-| 출력 | 추천 순위와 NDCG·MRR 지표 |
+| 📥 입력 | 사용자·아이템 상호작용과 평점 |
+| ⚙️ 처리 | HiGSP 기반 두 그래프·필터 점수 결합 |
+| 📤 출력 | 추천 순위와 NDCG·MRR 지표 |
 
 
 ---

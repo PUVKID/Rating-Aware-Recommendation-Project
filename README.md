@@ -1,23 +1,14 @@
 <div align="center">
 
 <a name="사용자-평점-기반-그래프-추천"></a>
-
-# 🔬 사용자 평점 기반 그래프 추천
-
-**Rating-Aware-Recommendation-Project**
-
-**기술 분류:** 추천 시스템 › 그래프 신호 처리 › 평점 반영 이중 그래프 필터
-
 <a name="사용자-평점-기반-그래프-필터링-추천"></a>
-
-### 🔎 사용자 평점 기반 그래프 필터링 추천
 <a name="performance-improvement-of-recommendation-systems-using-user-evaluation-information"></a>
 
-### 🔎 Performance Improvement of Recommendation Systems using User Evaluation Information
+# ⭐ Rating Aware Recommendation Project
 
-**Rating-Aware Graph Filtering · HiGSP · MovieLens · CiaoDVD**
+사용자 평점을 반영한 그래프 필터로 추천 순위를 만드는 연구입니다.
 
-사용자와 아이템의 상호작용 여부에 평점 정보를 추가하여 추천 순위를 개선하는 공동 연구 원고입니다. 기존 상호작용 그래프와 평점 임계값으로 구성한 그래프를 각각 처리하고 결과를 가중 결합합니다.<br>
+**기술 분류:** 추천 시스템 › 그래프 신호 처리 › 평점 반영 이중 그래프 필터
 
 ![Paper](https://img.shields.io/badge/Research-Paper-2563EB?style=flat-square) ![Document](https://img.shields.io/badge/Document-PDF-475569?style=flat-square)
 
@@ -25,7 +16,37 @@
 
 [예시 이미지](#preview)
 
+<details>
+<summary>📄 원고 제목</summary>
+
+Performance Improvement of Recommendation Systems using User Evaluation Information
+
+</details>
+
 </div>
+
+<a name="overview"></a>
+
+## 🗺️ 한눈에 보는 구성
+
+<p align="center"><img src="assets/overview.png" width="960" alt="프로젝트의 입력·처리·출력을 정리한 설명도" /></p>
+보관한 프로젝트 자료의 흐름을 정리한 설명도입니다.
+
+## ✨ 최종 원고에서 살펴볼 점
+
+상호작용 그래프와 평점 정보를 결합하여 추천 순위를 평가하는 원고입니다.
+
+공개 실행 코드나 데이터 분할 목록은 제공하지 않습니다. 학회지 양식만으로 게재 완료를 뜻하지 않습니다.
+
+
+
+
+
+
+- 두 그래프를 결합하는 설계와 네 데이터셋의 평점·상호작용 구성을 설명합니다.
+- K별 Recall·NDCG·MRR 결과를 구분합니다. 모든 지표가 일괄 개선된 것으로 요약하지 않고 ML-1M의 MRR@10 감소도 함께 읽습니다.
+
+**자료별 안내:** [최종 원고](docs/versions/final-paper.md) · [전체 기록](docs/VERSIONS.md)
 
 <a name="preview"></a>
 

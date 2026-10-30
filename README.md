@@ -25,6 +25,23 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 </div>
 
+## 📄 내 논문 PDF
+
+[현재 원문 PDF·공식 링크 교체 위치](docs/PAPERS.md) · [모든 실제 차수·최종본·전체 비교](docs/REVISION_INDEX.md)
+
+- **최종 원문**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)
+
+공식 공개 URL은 아직 등록하지 않았습니다. 추후 [논문 전용 표](docs/PAPERS.md)의 교체 칸과 이 항목을 함께 갱신합니다.
+
+## 🗂️ 모든 실제 차수와 최종본
+
+| 단계 | 설명 | 파일 종류 | 전체 차이 |
+|---|---|---|---|
+| [1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md) | 동일 폴더 안에서 06.17·06.22·06.29 수정본과 영문 최종본이 이어집니다. 06.17 PDF에는 학회 양식의 예시 저자소개가 남고, 06.29 영문 초록에는 five benchmark datasets라고 쓰지만 본문 실험 표는 네 데이터셋을 제시합니다. 이는 원고 단계의 불일치로 보존하며 실제 다섯 데이터셋 실험을 추가 주장하지 않습니다. 06.22와06.29 수정본은 HWP만 확인되어 원본 fingerprint와 본문 비교로 구별합니다. | hwp·pdf·png·pptx | [직전 단계 비교](docs/revision-diffs/paper-1.diff) |
+| [2차 원고](docs/revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 바로잡고, Ratings2·Ratings5의 임계값2·5, ML-1M MRR@10 감소 예외, 기본5:5 결합 비율 및 참조문헌을 구체화합니다. 그래프 필터 설명도 Linear에서 High-order로 바뀐 부분이 있습니다. 원고 수정이며 새 실험 실행을 확인한 것은 아닙니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/paper-2.diff) |
+| [3차 · 사물인터넷학회 양식 원고](docs/revisions/paper-3.md) | 2차와 해시가 같은 영문 HWP 사본이 함께 남고, 별도 12.hwp/PDF는 한글 제목·국영문 초록과 한국사물인터넷학회 양식으로 재구성합니다. 초록은 F1·MRR·NDCG와 Ratings2 23/24·Ratings5 24/24 비교를 명시합니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/paper-3.diff) |
+| [최종 원고](docs/revisions/final.md) | 3차 12.hwp에서 표의 잘린 NDCG@ 표기를 NDCG@10으로 정리한 차이를 확인했습니다. 최종 PDF의 추천 방법·결과표는 원고 보고값이며 재현 코드·원데이터·새 측정은 제공되지 않습니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/final.diff) |
+
 <a name="overview"></a>
 
 ## ✨ 연구 핵심
@@ -34,7 +51,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 추천 그래프의 구성과 데이터셋별 비교 결과를 원고에 정리했습니다.
 
 - 두 그래프를 결합하는 설계와 네 데이터셋의 평점·상호작용 구성을 설명합니다.
-- K별 Recall·NDCG·MRR을 비교하며, ML-1M에서는 MRR@10이 감소한 결과도 함께 보고합니다.
+- K별 F1·NDCG·MRR을 비교하며, ML-1M에서는 MRR@10이 감소한 결과도 함께 보고합니다.
 
 **자료별 안내:** [최종 원고](docs/versions/final-paper.md) · [전체 기록](docs/VERSIONS.md)
 
@@ -99,7 +116,7 @@ F --> G[추천 순위와 지표 평가]
     └── 최종_논문.pdf
 ```
 
-- [전체 최종 원고](논문/최종_논문.pdf)
+- [전체 최종 원고](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
 
 ## 🧩 평점 정보와 가중 결합
 
@@ -119,7 +136,7 @@ ML-100K, ML-Latest-Small, ML-1M, CiaoDVD를 사용한 비교를 설명합니다.
 <a name="data"></a>
 ## 📊 자료 구성과 결과 해석
 
-연구 원고 한 개를 보존합니다. 추천서비스의 실제 사용자 기록이나 데이터셋 원본은 업로드하지 않습니다. 공개 사본에서는 저자 소개의 개인 얼굴 사진을 제외하고 저자명·연구 본문·도표는 보존하는 구성을 사용합니다.
+1~3차와 최종 원문을 함께 보존합니다. 추천서비스의 실제 사용자 기록이나 데이터셋 원본은 업로드하지 않습니다. 현재 최종 원문은 저자명·공식 소속·이메일·저자소개 사진과 연구 본문·도표를 보존하며 기존 정제 사본은 별도로 남습니다.
 
 <a name="원고가-보고한-결과와-한계"></a>
 

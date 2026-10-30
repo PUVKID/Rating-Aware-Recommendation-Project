@@ -1,0 +1,34 @@
+{
+  "stage": "3차 · 사물인터넷학회 양식 원고",
+  "previous": "2차 원고",
+  "files": {
+    "원고단계/3차/원문_원고.pdf": {
+      "bytes": 520699,
+      "sha256": "205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21"
+    },
+    "원고단계/3차/12.hwp": {
+      "bytes": 739328,
+      "sha256": "aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b"
+    },
+    "원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp": {
+      "bytes": 287232,
+      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082"
+    },
+    "원고단계/3차/논문 최종 투고 양식.hwp": {
+      "bytes": 65536,
+      "sha256": "de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373"
+    },
+    "원고단계/3차/논문투고양식_2026.hwp": {
+      "bytes": 125440,
+      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb"
+    },
+    "원고단계/관련문서/3차/논문 최종 투고 양식.pdf": {
+      "bytes": 276627,
+      "sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e"
+    },
+    "원고단계/관련문서/3차/논문투고양식_2026.pdf": {
+      "bytes": 255450,
+      "sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697"
+    }
+  }
+}

@@ -1,0 +1,2282 @@
+# 1차 · 06.17/06.22/06.29 원고 묶음 -> 2차 원고
+# 공백·주석·개행을 무시하지 않습니다. PDF 추출 텍스트는 배치·글꼴 비교를 대신하지 않습니다. 바이너리는 크기·SHA-256으로 비교합니다. ipynb의 바이너리 이미지 출력만 크기·SHA·원문 링크로 표시하며 코드·Markdown·수치·설정·그 밖의 JSON 텍스트는 전체 비교합니다.
+# 이전 원고단계/1차/06.17_원고.pdf 990860 2cbeeb844d29e0b2ff9678e53af9e125ddac87f5cdc44262e984203891afa99f
+# 이전 원고단계/1차/06.29_영문_원고.pdf 390409 5ffd68fd8e8cffa632d2f9ec30cdb96481f26507ae54110076fc3bd1f1645b71
+# 이전 원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp 1359360 76d62566214e255710bfcd65a195238fc8d06fafa56be8245c0ef391ba724752
+# 이전 원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp 858112 884e8c7373aa44f1cdf2bb7327bfd4132414e6f18a33f589dc1f9735a7c60656
+# 이전 원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp 262144 c0c6ed9a59d60c7687e4a91d028e05f53f9e19738ad34ddb3ce168f387f0d982
+# 이전 원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp 286208 a7a1c23e62df80ee179f456186ff2ccf0b412f79c90dd7b68566ed572c34545d
+# 이전 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp 282624 dc3b2ed80ba74003b4cfa57ed5e23be51e1d77a522579b5278b579d1d914e481
+# 이전 원고단계/1차/논문투고양식_2026.hwp 125440 78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb
+# 이전 원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx 406977 9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7
+# 이전 원고단계/1차/그림/논문 그림.pptx 406977 9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7
+# 이전 원고단계/1차/그림/그림1.png 21190 97d5f42dcb92f7f411a0d0f4e75872e7e12c7cab4143ba8e4676054f4b61d87b
+# 이전 원고단계/1차/그림/그림10.png 110487 4a518bc608a8351006efa09285f7958d0b1cf186cd82bfcf756c807ce3c93ccf
+# 이전 원고단계/1차/그림/그림2.png 226711 102a5875e58a27da7dcefe30d6046471b2734321b437cc8e5fdd12067bcadd00
+# 이전 원고단계/1차/그림/그림3.png 107576 6692573be67dd04dd92ffef7a8e996d99e1e04d3317cf9b86d40a8c66eaff1b5
+# 이전 원고단계/1차/그림/그림4.png 37464 2759ef8c71dc5aaa26a4ee5d2829f6f4ff36cd94a7b8320829c14a8b544be05d
+# 이전 원고단계/1차/그림/그림5.png 18109 31fc8d8ab585cedfd7d7f6ddc3b624040cc9701a3ed3915a57e1dc0b633a1d7d
+# 이전 원고단계/1차/그림/그림6.png 59047 17398d61ac5be83e00b3ade53a4e9e90ee6fd3e3b13d251d222f6e57b2b59955
+# 이전 원고단계/1차/그림/그림7.png 95822 55a6fde9d752c09c3693e066559db00beff6867e382bb154b22b67f972d1be48
+# 이전 원고단계/1차/그림/그림8.png 112486 0a7b6f63201f8da42861f28d1c40c44689e10eb9d2511e65c9c8dc0222e8b649
+# 이전 원고단계/1차/그림/그림9.png 143451 65c4b6c50432d9bd3d94542a8d2e4e27d538795caf31e3c508afc449dc3951bd
+# 현재 원고단계/2차/원고.pdf 402989 15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc
+# 현재 원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp 287232 f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082
+# 현재 원고단계/2차/심사답변서 2.hwp 86528 362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac
+Binary files /dev/null and 원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp differ
+Binary files 원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp and /dev/null differ
+Binary files 원고단계/1차/그림/논문 그림.pptx and /dev/null differ
+Binary files 원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx and /dev/null differ
+Binary files 원고단계/1차/그림/그림1.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림10.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림2.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림3.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림4.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림5.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림6.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림7.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림8.png and /dev/null differ
+Binary files 원고단계/1차/그림/그림9.png and /dev/null differ
+Binary files /dev/null and 원고단계/2차/심사답변서 2.hwp differ
+Binary files 원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp and /dev/null differ
+Binary files 원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp and /dev/null differ
+Binary files 원고단계/1차/논문투고양식_2026.hwp and /dev/null differ
+Binary files 원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp and /dev/null differ
+Binary files 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp and /dev/null differ
+--- 원고단계/1차/06.17_원고.pdf
++++ 원고단계/2차/원고.pdf
+@@ -9,18 +9,17 @@
+ Hee-Chan Kim *, 
+ 1)Yun-suk Kwak **, Namgi Kim ***
+ *Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                            
+-**Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                           
++**Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                        
+ ***Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
+ [Abstract]
+ Graph Signal Processing (GSP)-based recommender systems have attracted attention due to their high 
+ computational efficiency compared with Graph Convolutional Network (GCN)-based approaches. Howeve
+ r, existing GSP-based methods do not explicitly utilize user rating information when constructing interact
+ ion graphs. To address this limitation, this paper proposes a Rating-Aware Graph Filtering method that i
+-ncorporates user ratings into graph filtering. The proposed method was evaluated on five benchmark dat
+-asets: ML-100K, ML-Latest-Small, ML-1M, FilmTrust, and CiaoDVD. Experimental results show consist
+-ent improvements over HiGSP, achieving up to 4.90% improvement in F1@5, 11.03% improvement in 
+-MRR@10, and 9.31% improvement in NDCG@10. These results demonstrate that incorporating user rati
+-ng information effectively enhances recommendation performance in GSP-based recommender systems.
++ncorporates user ratings into graph filtering. The proposed method was evaluated on four benchmark dat
++asets: ML-100K, ML-Latest-Small, ML-1M, and CiaoDVD. Most scores improve over HiGSP, except fo
++r a slight MRR@10 decrease with Ratings2 on ML-1M. User ratings can therefore improve recommend
++ation performance.
+ ▸Key words : Recommendation system, Graph signal processing, Graph filtering, User rating, HiGSP
+ [요   약]
+ 그래프 신호 처리(Graph Signal Processing, GSP) 기반 추천시스템은 그래프 합성곱 신경망(Graph 
+@@ -28,12 +27,10 @@
+ 점 정보를 직접적으로 반영하지 못하는 한계를 가진다. 본 논문에서는 사용자 평점을 반영한 Rati
+ ng-Aware Graph Filtering 기법을 제안하며, 평점 기반 인접행렬과 기존 상호작용 기반 인접행렬을 
+ 결합하여 그래프 필터링을 수행한다. 제안 기법의 성능 검증을 위해 ML-100K, ML-Latest-Small, M
+-L-1M, FilmTrust, CiaoDVD 데이터셋에서 실험을 수행하였다. 실험 결과, 기존 HiGSP 모델 대비 최
+-대 F1@5는 4.90%, MRR@10은 11.03%, NDCG@10은 9.31% 향상되었으며, 이를 통해 사용자 평점 
+-정보를 활용한 그래프 필터링이 추천 성능 향상에 효과적임을 확인하였다.
++L-1M, CiaoDVD 데이터셋에서 실험을 수행하였다. 실험 결과, 대부분의 지표에서 HiGSP보다 높은 
++성능을 보였으나, Ratings2의 ML-1M MRR@10에서는 소폭 감소하였다.
+ ▸주제어 : 추천시스템, 그래프 신호 처리, 그래프 필터링, 사용자 평점, HiGSP
+-∙First Author: Hee-Chan Kim, Corresponding Author: Namgi Kim
+-  *Hee-Chan Kim(이메일@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
++  *Hee-Chan Kim(train1212@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+   **Yun-suk Kwak(lukeyun@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+   ***Namgi Kim(ngkim@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+ "This paper is an extended version of a paper presented at the IEEE ICUFN held in Lisbon, Portugal in 2025."
+@@ -44,75 +41,85 @@
+ === 2쪽 ===
+ 2   Performance Improvement of Recommendation Systems using User Evaluation Information
+ I. Introduction
+-최근 인터넷 환경의 빠른 발전과 모바일 기기의 보급으
+-로 인해 다양한 정보와 콘텐츠의 양이 폭발적으로 증가하
+-고 있다. 특히 전자상거래 서비스, 스트리밍 서비스, 소셜 
+-미디어 서비스 등 다양한 서비스 분야에서의 시장이 성장
+-함에 따라 제공되는 상품과 콘텐츠가 넘쳐나면서 사용자
+-들이 자신에게 맞는 선택을 하는 것이 점점 더 어려워지고 
+-있다. 이러한 배경으로 인해 사용자의 선택을 도와줄 기술
+-인 추천시스템이 등장하였다. 추천 시스템은 정보 필터링 
+-(Information Filtering) 기술의 일종으로, 사용자가 관심
+-을 가질 만한 정보를 사용자에게 추천함으로써 사용자의 
+-만족도를 높이는 것을 목표로 한다 [1][2][3][4]. 따라서 추
+-천 시스템은 정보 과부하 문제를 해소하는데 기여하며, 사
+-용자와 서비스 제공자 모두에게 긍정적인 가치를 제공한
+-다.
+-추천시스템에서 가장 중요한 두 가지 요소는 학습 속도
+-와 정확도이다. 추천시스템에서의 학습 속도는 새로운 데
+-이터에 대해 추천시스템 모델이 얼마나 빠르게 학습하여 
+-사용자에게 적합한 정보를 실시간으로 제공할 수 있는 지
+-를 의미한다. 사용자의 선호도와 행동 패턴은 시간에 따라 
+-빠르게 변하기 때문에 추천 시스템이 이러한 변화를 빠르
+-게 반영하지 못하면 사용자에게 오래된 정보를 제공하게 
+-되어 사용자의 만족도를 저하시키는 요인이 된다. 또, 추
+-천시스템에서의 정확도는 추천 시스템이 사용자에게 얼마
+-나 관련성이 높고 적절한 정보를 제공하는 지 나타내는 중
+-요한 지표이다. 정확도가 높은 추천 시스템은 사용자의 취
+-향을 잘 반영하여 개인 맞춤형 콘텐츠를 제공할 수 있다 
+-[5][6][7][8][9][10].
+-이를 위해 본 연구는 그래프 신호 처리(Graph Signal 
+-Processing, GSP) 기반 추천시스템에서 사용자의 평점을 
+-반영하여 성능을 향상시키는 새로운 방법을 제안한다. 기
+-존 그래프 합성곱 신경망(Graph Convolution Network, 
+-GCN)기반 추천시스템은 그래프 합성곱 연산을 통해 복잡
+-한 그래프 구조를 효과적으로 다룰 수 있지만, 가중치 매
+-개변수가 많고 이를 최적화시키는데 소요되는 학습시간이 
+-매우 길다는 한계가 있다 [12][13][14][15][16]. 이에 추천
+-시스템 모델 업데이트에 걸리는 시간이 길다는 단점이 존
+-재한다. 이를 극복하기 위해, 보다 단순한 관계를 처리하
+-는데 효율적인 그래프 신호 처리 기반 추천시스템이 등장
+-하였다 [17][18][19][20][21][22].
+-그래프 신호 처리 기반 추천시스템은 Low-pass Filter
+-를 통해 연산을 수행하는데 이는 단순한 행렬 연산으로 가
+-중치 매개변수의 학습이 필요 없어 빠르게 연산이 가능하
+-다. 따라서 추천시스템 모델을 빠르게 업데이트 할 수 있
+-다. 정확도 또한 그래프 합성곱 신경망 기반 추천시스템과 
+-비교해보았을 때 비슷하거나 더 높은 수치를 보인다 [19]
+-[20][21][22].
+-하지만 기존 그래프 신호 처리 기반 추천시스템에서는 
+-사용자가 높은 평점을 준 아이템과 낮은 평점을 준 아이템
+-에 대해 차등을 두지 않고 동등하게 모델에 반영한다 [22]. 
+-따라서 본 연구에서는 보다 개인화된 추천을 위해 높은 사
+-용자의 평점을 모델에 반영하는 방법을 제안한다.
++With the rapid advancement of the Internet and t
++he widespread adoption of mobile devices, the amo
++unt of available information and content has increa
++sed dramatically. In particular, as markets in vario
++us service domains such as e-commerce, streamin
++g services, and social media continue to expand, th
++e overwhelming abundance of products and content 
++has made it increasingly difficult for users to identi
++fy items that best match their preferences. In respo
++nse to this challenge, recommender systems have e
++merged as a technology that assists users in makin
++g appropriate choices. A recommender system is a 
++type of Information Filtering technology that aims t
++o improve user satisfaction by recommending infor
++mation that users are likely to find interesting [1][2]
++[3][4]. Therefore, recommender systems contribute 
++to alleviating the problem of information overload 
++while providing significant benefits to both users an
++d service providers.
++The two most important factors in recommender 
++systems are training speed and recommendation ac
++curacy. Training speed refers to how quickly a reco
++mmender system can learn from newly acquired da
++ta and provide users with appropriate recommenda
++tions in real time. Since user preferences and beha
++vioral patterns change rapidly over time, a recomm
++ender system that fails to promptly reflect these ch
++anges may provide outdated recommendations, ther
++eby reducing user satisfaction. In addition, recomm
++endation accuracy is an important metric that indic
++ates how relevant and appropriate the recommende
++d items are for individual users. A highly accurate 
++recommender system effectively captures user pref
++erences and delivers personalized content [5][6][7]
++[8][9][10].
++To address these issues, this study proposes a n
++ovel method that improves the performance of a Gr
++aph Signal Processing (GSP)-based recommender sy
++stem by incorporating user rating information. Con
++ventional Graph Convolution Network (GCN)-based 
++recommender systems effectively model complex gr
++aph structures through graph convolution operatio
++ns. However, they require a large number of traina
++ble parameters, and the optimization process involv
++es substantial computational cost and long training 
++time [12][13][14][15][16]. As a result, updating the re
++commender system model is time-consuming. To o
++vercome this limitation, Graph Signal Processing-b
++ased recommender systems have been introduced a
++s an efficient alternative for modeling relatively sim
++ple relationships [17][18][19][20][21][22].
++Graph Signal Processing-based recommender sys
++tems perform recommendation through a low-pass 
++filter, which consists of simple matrix operations an
++d does not require the learning of trainable weight 
++parameters. Consequently, the model can be updat
++ed efficiently with significantly lower computational 
++overhead. Furthermore, their recommendation acc
++uracy is comparable to or even higher than that of 
++Graph Convolution Network-based recommender sy
++stems [19][20][21][22].
++However, existing Graph Signal Processing-based 
++recommender systems treat items with high user ra
++tings and those with low user ratings equally witho
++ut distinguishing between them when constructing t
++he model [22]. Therefore, this study proposes a met
++hod that incorporates users' high rating informatio
++n into the model to achieve more personalized reco
++mmendations.
+ II. Related Works
+-<그림 1> 추천시스템의추천방법
+-추천 시스템은 콘텐츠 기반 필터링(Content-Based Fil
+-tering) 방식, 협업 필터링(Collaborative Filtering) 방식
+-이 있으며, 콘텐츠 기반 필터링 방법과 협업 필터링 방법
+-을 혼합한 하이브리드 필터링(Hybrid Filtering) 방식이 
+-존재한다. [1][2][3][4]
+-콘텐츠 기반 필터링은 인지 필터링(Cognitive Filterin
+-g)이라고도 불리며 아이템 자체 특징에 초점을 두고 사용
+-자가 선호할 가능성이 높은 아이템을 추천하는 방식이다. 
+-즉, 사용자가 과거에 선호했던 아이템의 특징을 분석하여 
+-이와 유사한 특징을 가진 아이템을 추천하는 방식이다. 이
+-러한 콘텐츠 기반 필터링의 장점은 다른 사용자들의 데이
+-터 없이 아이템의 특징만으로 새로운 아이템의 추천이 가
+-능하다는 점에 있다. 하지만 해당 방식은 아이템 자체 특
+-징을 명확히 정의하기 어렵고, 특징을 잘 추출하더라도 사
+-용자의 관심사를 폭넓게 반영하는데 한계가 있다는 단점
+-이 있다.
++Recommender systems are generally classified int
++o Content-Based Filtering, Collaborative Filtering, a
++nd Hybrid Filtering, which combines the strengths 
++of both approaches [1][2][3][4].
++Content-Based Filtering recommends items with c
++haracteristics similar to those previously preferred 
++by the user by utilizing item attributes. Although it 
++can generate recommendations without relying on 
++other users' data, it is limited by the difficulty of ex
+ 
+ === 3쪽 ===
+ JKSCI
+@@ -120,148 +127,164 @@
+ Journal of The Korea Society of Computer and Information 
+ Vol. 24 No. 1, pp. 0-0, January 2019
+ https://doi.org/10.9708/jksci.2019.24.01.000
+-협업 필터링은 특정 아이템에 대해 선호도가 유사한 사
+-용자들은 다른 아이템에 대해서도 비슷한 선호도를 보일 
+-것이라는 기본 전제를 바탕으로 사용자와 아이템 간의 유
+-사도를 기반으로 추천하는 방식이다. [3][5][6][8][9][10][1
+-1] 해당 방식은 사용자 기반 협업 필터링과 아이템 기반 
+-협업 필터링으로 나눌 수 있다.
+-<그림 2> 사용자 기반과 아이템 기반 협업 필터링의 차이
+-사용자 기반 협업 필터링은 사용자 간 유사성에 초점을 
+-둔 방식으로 유사한 취향을 가진 다른 사용자의 선호 데이
+-터를 바탕으로 추천한다. [7] 아이템 기반 협업 필터링은 
+-아이템 간 유사성에 초점을 둔 방식으로 특정 사용자가 선
+-호한 아이템과 유사한 아이템을 추천한다. 이러한 협업 필
+-터링 방식의 장점은 아이템 자체의 특징이 없어도 추천할 
+-수 있고, 사용자의 관심사를 폭넓게 확장할 수 있다. 하지
+-만 해당 방식은 콜드 스타트 문제(Cold Start Problem)와 
+-데이터 희소성 문제(Data Sparsity Problem)에 취약하
+-다. 새로운 사용자나 새로운 아이템에 대한 충분한 데이터
+-가 없으면 정확한 추천을 하기 어려우며, 특히 사용자와 
+-아이템이 매우 많은 대규모 추천시스템에서 사용자와 아
+-이템 간의 상호작용 데이터가 드물어져 추천 성능이 낮아
+-질 수 있다. 또한, 사용자-아이템 간 상호작용 데이터가 
+-많아질수록 수행할 연산이 많아져 처리 시간이 오래 걸린
+-다는 단점이 있다.
+-하이브리드 필터링은 이러한 콘텐츠 기반 필터링과 협
+-업 필터링의 장점을 결합하여 추천 성능을 높이기 위한 방
+-식이다. 협업 필터링 또는 콘텐츠 기반 필터링 단독으로 
+-문제를 해결하기 어려울 때 하이브리드 필터링이 도입된
+-다. 해당 방법은 앞서 소개한 두 방식의 단점을 보완하여 
+-더 정확한 추천을 가능하게 한다. 특히 협업 필터링의 콜
+-트 스타트 문제를 콘텐츠 기반 필터링으로 보완이 가능하
+-다. 새로운 사용자에 대한 데이터가 부족할 때는 사용자가 
+-선호할 가능성이 높은 아이템의 특징을 활용한 콘텐츠 기
+-반 추천을 많이 활용하고, 상호작용 데이터가 충분히 쌓이
+-면 협업 필터링 방식을 수행하여 콘텐츠 기반 필터링의 한
+-계인 사용자의 관심사를 폭 넓게 반영하지 못하는 문제를 
+-해결할 수 있다. 그러나 두 방식을 결합하는 방식은 실제
+-로 구현이 어렵고, 연산량이 이전 방식보다 더 증가한다는 
+-단점이 있다. 딥러닝을 도입한 협업 필터링의 성공 이후 
+-복잡한 그래프 구조를 다루는 데 효과적인 그래프 합성곱 
+-신경망(Graph Convolution Network, GCN) [12]을 협업 
+-필터링에 적용하려는 연구가 수행되었다. 그 중 대표적인 
+-연구에는 NGCF [13], LightGCN [14], SimGCL [15], XSi
+-mGCL [16] 등이 있다.
+-그래프 신호 처리(Graph Signal Processing) [17][18]
+-는 전기, 전자 분야에서 널리 알려진 개념인 신호 처리(Sig
+-nal Processing)에서의 sampling, convolution, freque
+-ncy-domain filtering을 그래프 신호로 확장함으로써, 데
+-이터의 내재적인 구조와 기하학적 특성을 활용하는 방식
+-이다. 그래프 신호 처리의 주요 개념은 그래프 신호(Grap
+-h Signal), 그래프 라플라시안 행렬(Graph Laplacian M
+-atrix), 그래프 필터링(Graph Filtering), 그래프 푸리에 
+-변환(Graph Fourier Transform, GFT)이 있다. 여기서 
+-그래프 라플라시안 행렬은 고유값 분해(Eigendecomposit
+-ion)을 통해 그래프에서의 주파수를 정의하고 신호의 부드
+-러움(smoothness) 정도를 측정하여 주파수 영역에서 필
+-터링을 수행할 수 있도록 한다. 
+-<그림 3> 그래프 신호 처리의 그래프 필터링 과정
+-그래프 필터링은 그래프 라플라시안 행렬에서 고유값 
+-분해를 수행하여 얻어진 그래프의 고유벡터(eigen vecto
+-r)와 고유값(eigen value)을 이용하여 신호를 필터링하는 
+-과정이다. 특히 Low-pass Filter를 사용하여 고주파 성분
+-을 Filter-out시켜 신호의 변동을 줄여 유사성을 강조하는
+-데 사용될 수 있다.
+-이러한 그래프 신호 처리에서의 그래프 필터링은 다음
++tracting item features and its inability to fully captu
++re users' diverse interests.
++Collaborative Filtering is based on the assumptio
++n that users with similar preferences tend to favor 
++similar items [3][5][6][8][9][10][11]. It is categorized i
++nto User-Based and Item-Based Collaborative Filteri
++ng [7]. This approach does not require item feature 
++information and can effectively discover users' pote
++ntial interests. However, it suffers from the Cold St
++art Problem, the Data Sparsity Problem, and increa
++sing computational complexity as user–item interac
++tions grow.
++Hybrid Filtering combines Content-Based and Col
++laborative Filtering to improve recommendation per
++formance. It can alleviate the Cold Start Problem w
++hile enhancing recommendation diversity, although 
++it introduces higher model complexity and computa
++tional cost.
++With the advancement of deep learning-based Co
++llaborative Filtering, Graph Convolution Networks 
++(GCNs) have been widely applied to recommender s
++ystems [12]. Representative models include NGCF [1
++3], LightGCN [14], SimGCL [15], and XSimGCL [16].
++Graph Signal Processing (GSP) extends conventio
++nal signal processing to graph-structured data by e
++xploiting graph topology [17][18]. Its core concepts i
++nclude Graph Signals, the Graph Laplacian Matrix, 
++Graph Filtering, and the Graph Fourier Transform 
++(GFT). In particular, Graph Filtering transforms gra
++ph signals into the frequency domain, where Low-p
++ass Filters suppress high-frequency components w
++hile preserving the similarities among neighboring 
++nodes.
++GF-CF (Graph Filter-based Collaborative Filterin
++g) is a representative recommender system based o
++n Graph Signal Processing [19]. To capture user–ite
++m similarities, GF-CF employs both Linear Low-pas
++s and Ideal Low-pass Filters. Subsequently, several 
++improved models were proposed, including PGSP, w
++hich incorporates richer user information [20], Tur
++bo-CF, which improves computational efficiency [2
++1], and HiGSP, which introduces hierarchical user c
++lustering before graph filtering [22].
++This study is based on HiGSP, which achieved sta
++te-of-the-art performance among Graph Signal Pro
++cessing-based recommender systems as of 2024. Hi
++GSP combines a cluster-based filtering module with 
++a global-aware filtering module consisting of an Ide
++al Low-pass Filter and a High-order Low-pass Filte
++r to effectively model user preferences and predict 
++future interactions.
++A previous study [19] compared the Graph Convo
++lution Network-based model LightGCN with the Gra
++ph Signal Processing-based model GF-CF. Since GF
++-CF operates solely through matrix operations with
++out trainable parameters, it achieves significantly h
++igher computational efficiency while maintaining co
++mparable or even superior recommendation perfor
++mance on the Yelp2018 and Amazon-book datasets. 
++Motivated by these advantages, this study investigat
++es whether incorporating user rating information c
++an improve the recommendation quality of a HiGSP
++-based framework.
++III. The Proposed Scheme
++Existing Graph Signal Processing-based recomme
++nder systems, including HiGSP, construct the User I
++nteraction Matrix for building the adjacency matrix 
++by considering only whether an interaction exists b
++etween a user and an item, without taking user rati
++ng information into account [19][20][21][22]. This ap
++proach is based on the assumption that users inter
++act more frequently with items they prefer. Howeve
++r, in real-world scenarios, users may repeatedly int
++eract with items to which they assign low ratings, w
++hile interacting less frequently with items they rate 
++highly. Consequently, an adjacency matrix construc
++ted solely from interaction information may fail to 
++adequately reflect users' actual preferences, potenti
++ally leading to degraded recommendation performa
++nce.
++To address this limitation, this study proposes a 
++method that additionally incorporates user rating in
+ 
+ === 4쪽 ===
+ 4   Performance Improvement of Recommendation Systems using User Evaluation Information
+-과 같은 과정을 거친다. 먼저, 그래프의 각 노드에 신호 값
+-을 할당하여 그래프 신호를 정의한다. 그래프 신호가 정의
+-되면 이 그래프에서 라플라시안 행렬을 구하고 고유값 분
+-해를 통해 고유벡터와 고유값을 얻는다. 여기서 그래프 신
+-호에 그래프 푸리에 변환을 수행한다. 그 다음 변환된 Fre
+-quency Domain에서 필터를 적용해 특정 주파수 대역을 
+-강조하거나 제거한다. 즉, 필터링을 수행하는 함수를 통해 
+-그래프에서의 필터링 연산을 수행한다. 이 때, 저주파 성
+-분만을 얻고 싶다면 고주파 영역을 filter out 시키는 Low
+--pass Filter를 통해 필터링 연산을 수행하여 고주파 영역
+-을 제거한다. 그 다음 그래프 도메인으로 다시 변환하는 
+-푸리에 역변환 연산을 수행하여 그래프 필터링 과정이 완
+-료한다. 이러한 과정을 통해 특정 주파수 대역의 신호를 
+-선택적으로 강조하거나 억제함으로써 원하는 특성을 갖는 
+-그래프 신호를 얻을 수 있다.
+-앞서 살펴본 그래프 신호 처리를 협업 필터링에 적용한 
+-모델이 GF-CF (Graph Filter based Collaborative Filte
+-ring) [19]이다. 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-<수식 1> GF-CF
+-한편, 협업 필터링에서는 사용자와 사용자, 아이템과 아
+-이템의 유사도가 중요하다. 따라서, 그래프 신호 처리 기
+-법을 협업 필터링에 사용하기 위해서는 low frequency를 
+-강조하기 위한 Low-pass Filter를 사용하는 것이 중요하
+-다. 따라서 GF-CF에서는 Linear Low-pass Filter와 Ide
+-al Low-pass Filter를 사용하였다.
+- 
+-
+-<수식 2> Linear Low-pass Filter
+-
+-
+-
+-
+-
+-
+-
+-<수식 3> Ideal Low-pass Filter
+-GF-CF의 성공 이후 다양한 후속 연구가 진행되었다. 
+-그 중에는 사용자 정보를 풍부하게 만들기 위해 그래프를 
+-다시 정의한 모델인 PGSP (Personalized Graph Signal 
+-Processing) [20], GF-CF에서 Ablation Study를 통해 
+-더 빠른 연산을 수행하기 위한 Turbo-CF [21], 유사한 사
+-용자끼리 클러스터링을 하여 필터링 연산을 적용한 HiGS
+-P(Hierarchical Graph Signal Processing) [22] 등이 있
+-다. 본 연구의 제안 모델은 2024년 기준 단일 도메인에서 
+-뛰어난 성능을 달성한 모델인 HiGSP에 기반한다.
+-<그림 4> HiGSP의 모델 구조
+-HiGSP는 그래프 신호 처리 기반 추천시스템으로 유사
+-한 선호도를 가진 사용자들을 찾아내기 위해 사용자들을 
+-클러스터링하고 필터링 연산을 거치는 클러스터 기반 필
+-터 모듈과, 클러스터 기반 필터 모듈을 보완하는 전역 인
+-식 필터 모듈인 Ideal Low-pass Filter, High-order Lo
+-w-pass Filter을 추가하였다. 
+-
+-
+-
+-<수식 4> High-order Low-pass Filter
+-즉, 예측을 수행하기 위해 클러스터 기반 필터 모듈과 
+-전역 인식 필터 모듈을 선형 결합하여 사용자에 맞는 상호
+-작용 패턴을 인식하여 사용자 선호도를 모델링하여 사용
+-자의 미래 상호작용을 더 정확하게 인식하는 것이다.
+-[19]에서 밝힌 바와 같이 그래프 합성곱 신경망의 대표
+-적인 모델인 LightGCN과 그래프 신호 처리 기반의 대표 
+-모델인 GF-CF와의 학습속도 및 성능 차이는 크다. GF-C
+-F는 LightGCN과 달리 학습해야하는 파라미터가 없고 행
+-렬 연산만이 존재하므로 복잡한 학습 과정없이 빠르게 모
+-델 학습이 가능하다는 장점을 가진다. 
++formation during the construction of the User Inter
++action Matrix. Specifically, an observed user–item i
++nteraction is included in the rating-based interactio
++n matrix only when its rating is greater than or equ
++al to a threshold N. In the results reported in Secti
++on IV, N = 2 and N = 5 are denoted as Ratings2 and 
++Ratings5, respectively. This approach aims to stren
++gthen the signals of users' preferred items and imp
++rove personalized recommendation performance.
++However, using only the rating-based adjacency 
++matrix may result in information loss because inter
++actions associated with low ratings are excluded. T
++o overcome this issue, this study utilizes both the c
++onventional interaction-based adjacency matrix and 
++the proposed rating-based adjacency matrix. Graph 
++filtering is independently performed on each adjace
++ncy matrix, and the resulting representations are c
++ombined using a weighted aggregation strategy. Thi
++s approach effectively incorporates user preference 
++information while minimizing information loss [17][1
++8]. Furthermore, the proposed combination framew
++ork provides an ensemble effect. Section IV compar
++es the recommendation performance of the propos
++ed method with that of HiGSP under rating threshol
++ds of 2 and 5.
++Figure 1. Architecture of the Proposed Model
++Figure 1 illustrates the overall architecture of the 
++proposed model. The framework consists of two ma
++in components. The lower branch performs graph f
++iltering in the same manner as the original HiGSP 
++model, while the upper branch performs graph filte
++ring using the newly constructed adjacency matrix 
++proposed in this study [22]. By combining these two 
++branches, the proposed model alleviates the inform
++ation loss problem while achieving more personaliz
++ed recommendations and benefiting from an ensem
++ble effect.
++The lower branch of Figure 1 constructs the adja
++cency matrix using the same procedure as the origi
++nal HiGSP model to prevent information loss cause
++d by the proposed method. After constructing the a
++djacency matrix, clustering is performed to group s
++imilar users, followed by the application of a High-
++order Low-pass Filter to compute the rating scores. 
++Subsequently, the original adjacency matrix is proc
++essed using an Ideal Low-pass Filter and a High-or
++der Low-pass Filter, respectively, to generate additi
++onal rating scores [22]. Through the application of 
++multiple Low-pass Filters, the model effectively cap
++tures user preferences and improves recommendati
++on quality.
++The upper branch of Figure 1 constructs a new a
++djacency matrix using the proposed method and pe
++rforms graph filtering based on this newly generate
++d graph structure. Similar to the lower branch, clu
++stering is first applied to group users with similar p
++references, followed by a High-order Low-pass Filte
++r to compute rating scores. The proposed adjacenc
++y matrix is then processed using both an Ideal Low
++-pass Filter and a High-order Low-pass Filter to ge
++nerate rating scores. Unlike conventional approach
++es that rely solely on interaction information, the p
++roposed method incorporates users' high rating inf
++ormation into the graph filtering process, enabling 
++more accurate and personalized recommendations. 
++In the final stage, the four rating matrices generate
++d from the above procedures are combined using w
++eighted aggregation to produce the final rating mat
++rix. Through this framework, the proposed model a
++ddresses the limitations of the original HiGSP while 
++simultaneously benefiting from an ensemble effect, 
++thereby improving recommendation performance.
++The proposed method introduces additional comp
+ 
+ === 5쪽 ===
+ JKSCI
+@@ -269,127 +292,59 @@
+ Journal of The Korea Society of Computer and Information 
+ Vol. 24 No. 1, pp. 0-0, January 2019
+ https://doi.org/10.9708/jksci.2019.24.01.000
+-<그림 5> Gowalla 데이터셋에서 LightGCN과 GF-CF의 차이
+-<그림 6> Yelp2018 데이터셋에서 LightGCN과 GF-CF의 차이
+-<그림 7> Amazon-book 데이터셋에서 LightGCN과 GF-CF의 
+-차이
+-또한 추천 정확도 측면에서 GF-CF는 LightGCN에 비
+-해 Gowalla 데이터셋을 제외한 Yelp2018 데이터셋, Ama
+-zon-book 데이터셋에서 우위에 있음을 알 수 있다. 이 실
+-험을 통해 그래프 신호 처리 기반의 추천시스템이 그래프 
+-합성곱 신경망 기반의 추천시스템보다 학습속도면에서는 
+-매우 효율적임을 알 수 있다. 따라서 본 연구에서는 그래
+-프 합성곱 신경망 기반 추천 시스템보다 학습속도 면에서 
+-압도적으로 효율적인 그래프 신호 처리 기반 추천시스템
+-에서의 추천 성능 향상 방법을 제안하고자 한다.
+-III. The Proposed Scheme
+-
+-
+-
+-
+-
+-<수식 5> HiGSP에서 정의하는 User Interaction Matrix
+-HiGSP 모델을 포함한 기존의 그래프 신호 처리 기반 
+-추천시스템에서는 인접행렬을 구축하기 위해 User Intera
+-ction Matrix를 먼저 생성하는데, 사용화의 평점 정보를 
+-반영하지 않고 단순히 사용자와 아이템의 상호작용 유무
+-에 따라 생성한다 [19][20][21][22]. 이러한 방법은 사용자
+-가 좋은 평점을 남긴 아이템은 더 많이 소비하고 그렇지 
+-않은 아이템은 덜 소비할 가능성이 높다는 가정 하에 수행
+-되는 것으로 사료된다. 하지만 복잡한 현실세계에서는 이 
+-가정이 반드시 맞다는 보장을 하기 어렵다. 예를 들어, 사
+-용자가 어떤 아이템에 낮은 평점을 부여하였음에도 같은 
+-아이템과 여러 번 상호작용하거나, 높은 평점을 부여했다
+-고 할 지라도 여러 번 상호작용하지 않는 상황이 많이 존
+-재하기 때문이다. 따라서 현실세계의 이러한 복잡성을 고
+-려할 때 단순히 사용자와 아이템의 상호작용 유무를 기준
+-으로 인접행렬을 만드는 기존의 방식은 실제 추천 성능을 
+-저하시킬 가능성이 있으며 사용자의 복잡한 선호 패턴을 
+-제대로 반영하지 못할 가능성이 있다.
+-
+-′
+-
+-
+-≥
+-
+-
+-<수식 6> 본 연구에서 제안하는 추가적인 User Interaciton 
+-Matrix
+-이에 본 연구에서는 User Interaction Matrix 생성 시 
+-사용자의 평점을 반영하는 방식을 기존 방식에 더하여 추
+-가로 사용할 것을 제안한다. 제안 방법은 User Interactio
+-n Matrix를 통해 새로운 인접행렬을 구축 시 사용자가 아
+-이템에 준 평점이 N점 이상(제안 평점은 3점 이상)일 경우
+-에만 사용자-아이템 상호작용으로 연결시켜주고 그렇지 
+-않으면 연결시키지 않는 방식으로 추천을 수행한다. 이 방
+-법은 사용자가 높은 평점을 남긴 아이템의 신호를 더 강하
+-게 만들게 된다. 즉, 평점이 높은 아이템에 더 높은 가중치
+-를 주게 되는 효과를 주어 보다 개인화된 추천을 가능하게 
+-한다.
+-
+-=== 6쪽 ===
+-6   Performance Improvement of Recommendation Systems using User Evaluation Information
+-다만, 이렇게 만든 인접행렬 하나만을 사용하면 낮은 평
+-점과 관련된 정보를 완전히 무시하게 되어 정보 손실 및 
+-신호 감쇠로 인해 오히려 기존 모델보다 성능 저하가 발생
+-할 수 있는 문제가 있다. 이를 보완하기 위해 본 연구에서
+-는 사용자의 평점을 반영하여 생성한 인접행렬과 기존 단
+-순 상호작용 유무에 따라 생성한 인접행렬에 그래프 필터
+-링 연산을 적용하고, 그 결과에 가중치를 주어 이 문제를 
+-해결하였다 [17][18]. 이를 통해 사용자가 선호하는 아이템
+-에 더 높은 가중치가 부여되어 개인화된 추천 성능을 향상
+-시킬 수 있었으며 앙상블 효과도 함께 얻을 수 있었다. 제 
+-5장의 실험을 통해 N의 값을 조절해가며 기존 모델과의 
+-성능을 비교하였다.
+-<그림 8> 제안 모델의 구조
+-그림 8은 제안 모델의 전체적인 구조를 나타낸다. 그림
+-의 구성은 크게 두 부분으로 나뉜다. 그림의 하단은 기존 
+-HiGSP 모델의 방식과 동일하게 그래프 필터링 연산을 수
+-행하며 그림의 상단은 본 연구에서 제안한 새로운 인접 행
+-렬을 사용하여 그래프 필터링 연산을 수행한다 [22]. 이를 
+-통해 정보 손실 문제를 보완하면서 보다 더 개인화된 추천 
+-및 앙상블 효과를 누린다.
+-그림 8의 하단부는 제안 방법에 따른 정보 손실을 막기 
+-위하여 기존 방법과 동일하게 인접 행렬을 구축하였다. 그 
+-뒤 유사한 사용자들의 그룹을 형성하는 Clustering을 수
+-행한 후 Linear Low-pass Filter를 적용하여 Ratings를 
+-계산한다. 그 다음 기존 인접 행렬을 사용하여 각각 Ideal 
+-Low-pass Filter와 High-order Low-pass Filter을 적
+-용하여 각각 Ratings를 계산한다 [22]. 이 과정에서 다양
+-한 Low-pass Filter가 적용되어 사용자의 선호도를 반영
+-한 추천 품질을 높인다.
+-그림 8의 상단부는 본 연구에서 제안하는 새로운 인접 
+-행렬 구축 방식을 통해 인접행렬을 새롭게 구축하여 그래
+-프 필터링 연산을 수행하였다. 그 뒤 하단부와 동일하게 
+-유사한 사용자들의 그룹을 형성하는 Clustering을 수행 
+-한 후 Linear Low-pass Filter를 적용하여 Ratings를 계
+-산한다. 그 다음 제안한 방법의 인접행렬에서 각각 Ideal 
+-Low-pass Filter와 High-order Low-pass Filter을 거
+-쳐 Ratings을 계산한다. 이 방식을 통해 단순 상호작용이 
+-아닌 높은 사용자의 평점을 그래프 필터링에 반영하여 보
+-다 더 높은 정확도를 가지는 개인화 추천을 가능하게 한
+-다. 마지막 단계에서는 위 방식을 통해 생성된 4개의 Rati
+-ngs 행렬에 가중치를 주어 서로 결합하여 Final Ratings 
+-행렬을 계산한다. 위와 같은 과정을 통해 본 연구에서는 
+-기존 HiGSP의 단점을 보완하고 앙상블 효과도 누려 추천 
+-성능을 더욱 극대화하고자 하였다.
++utation compared with HiGSP because the interactio
++n-based and rating-based adjacency matrices are p
++rocessed separately. The additional branch requires 
++construction of a rating-based graph, user clusteri
++ng, and low-pass filtering, followed by weighted agg
++regation of the resulting rating matrices. The repor
++ted recommendation improvements should therefor
++e be considered together with this additional compu
++tational burden. The experiments in this paper eval
++uate recommendation quality but do not measure e
++xecution time or memory consumption. Consequent
++ly, the magnitude of the computational overhead an
++d its effect on overall efficiency cannot be quantifie
++d from the reported results.
+ IV. Experiments
+-<표 1> 실험에 사용한 데이터셋
+-표 1에서 보이는 것과 같이 기존 모델과 제안 모델의 성
+-능을 비교하기 위해 총 5개의 데이터셋을 사용하였다. 실
+-험에 사용한 데이터셋은 ML-100K, ML-1M, ML-Latest-
+-Small, FilmTrust, CiaoDVD이다. MovieLens 데이터셋
+-은 GroupLens Research에서 제공하는 대표적인 추천시
+-스템 벤치마크 데이터셋으로 사용자와 영화 간 평점 정보
+-를 포함한다 [23]. FilmTrust는 사용자 간 신뢰 관계와 영
+-화 평점 정보를 함께 제공하는 데이터셋으로 사회적 추천
+-시스템 연구에 널리 활용되고 있다 [24]. CiaoDVD는 상품 
+-리뷰 및 평점 정보를 포함하는 데이터셋으로 사용자 선호 
+-분석과 추천 성능 평가에 사용된다 [25]. ML-100K와 ML
+--1M은 선행 실험에서 사용한 데이터셋이나 보다 면밀한 
+-분석을 위해 학습 데이터와 테스트 데이터를 새롭게 분할
+-하여 실험을 수행하였다. 또한 ML-Latest-Small, FilmTr
+-ust, CiaoDVD는 선행 실험에서 사용되지 않은 데이터셋
++Table 1. Datasets Used in the Experiments
++Table 1 summarizes the four datasets for which r
++esults are reported in this paper: ML-100K, ML-Lat
++est-Small, ML-1M, and CiaoDVD. The MovieLens da
++tasets contain user–movie ratings and are provided 
++by GroupLens Research [23]. CiaoDVD contains pro
++duct reviews and ratings [24]. For ML-100K and ML
++-1M, the training and test sets were newly partition
++ed for the present experiments. The table reports t
++he numbers of users, items, and observed interacti
++ons, together with the rating ranges and interaction 
++densities. Interaction density represents the percent
++age of all possible user–item pairs for which an int
++eraction is observed.
++Table 2. Experimental Environment
++The experiments in this study were conducted un
++der the experimental environment described in Tabl
++e 2 using the package versions listed in Table 3.
++Table 3. Package Versions Used in the Experimenta
++l Environment
++Table 4. Hyperparameters Used in the Experiments
++The combination ratio is 5:5 by default. The data
++set-specific exceptions for Ratings5 are described w
++ith Table 6.
++Table 4 lists the hyperparameters used in the exp
++eriments. The parameters alpha1 and alpha2 contr
++ol the contributions of the Ideal Low-pass Filter an
++d High-order Low-pass Filter outputs, respectively. 
++The parameters order1 and order2 specify the filter 
++orders for the cluster-level and global-level operati
++ons, respectively. The parameter pri_factor determi
++nes the number of singular components used by sp
++arsesvd, and n_cluster specifies the number of use
++r clusters. The random_state parameter was fixed a
++t 2024.
++Recommendation performance is evaluated using 
++F1@5, F1@10, MRR@5, MRR@10, NDCG@5, and NDC
++G@10. The results reported in Tables 5 and 6 corre
+ Dataset
+ ML-
+ 100K
+@@ -397,109 +352,40 @@
+ Small
+ ML-
+ 1M
+-Film
+-Trust
+ Ciao
+ DVD
+-Inter
+-action
+-100,000
+-100,836
+-1,000,209
+-35,496
+-72,664
+-Users
++# of Relations
++100K
++100K
++1M
++72K
++# of Users
+ 943
+ 610
+ 6,040
+-1,508
+ 17,615
+-Items
+-1682
++# of Items
++1,682
+ 9,724
+ 3,706
+-2,071
+ 16,121
+-Ratings
+-Range
++Rating Range
+ [1, 5]
+ [0.5,
+ 5.0]
+ [1, 5]
+-[0.5,
+-4.0]
+ [1, 5]
+-Density
+-6.305%
+-1.700%
+-4.468%
+-1.137%
+-0.026%
+-
+-=== 7쪽 ===
+-JKSCI
+-한국컴퓨터정보학회논문지
+-Journal of The Korea Society of Computer and Information
+-Vol. 24 No. 1, pp. 0-0, January 2019
+-https://doi.org/10.9708/jksci.2019.24.01.000
+-으로 추가적인 일반화 성능 검증을 위해 활용하였다. 데이
+-터셋의 특성을 비교하기 위해 총 사용자 수, 총 아이템 수, 
+-사용자-아이템 상호작용 수, 그리고 밀집도(density)를 분
+-석하여 표 1에 제시하였다. 데이터셋의 밀집도는 아래 수
+-식을 이용하여 계산하였다.
+-
+-∣∣×∣∣
+-∣∣× 
+-<수식 7> 밀집도 계산
+-<표 2> 실험 환경
+-본 연구의 실험은 표 2와 같은 환경에서 표 3과 같은 패
+-키지 버전 아래에서 수행되었다.
+-<표 3> 실험 환경의 패키지 버전
+-<표 4> 실험에 사용한 하이퍼파라미터
+-본 연구의 실험은 위 표 4와 같은 하이퍼파라미터를 사
+-용해 수행하였다. alpha1은 Ideal Low-pass Filter을 적
+-용한 ratings행렬의 가중치를 의미하고 alpha2는 High-o
+-rder Low-pass Filter을 적용한 ratings 행렬의 가중치
+-를 의미한다. order1은 클러스터링에 적용된 High-order 
+-Low-pass Filter의 계수이고, order2는 인접행렬에 적용
+-된 High-order Low-pass Filter의 계수이다. pri_factor
+-은 sparsesvd에 사용되는 인자로, pri_factor 개의 특이
+-값을 사용한다는 의미한다. n_cluster은 클러스터링을 수
+-행할 때 n_cluster 개의 그룹으로 묶어준다는 것을 의미
+-한다. HiGSP : Ours는 기존 모델과 제안 모델을 결합할 
+-때 부여한 가중치의 비율이다 [22]. random_state는 실험 
+-결과의 일관성을 위해 설정하였으며 동일한 random_stat
+-e로 실험을 수행하면 본 연구에서의 실험과 동일한 결과를 
+-얻을 수 있다.
+-본 연구에서 그래프 신호 처리 기반의 추천시스템의 추
+-천 성능을 높이기 위해 사용자의 평점을 반영하여 인접행
+-렬을 새롭게 구축하고 이 인접행렬을 반영한 모델을 제안
+-하였다. 앞서 소개한 평가지표인 F1@K, NDCG@K, MRR
+-@K를 활용하여 기존 모델인 HiGSP와 제안 모델의 성능 
+-비교를 수행하였다 [22].
+-성능 비교에 사용된 평가지표는 F1@5, F1@10, MRR@
+-5, MRR@10, NDCG@5, NDCG@10이다. 제안 모델은 총 
+-4가지로 각 모델은 사용자가 남긴 평점에 따라 인접행렬을 
+-다르게 구축하였다. 구체적으로, 첫 번째 모델은 평점 2점 
+-이상인 사용자-아이템 상호작용 데이터를 반영한 모델, 두 
+-번째 모델은 평점 3점 이상인 사용자-아이템 상호작용 데
+-이터를 반영한 모델, 세 번째 모델은 평점 4점 이상인 사
+-용자-아이템 상호작용 데이터를 반영한 모델, 마지막으로 
+-네 번째 모델은 평점 5점 이상인 사용자-아이템 상호작용 
+-데이터를 반영한 모델이다.
+-실험은 총 5개의 데이터셋을 대상으로 수행되었으며 각
+-각의 데이터셋에서 기존 모델과 제안된 4가지 모델의 성능
+-을 비교하였다. 다만, FilmTrust는 평점 [0.5, 4]로 구성된 
+-데이터셋이므로 해당 데이터셋에서 네 번째 모델의 결과
+-는 제외하였다 [24].
+-<표 5> Ratings≥2 에서의 성능 비교
++Density (%)
++6.305
++1.700
++4.468
++0.026
+ Resource
+ Property
+ OS
+ Ubuntu 22.04 LTS
+ CPU
+-13th Gen Intel(R) Core TM
+-I9-13990K
++13th Gen Intel(R) Core TM I9-13990K
+ RAM
+ DDR 5 32GB + 256G SWAP
+ GPU
+@@ -533,285 +419,334 @@
+ n_cluster
+ 5
+ HiGSP : Ours
+-5 : 5
++5 : 5 (default)
+ random_state
+ 2024
++
++=== 6쪽 ===
++6   Performance Improvement of Recommendation Systems using User Evaluation Information
++spond to Ratings2 and Ratings5, which retain obser
++ved interactions with ratings greater than or equal 
++to 2 and 5, respectively.
++Table 5. Performance Comparison for Ratings2 (Rat
++ing ≥ 2)
++Table 5 compares HiGSP with Ratings2, in which 
++observed interactions with ratings greater than or e
++qual to 2 are retained in the additional rating-base
++d graph. Ratings2 improves 23 of the 24 reported d
++ataset–metric comparisons. On ML-Latest-Small, th
++e relative improvements reach 4.90% in F1@5, 6.8
++8% in MRR@5, and 5.31% in NDCG@5. In contrast, t
++he improvements on ML-1M are relatively small. In 
++particular, MRR@10 decreases from 0.5603 to 0.560
++1, corresponding to an absolute change of −0.0002 
++and a relative change of approximately −0.04%. Th
++us, incorporating rating information does not impro
++ve every evaluation metric uniformly.
++A possible explanation for the mixed result on M
++L-1M is that thresholding changes the information 
++supplied by the additional rating-based branch, and 
++combining this information with the interaction-bas
++ed predictions may alter the ordering of recommen
++ded items. Such changes need not benefit all ranki
++ng metrics simultaneously. However, the reported r
++esults alone do not establish the cause of the decre
++ase or its statistical significance. The decrease sho
++uld therefore be acknowledged as a limitation of th
++e observed improvement rather than dismissed as r
++andom variation.
++Table 6. Performance Comparison for Ratings5 (Rat
++ing ≥ 5)
++Table 6 presents the results for Ratings5, which r
++etains observed interactions with ratings greater th
++an or equal to 5 in the additional rating-based grap
++h. Ratings5 improves all 24 reported dataset–metric 
++comparisons with HiGSP. On ML-Latest-Small, F1@
++5 increases from 0.1001 to 0.1080, corresponding to 
++a relative improvement of 7.89%. For the Ratings5 r
++esults on ML-Latest-Small, the HiGSP and rating-b
+ Dataset
+ Metrics
+ HiGSP
+ Ours(≥2)
+-ML-100K
++ML-100
++K
+ F1@5
+ 0.2099
+-0.2139
+-(+1.91%)
++0.2139 (+1.91%)
+ F1@10
+ 0.2718
+-0.2750
+-(+1.18%)
++0.2750 (+1.18%)
+ MRR@5
+ 0.5830
+-0.5971
+-(+2.42%)
+-
+-=== 8쪽 ===
+-8   Performance Improvement of Recommendation Systems using User Evaluation Information
+-표 5는 Ratings2에서 HiGSP와 성능 비교한 표이다. 모
+-든 데이터셋에 대해 전반적으로 높은 성능을 달성했음을 
+-볼 수 있다.
+-<표 6> Ratings≥5 에서의 성능 비교
++0.5971 (+2.42%)
+ MRR@10
+ 0.5434
+-0.5511
+-(+1.42%)
++0.5511 (+1.42%)
+ NDCG@5
+ 0.6366
+-0.6484
+-(+1.85%)
++0.6484 (+1.85%)
+ NDCG@10
+ 0.6182
+-0.6226
+-(+0.71%)
+-ML-Latest
+--Small
++0.6226 (+0.71%)
++ML-Lat
++est-Sm
++all
+ F1@5
+ 0.1001
+-0.1050
+-(+4.90%)
++0.1050 (+4.90%)
+ F1@10
+ 0.1478
+-0.1501
+-(+1.56%)
++0.1501 (+1.56%)
+ MRR@5
+ 0.3270
+-0.3495
+-(+6.88%)
++0.3495 (+6.88%)
+ MRR@10
+ 0.3421
+-0.3520
+-(+2.89%)
++0.3520 (+2.89%)
+ NDCG@5
+ 0.3977
+-0.4188
+-(+5.31%)
++0.4188 (+5.31%)
+ NDCG@10
+ 0.4439
+-0.4523
+-(+1.89%)
++0.4523 (+1.89%)
+ ML-1M
+ F1@5
+ 0.1789
+-0.1805
+-(+0.89%)
++0.1805 (+0.89%)
+ F1@10
+ 0.2457
+-0.2462
+-(+0.20%)
++0.2462 (+0.20%)
+ MRR@5
+ 0.5984
+-0.6000
+-(+0.27%)
++0.6000 (+0.27%)
+ MRR@10
+ 0.5603
+-0.5601
+-(-0.04%)
++0.5601 (-0.04%)
+ NDCG@5
+ 0.6571
+-0.6591
+-(+0.30%)
++0.6591 (+0.30%)
+ NDCG@10
+ 0.6407
+-0.6410
+-(+0.05%)
+-FilmTrust
+-F1@5
+-0.4469
+-0.4491
+-(+0.49%)
+-F1@10
+-0.4634
+-0.4639
+-(+0.11%)
+-MRR@5
+-0.5930
+-0.6004
+-(+1.25%)
+-MRR@10
+-0.5474
+-0.5468
+-(-0.11%)
+-NDCG@5
+-0.6381
+-0.6460
+-(+1.24%)
+-NDCG@10
+-0.6158
+-0.6187
+-(+0.47%)
+-CiaoDVD
++0.6410 (+0.05%)
++CiaoDV
++D
+ F1@5
+ 0.0080
+-0.0083
+-(+3.75%)
++0.0083 (+3.75%)
+ F1@10
+ 0.0085
+-0.0092
+-(+8.24%)
++0.0092 (+8.24%)
+ MRR@5
+ 0.0133
+-0.0139
+-(+4.51%)
++0.0139 (+4.51%)
+ MRR@10
+ 0.0136
+-0.0151
+-(+11.03%)
++0.0151 (+11.03%)
+ NDCG@5
+ 0.0166
+-0.0170
+-(+2.41%)
++0.0170 (+2.41%)
+ NDCG@10
+ 0.0204
+-0.0223
+-(+9.31%)
++0.0223 (+9.31%)
+ Dataset
+ Metrics
+ HiGSP
+ Ours(≥5)
+-ML-100K
++ML-100
++K
+ F1@5
+ 0.2099
+-0.2115
+-(+0.76%)
++0.2115 (+0.76%)
+ F1@10
+ 0.2718
+-0.2728
+-(+0.37%)
++0.2728 (+0.37%)
+ MRR@5
+ 0.5830
+-0.5902
+-(+1.23%)
++0.5902 (+1.23%)
+ MRR@10
+ 0.5434
+-0.5490
+-(+1.03%)
++0.5490 (+1.03%)
+ NDCG@5
+ 0.6366
+-0.6434
+-(+1.07%)
++0.6434 (+1.07%)
+ NDCG@10
+ 0.6182
+-0.6219
+-(+0.6%)
+-ML-Latest-
+-Small
+-(HiGSP : 0.7,
+-Ours : 0.3)
++0.6219 (+0.60%)
++ML-Lat
++est-Sma
++ll
+ F1@5
+ 0.1001
+-0.1080
+-(+7.89%)
++0.1080 (+7.89%)
+ F1@10
+ 0.1478
+-0.1491
+-(+0.88%)
++0.1491 (+0.88%)
+ MRR@5
+ 0.3270
+-0.3490
+-(+6.73%)
++0.3490 (+6.73%)
+ MRR@10
+ 0.3421
+-0.3429
+-(+0.23%)
++0.3429 (+0.23%)
+ NDCG@5
+ 0.3977
+-0.4195
+-(+5.48%)
++0.4195 (+5.48%)
+ NDCG@10
+ 0.4439
+-0.4480
+-(+0.92%)
++0.4480 (+0.92%)
+ ML-1M
+-(HiGSP : 0.8,
+-Ours : 0.2)
+ F1@5
+ 0.1789
+-0.1804
+-(+0.84%)
++0.1804 (+0.84%)
+ F1@10
+ 0.2457
+-0.2473
+-(+0.65%)
++0.2473 (+0.65%)
+ MRR@5
+ 0.5984
+-0.6014
+-(+0.50%)
++0.6014 (+0.50%)
+ MRR@10
+ 0.5603
+-0.5625
+-(+0.39%)
++0.5625 (+0.39%)
+ NDCG@5
+ 0.6571
+-0.6607
+-(+0.55%)
++0.6607 (+0.55%)
+ NDCG@10
+ 0.6407
+-0.6427
+-(+0.31%)
++0.6427 (+0.31%)
++CiaoDV
++D
++F1@5
++0.0080
++0.0092 (+15.00%)
++F1@10
++0.0085
++0.0089 (+4.71%)
++MRR@5
++0.0133
++0.0155 (+16.54%)
++MRR@10
++0.0136
++0.0141 (+3.68%)
++NDCG@5
++0.0166
++0.0190 (+14.46%)
++NDCG@10
++0.0204
++0.0212 (+3.92%)
+ 
+-=== 9쪽 ===
++=== 7쪽 ===
+ JKSCI
+ 한국컴퓨터정보학회논문지
+ Journal of The Korea Society of Computer and Information
+ Vol. 24 No. 1, pp. 0-0, January 2019
+ https://doi.org/10.9708/jksci.2019.24.01.000
+-표 6은 Ratings5에서 HiGSP와 성능 비교한 표이다 [2
+-2]. 모든 데이터셋에 대해 전반적으로 높은 성능을 달성했
+-음을 볼 수 있다. 참고로, ML-Latest-Small 데이터셋에
+-서는 HiGSP에 0.7, 제안 모델에 0.3으로 가중치를 부여해 
+-결합하고, ML-1M 데이터셋에서는 HiGSP에 0.8, 제안 모
+-델에 0.2으로 가중치를 부여해 결합하여 측정한 성능이다.
++ased predictions are combined with weights of 0.7 a
++nd 0.3, respectively. The corresponding weights for 
++ML-1M are 0.8 and 0.2. These dataset-specific com
++bination weights should be considered when interpr
++eting differences between Ratings2 and Ratings5; th
++e observed differences should not be attributed sol
++ely to the rating threshold.
++CiaoDVD exhibits a clear difference between the t
++wo rating thresholds across recommendation cutoff
++s. At K = 5, Ratings5 yields higher scores than Rati
++ngs2 for all three metrics, achieving relative impro
++vements over HiGSP of 15.00% in F1@5, 16.54% in 
++MRR@5, and 14.46% in NDCG@5. At K = 10, howeve
++r, Ratings2 yields higher scores than Ratings5, with 
++relative improvements of 8.24% in F1@10, 11.03% in 
++MRR@10, and 9.31% in NDCG@10. Therefore, neithe
++r threshold is uniformly superior across all evaluati
++on metrics, and the preferred setting depends on t
++he recommendation cutoff and evaluation objective.
++According to Table 1, CiaoDVD has the lowest int
++eraction density among the reported datasets, at ap
++proximately 0.026%. One possible interpretation is t
++hat the rating-based branch provides a more select
++ive preference signal, while the interaction-based b
++ranch retains the broader interaction structure. Ho
++wever, the present results do not establish that spa
++rsity is the cause of the improvement. The large rel
++ative gains must also be interpreted in the context 
++of the low baseline scores. For example, the 16.54% 
++improvement in MRR@5 for Ratings5 corresponds t
++o an absolute increase from 0.0133 to 0.0155, or 0.
++0022. The relative percentage gains and the absolut
++e score differences should therefore be considered 
++together when interpreting the results on CiaoDVD.
+ V. Conclusions
+-본 연구에서는 그래프 신호 기반의 추천시스템에서 추
+-천 성능 향상을 달성하기 위하여 기존 HiGSP 모델의 한계
+-를 보완하는 방법을 제안하였다 [22]. 기존 HiGSP 모델에
+-서는 사용자가 아이템에 대해 좋은 평점을 남긴 데이터와 
+-나쁜 평점을 남긴 데이터를 인접행렬에 구축 시 동일하게 
+-반영하여 개인화된 추천을 방해하는 문제점이 있었다. 이
+-러한 문제를 해결하기 위해, 본 연구에서는 사용자가 높은 
+-평점을 남긴 아이템을 반영한 인접행렬을 기존 모델에 추
+-가로 도입하여 사용자에게 높은 평점을 받은 아이템의 신
+-호를 더 강하게 만들고 앙상블 효과를 가져와 사용자 선호
+-도를 보다 더 정확히 예측하는 방법을 제안하였다.
+-이러한 제안을 통해 5개 데이터셋에 대해 본 연구에서 
+-제안한 방식을 사용한 4가지 모델을 적용하여 기존 HiGS
+-P모델과 성능을 비교하는 실험을 수행하였다. 실험 결과, 
+-제안 모델의 Ratings2, Ratings3, Ratings4와 Ratings5 
+-모두 5개 데이터셋에 대해 기존 모델보다 전반적으로 높은 
+-성능을 달성하였다. 특히 CiaoDVD 데이터셋에서는 탁월
+-한 성능을 보임을 알 수 있었다.
+-향후 연구로는 제안 방법에서 2개의 인접행렬을 사용하
+-여 발생하는 추가 연산 문제를 개선하고자 한다. 이를 해
+-결하기 위해 가중치를 반영한 1개의 인접행렬을 사용하여 
+-더 좋은 정확도를 달성하면서 연산 성능을 높이는 연구를 
+-진행할 예정이다.
++In this study, we proposed a method to improve t
++he recommendation performance of Graph Signal P
++rocessing-based recommender systems by addressi
++ng the limitations of the existing HiGSP model [22]. 
++In the original HiGSP model, user–item interactions 
++associated with both high and low user ratings are 
++treated equally when constructing the adjacency m
++atrix, which limits the ability to generate personaliz
++ed recommendations. To overcome this limitation, 
++we introduced an additional adjacency matrix that i
++ncorporates items receiving high user ratings. This 
++approach strengthens the signals of users' preferre
++d items while providing an ensemble effect, thereby 
++enabling more accurate prediction of user preferen
++ces.
++This paper reports the performance of Ratings2 a
++nd Ratings5 on four benchmark datasets: ML-100K, 
++ML-Latest-Small, ML-1M, and CiaoDVD. Compared 
++with HiGSP, Ratings2 improves 23 of the 24 reporte
++d dataset–metric comparisons, while Ratings5 impr
++oves all 24 comparisons. Nevertheless, Ratings2 exh
++ibits a slight decrease in MRR@10 on ML-1M. On Ci
++aoDVD, Ratings5 achieves larger improvements at K 
++= 5, whereas Ratings2 achieves larger improvement
++s at K = 10. These findings indicate that incorporati
++ng rating information can improve recommendation 
++quality, but the benefit depends on the dataset, rati
++ng threshold, combination weights, and evaluation 
++metric.
++This study builds upon our previous conference 
++work [25] by further examining the rating-aware gr
++aph filtering approach for recommendation system
++s. Although the proposed method improves recomm
++endation performance in several evaluation metric
++s, its use of two adjacency matrices introduces addi
++tional computational overhead compared with the o
++riginal HiGSP model. In particular, independently pr
++ocessing the interaction-based and rating-based ad
++jacency matrices requires additional graph constru
++ction, filtering, and aggregation operations. This re
++presents a trade-off between recommendation accu
++racy and computational efficiency. Because executi
++on time and memory consumption were not measur
++ed in the reported experiments, the magnitude of t
++his trade-off remains an open question. As future 
++work, we plan to investigate a unified rating-weight
++ed adjacency matrix that incorporates both interact
++
++=== 8쪽 ===
++8   Performance Improvement of Recommendation Systems using User Evaluation Information
++ion information and user preferences into a single 
++graph structure. This approach aims to reduce red
++undant filtering operations while preserving the rec
++ommendation performance achieved by the propose
++d method.
+ ACKNOWLEDGEMENT
+- This work was supported by Kyonggi 
+-University‘s Graduate Research Assistantship 
+-2026. This work was supported by the Institute 
+-of Information & Communications Technology 
+-Planning & Evaluation(IITP)-ICAN(ICT Challenge 
+-and Advanced Network of HRD) grant funded by 
+-the Korea government(Ministry of Science and 
+-ICT) (IITP-2024-00436954) and supported by 
+-Basic Science Research Program through the 
+-National Research Foundation of Korea(NRF) 
+-funded by the Ministry of Education 
+-(RS-2020NR049579).
++This work was supported by Kyonggi Universit
++y‘s Graduate Research Assistantship 2026. This w
++ork was supported by the Institute of Informatio
++n & Communications Technology Planning & Eva
++luation(IITP)-ICAN(ICT Challenge and Advanced 
++Network of HRD) grant funded by the Korea gove
++rnment(Ministry of Science and ICT) (IITP-2024-0
++0436954) and supported by Basic Science Resear
++ch Program through the National Research Foun
++dation of Korea(NRF) funded by the Ministry of E
++ducation (RS-2020NR049579).
+ REFERENCES 
+-[1] A. I. Saleh, A. I. El Desouky, and H. A. Shereen, “Promotin
+-g the performance of vertical recommendation systems by a
+-pplying new classification techniques,” Knowledge-Based Sy
+-stems, vol. 75, pp.192-223, 2015.
++[1] A. I. Saleh, A. I. El Desouky, and S. H. Ali, “Promoting the 
++performance of vertical recommendation systems by applyin
++g new classification techniques,” Knowledge-Based Systems, 
++vol. 75, pp.192-223, 2015.
+ [2] M. Goyani, N. Chaurasiya, “A review of movie recommendat
+ ion system: Limitations, Survey and Challenges,” ELCVIA: 
+ Electronic Letters on Computer Vision and Image Analysis, 
+@@ -834,34 +769,6 @@
+ [7] B. Sarwar, G. Karypis, J. Konstan, and J. Riedl, “Item-based 
+ Collaborative Filtering Recommendation Algorithms,” Procee
+ dings of the 10th International Conference on World Wide 
+-CiaoDVD
+-F1@5
+-0.0080
+-0.0092
+-(+15.0%)
+-F1@10
+-0.0085
+-0.0089
+-(+4.71%)
+-MRR@5
+-0.0133
+-0.0155
+-(+16.54%)
+-MRR@10
+-0.0136
+-0.0141
+-(+3.68%)
+-NDCG@5
+-0.0166
+-0.0190
+-(+14.46%)
+-NDCG@10
+-0.0204
+-0.0212
+-(+3.92%)
+-
+-=== 10쪽 ===
+-10   Performance Improvement of Recommendation Systems using User Evaluation Information
+ Web, pp. 285–295, 2001.
+ [8] Y. Koren, R. Bell, and C. Volinsky, “Matrix Factorization Te
+ chniques for Recommender Systems,” Computer, vol. 42, n
+@@ -875,12 +782,13 @@
+ national Conference on World Wide Web, pp. 173–182, 20
+ 17.
+ [11] M. Naumov, D. Mudigere, H. J. M. Shi, J. Huang, N. Sund
+-araman, P. Jongsoo, X. Wang, U. Gupta, C. J. Wu, A. Az
+-zolini, D. Dzhulgakov, A. Mallevich, I. Cherniavskii, Y. L
+-u, R. Krishnamoorthi, A. Yu, V. Kondratenko, S. Pereira, 
+-X. Chen, and M. Smelyanskiy, “Deep Learning Recommend
+-ation Model for Personalization and Recommendation Syste
+-ms,” arXiv:1906.00091, 2019.
++araman, J. Park, X. Wang, U. Gupta, C. J. Wu, A. G. Azz
++olini, D. Dzhulgakov, A. Mallevich, I. Cherniavskii, Y. Lu, 
++R. Krishnamoorthi, A. Yu, V. Kondratenko, S. Pereira, X. 
++Chen, W. Chen, V. Rao, B. Jia, L. Xiong, and M. Smelya
++nskiy, “Deep Learning Recommendation Model for Personal
++ization and Recommendation Systems,” arXiv:1906.00091, 2
++019.
+ [12] T. N. Kipf and M. Welling, “Semi-supervised Classification 
+ with Graph Convolutional Networks,” Proceedings of the In
+ ternational Conference on Learning Representations (ICLR), 
+@@ -894,14 +802,23 @@
+ n Network for Recommendation,” Proceedings of the 43rd I
+ nternational ACM SIGIR Conference on Research and Deve
+ lopment in Information Retrieval, pp. 639–648, 2020.
+-[15] C. Liu, C. Yu, N. Gui, Z. Yu, and S. Deng, “SimGCL: Gr
+-aph Contrastive Learning by Finding Homophily in Heterop
+-hily,” Knowledge and Information Systems, vol. 66, no. 3, 
+-pp. 2089–2114, 2023.
++[15] J. Yu, H. Yin, X. Xia, T. Chen, L. Cui, and Q. V. H. Ngu
++yen, “Are Graph Augmentations Necessary? Simple Graph 
++Contrastive Learning for Recommendation,” Proceedings of 
++the 45th International ACM SIGIR Conference on Research 
++and Development in Information Retrieval, pp. 1294–1303, 
++2022.
+ [16] J. Yu, X. Xia, T. Chen, L. Cui, N. Q. V. Hung, and H. Yi
+ n, “XSimGCL: Towards Extremely Simple Graph Contrastiv
+ e Learning for Recommendation,” IEEE Transactions on Kn
+ owledge and Data Engineering, vol. 36, no. 2, pp. 913-926, 
++
++=== 9쪽 ===
++JKSCI
++한국컴퓨터정보학회논문지
++Journal of The Korea Society of Computer and Information
++Vol. 24 No. 1, pp. 0-0, January 2019
++https://doi.org/10.9708/jksci.2019.24.01.000
+ 2024.
+ [17] X. Dong, D. Thanou, L. Toni, M. Bronstein, and P. Frossar
+ d, “Graph Signal Processing for Machine Learning: A Revi
+@@ -919,11 +836,11 @@
+ u, “Personalized Graph Signal Processing for Collaborative 
+ Filtering,” Proceedings of the ACM Web Conference 2023, 
+ pp. 1264–1272, 2023.
+-[21] P. Jinduk, S. Yongmin, and S. Wonyong, “Turbo-CF: Matri
+-x Decomposition-Free Graph Filtering for Fast Recommenda
+-tion,” Proceedings of the 47th International ACM SIGIR C
+-onference on Research and Development in Information Ret
+-rieval, pp. 2672–2676, 2024.
++[21] J.-D. Park, Y.-M. Shin, and W.-Y. Shin, “Turbo-CF: Matrix 
++Decomposition-Free Graph Filtering for Fast Recommendatio
++n,” Proceedings of the 47th International ACM SIGIR Conf
++erence on Research and Development in Information Retrie
++val, pp. 2672–2676, 2024.
+ [22] J. Xia, D. Li, H. Gu, T. Lu, P. Zhang, L. Shang, and N. 
+ Gu, “Hierarchical Graph Signal Processing for Collaborative 
+ Filtering,” Proceedings of the ACM Web Conference 2024, 
+@@ -931,36 +848,13 @@
+ [23] F. M. Harper and J. A. Konstan, “The MovieLens Datasets: 
+ History and Context,” ACM Transactions on Interactive Inte
+ lligent Systems, vol. 5, no. 4, Article 19, pp. 1–19, 2015.
+-[24] M. Jamali and M. Ester, “A Matrix Factorization Technique 
+-with Trust Propagation for Recommendation in Social Netw
+-orks,” Proceedings of the 4th ACM Conference on Recom
+-mender Systems (RecSys ’10), pp. 135–142, 2010.
+-[25] P. Massa and P. Avesani, “Trust-aware Recommender Syste
+-ms,” Proceedings of the 2007 ACM Conference on Recom
+-mender Systems (RecSys ’07), pp. 17–24, 2007.
+-
+-=== 11쪽 ===
+-JKSCI
+-한국컴퓨터정보학회논문지
+-Journal of The Korea Society of Computer and Information
+-Vol. 24 No. 1, pp. 0-0, January 2019
+-https://doi.org/10.9708/jksci.2019.24.01.000
+-Authors
+-Kil Dong Hong received the B.S., M.S. and 
+-Ph.D. degrees in Computer Science and 
+-Engineering from Korea University, Korea, 
+-in 1989, 1991 and 2004, respectively 
+- Dr. Hong joined the faculty of the Department of Computer 
+-Science at Korea University, Seoul, Korea, in 2008.  He is 
+-currently a Professor in the Department of Computer Science, 
+-Korea University. He is interested in parallel computing, 
+-internet and mobile computing, and cloud computing.
+-Kil Sun Hong received the B.S., M.S. and 
+-Ph.D. degrees in Computer Science and 
+-Engineering from Korea University, Korea, 
+-in 1989, 1991 and 2004, respectively 
+-Dr. Hong joined the faculty of the Department of Computer 
+-Science at Hankook University, Seoul, Korea, in 2008.  He is 
+-currently a Professor in the Department of Computer Science, 
+-Korea University. He is interested in parallel computing, 
+-internet and mobile computing, and cloud computing.
++[24] G. Guo, J. Zhang, D. Thalmann, and N. Yorke-Smith, “ET
++AF: An Extended Trust Antecedents Framework for Trust P
++rediction,” Proceedings of the 2014 IEEE/ACM International 
++Conference on Advances in Social Networks Analysis and 
++Mining, pp. 540–547, 2014.
++[25] H.-C. Kim, J. Jeon, K. Chung, and N. Kim, “Effects of Us
++er Ratings in GSP-Based Recommendation Systems,” Procee
++dings of the 2025 Sixteenth International Conference on Ub
++iquitous and Future Networks (ICUFN), pp. 513–515, 2025. 
++doi: 10.1109/ICUFN65838.2025.11169854.
+--- 원고단계/1차/06.29_영문_원고.pdf
++++ /dev/null
+@@ -1,773 +0,0 @@
+-=== 1쪽 ===
+-JKSCI
+-한국컴퓨터정보학회논문지
+-Journal of The Korea Society of Computer and Information 
+-Vol. 24 No. 1, pp. 0-0, January 2019
+-https://doi.org/10.9708/jksci.2019.24.01.000
+-Performance Improvement of Recommendation Systems using User 
+-Evaluation Information
+-Hee-Chan Kim *, 
+-1)Yun-suk Kwak *, Namgi Kim **
+-*Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                            
+- **Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
+-[Abstract]
+-Graph Signal Processing (GSP)-based recommender systems have attracted attention due to their high 
+-computational efficiency compared with Graph Convolutional Network (GCN)-based approaches. Howeve
+-r, existing GSP-based methods do not explicitly utilize user rating information when constructing interact
+-ion graphs. To address this limitation, this paper proposes a Rating-Aware Graph Filtering method that i
+-ncorporates user ratings into graph filtering. The proposed method was evaluated on five benchmark dat
+-asets: ML-100K, ML-Latest-Small, ML-1M, and CiaoDVD. Experimental results show consistent improve
+-ments over HiGSP. These results demonstrate that incorporating user rating information effectively enhan
+-ces recommendation performance in GSP-based recommender systems.
+-▸Key words : Recommendation system, Graph signal processing, Graph filtering, User rating, HiGSP
+-[요   약]
+-그래프 신호 처리(Graph Signal Processing, GSP) 기반 추천시스템은 그래프 합성곱 신경망(Graph 
+-Convolutional Network, GCN) 기반 추천시스템에 비해 높은 연산 효율성을 제공하지만, 사용자 평
+-점 정보를 직접적으로 반영하지 못하는 한계를 가진다. 본 논문에서는 사용자 평점을 반영한 Rati
+-ng-Aware Graph Filtering 기법을 제안하며, 평점 기반 인접행렬과 기존 상호작용 기반 인접행렬을 
+-결합하여 그래프 필터링을 수행한다. 제안 기법의 성능 검증을 위해 ML-100K, ML-Latest-Small, M
+-L-1M, CiaoDVD 데이터셋에서 실험을 수행하였다. 실험 결과, 기존 HiGSP 모델 대비 성능이 향상
+-되었으며, 이를 통해 사용자 평점 정보를 활용한 그래프 필터링이 추천 성능 향상에 효과적임을 
+-확인하였다.
+-▸주제어 : 추천시스템, 그래프 신호 처리, 그래프 필터링, 사용자 평점, HiGSP
+-  *Hee-Chan Kim(train1212@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+-  **Yun-suk Kwak(lukeyun@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+-  ***Namgi Kim(ngkim@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+-"This paper is an extended version of a paper presented at the IEEE ICUFN held in Lisbon, Portugal in 2025."
+-∙Received: 2019. 01. 01, Revised: 2019. 01. 10, Accepted: 2019. 01. 20.
+-Copyright ⓒ 2019 The Korea Society of Computer and Information                                               
+-      http://www.ksci.re.kr pISSN:1598-849X | eISSN:2383-9945
+-
+-=== 2쪽 ===
+-2   Performance Improvement of Recommendation Systems using User Evaluation Information
+-I. Introduction
+-With the rapid advancement of the Internet and t
+-he widespread adoption of mobile devices, the amo
+-unt of available information and content has increa
+-sed dramatically. In particular, as markets in vario
+-us service domains such as e-commerce, streamin
+-g services, and social media continue to expand, th
+-e overwhelming abundance of products and content 
+-has made it increasingly difficult for users to identi
+-fy items that best match their preferences. In respo
+-nse to this challenge, recommender systems have e
+-merged as a technology that assists users in makin
+-g appropriate choices. A recommender system is a 
+-type of Information Filtering technology that aims t
+-o improve user satisfaction by recommending infor
+-mation that users are likely to find interesting [1][2]
+-[3][4]. Therefore, recommender systems contribute 
+-to alleviating the problem of information overload 
+-while providing significant benefits to both users an
+-d service providers.
+-The two most important factors in recommender 
+-systems are training speed and recommendation ac
+-curacy. Training speed refers to how quickly a reco
+-mmender system can learn from newly acquired da
+-ta and provide users with appropriate recommenda
+-tions in real time. Since user preferences and beha
+-vioral patterns change rapidly over time, a recomm
+-ender system that fails to promptly reflect these ch
+-anges may provide outdated recommendations, ther
+-eby reducing user satisfaction. In addition, recomm
+-endation accuracy is an important metric that indic
+-ates how relevant and appropriate the recommende
+-d items are for individual users. A highly accurate 
+-recommender system effectively captures user pref
+-erences and delivers personalized content [5][6][7]
+-[8][9][10].
+-To address these issues, this study proposes a n
+-ovel method that improves the performance of a Gr
+-aph Signal Processing (GSP)-based recommender sy
+-stem by incorporating user rating information. Con
+-ventional Graph Convolution Network (GCN)-based 
+-recommender systems effectively model complex gr
+-aph structures through graph convolution operatio
+-ns. However, they require a large number of traina
+-ble parameters, and the optimization process involv
+-es substantial computational cost and long training 
+-time [12][13][14][15][16]. As a result, updating the re
+-commender system model is time-consuming. To o
+-vercome this limitation, Graph Signal Processing-b
+-ased recommender systems have been introduced a
+-s an efficient alternative for modeling relatively sim
+-ple relationships [17][18][19][20][21][22].
+-Graph Signal Processing-based recommender sys
+-tems perform recommendation through a low-pass 
+-filter, which consists of simple matrix operations an
+-d does not require the learning of trainable weight 
+-parameters. Consequently, the model can be updat
+-ed efficiently with significantly lower computational 
+-overhead. Furthermore, their recommendation acc
+-uracy is comparable to or even higher than that of 
+-Graph Convolution Network-based recommender sy
+-stems [19][20][21][22].
+-However, existing Graph Signal Processing-based 
+-recommender systems treat items with high user ra
+-tings and those with low user ratings equally witho
+-ut distinguishing between them when constructing t
+-he model [22]. Therefore, this study proposes a met
+-hod that incorporates users' high rating informatio
+-n into the model to achieve more personalized reco
+-mmendations.
+-II. Related Works
+-Recommender systems are generally classified int
+-o Content-Based Filtering, Collaborative Filtering, a
+-nd Hybrid Filtering, which combines the strengths 
+-of both approaches [1][2][3][4].
+-Content-Based Filtering recommends items with c
+-haracteristics similar to those previously preferred 
+-by the user by utilizing item attributes. Although it 
+-can generate recommendations without relying on 
+-other users' data, it is limited by the difficulty of ex
+-
+-=== 3쪽 ===
+-JKSCI
+-한국컴퓨터정보학회논문지
+-Journal of The Korea Society of Computer and Information 
+-Vol. 24 No. 1, pp. 0-0, January 2019
+-https://doi.org/10.9708/jksci.2019.24.01.000
+-tracting item features and its inability to fully captu
+-re users' diverse interests.
+-Collaborative Filtering is based on the assumptio
+-n that users with similar preferences tend to favor 
+-similar items [3][5][6][8][9][10][11]. It is categorized i
+-nto User-Based and Item-Based Collaborative Filteri
+-ng [7]. This approach does not require item feature 
+-information and can effectively discover users' pote
+-ntial interests. However, it suffers from the Cold St
+-art Problem, the Data Sparsity Problem, and increa
+-sing computational complexity as user–item interac
+-tions grow.
+-Hybrid Filtering combines Content-Based and Col
+-laborative Filtering to improve recommendation per
+-formance. It can alleviate the Cold Start Problem w
+-hile enhancing recommendation diversity, although 
+-it introduces higher model complexity and computa
+-tional cost.
+-With the advancement of deep learning-based Co
+-llaborative Filtering, Graph Convolution Networks 
+-(GCNs) have been widely applied to recommender s
+-ystems [12]. Representative models include NGCF [1
+-3], LightGCN [14], SimGCL [15], and XSimGCL [16].
+-Graph Signal Processing (GSP) extends conventio
+-nal signal processing to graph-structured data by e
+-xploiting graph topology [17][18]. Its core concepts i
+-nclude Graph Signals, the Graph Laplacian Matrix, 
+-Graph Filtering, and the Graph Fourier Transform 
+-(GFT). In particular, Graph Filtering transforms gra
+-ph signals into the frequency domain, where Low-p
+-ass Filters suppress high-frequency components w
+-hile preserving the similarities among neighboring 
+-nodes.
+-GF-CF (Graph Filter-based Collaborative Filterin
+-g) is a representative recommender system based o
+-n Graph Signal Processing [19]. To capture user–ite
+-m similarities, GF-CF employs both Linear Low-pas
+-s and Ideal Low-pass Filters. Subsequently, several 
+-improved models were proposed, including PGSP, w
+-hich incorporates richer user information [20], Tur
+-bo-CF, which improves computational efficiency [2
+-1], and HiGSP, which introduces hierarchical user c
+-lustering before graph filtering [22].
+-This study is based on HiGSP, which achieved sta
+-te-of-the-art performance among Graph Signal Pro
+-cessing-based recommender systems as of 2024. Hi
+-GSP combines a cluster-based filtering module with 
+-a global-aware filtering module consisting of an Ide
+-al Low-pass Filter and a High-order Low-pass Filte
+-r to effectively model user preferences and predict 
+-future interactions.
+-A previous study [19] compared the Graph Convo
+-lution Network-based model LightGCN with the Gra
+-ph Signal Processing-based model GF-CF. Since GF
+--CF operates solely through matrix operations with
+-out trainable parameters, it achieves significantly h
+-igher computational efficiency while maintaining co
+-mparable or even superior recommendation perfor
+-mance on the Yelp2018 and Amazon-book datasets. 
+-Motivated by these advantages, this study proposes 
+-a method that further improves recommendation p
+-erformance while preserving the computational effi
+-ciency of Graph Signal Processing-based recomme
+-nder systems.
+-III. The Proposed Scheme
+-Existing Graph Signal Processing-based recomme
+-nder systems, including HiGSP, construct the User I
+-nteraction Matrix for building the adjacency matrix 
+-by considering only whether an interaction exists b
+-etween a user and an item, without taking user rati
+-ng information into account [19][20][21][22]. This ap
+-proach is based on the assumption that users inter
+-act more frequently with items they prefer. Howeve
+-r, in real-world scenarios, users may repeatedly int
+-eract with items to which they assign low ratings, w
+-hile interacting less frequently with items they rate 
+-highly. Consequently, an adjacency matrix construc
+-ted solely from interaction information may fail to 
+-adequately reflect users' actual preferences, potenti
+-ally leading to degraded recommendation performa
+-nce.
+-To address this limitation, this study proposes a 
+-
+-=== 4쪽 ===
+-4   Performance Improvement of Recommendation Systems using User Evaluation Information
+-method that additionally incorporates user rating in
+-formation during the construction of the User Inter
+-action Matrix. Specifically, a user–item connection i
+-s created only when the rating assigned by the user 
+-is greater than or equal to a predefined threshold 
+-(N) (3 in this study), thereby constructing a new rat
+-ing-based adjacency matrix. This approach aims to 
+-strengthen the signals of users' preferred items an
+-d improve personalized recommendation performan
+-ce.
+-However, using only the rating-based adjacency 
+-matrix may result in information loss because inter
+-actions associated with low ratings are excluded. T
+-o overcome this issue, this study utilizes both the c
+-onventional interaction-based adjacency matrix and 
+-the proposed rating-based adjacency matrix. Graph 
+-filtering is independently performed on each adjace
+-ncy matrix, and the resulting representations are c
+-ombined using a weighted aggregation strategy. Thi
+-s approach effectively incorporates user preference 
+-information while minimizing information loss [17][1
+-8]. Furthermore, the proposed combination framew
+-ork provides an ensemble effect. In Chapter 5, the 
+-recommendation performance under different thres
+-hold values of (N) is compared with that of existing 
+-models through comprehensive experiments.
+-Figure 1. Architecture of the Proposed Model
+-Figure 1 illustrates the overall architecture of the 
+-proposed model. The framework consists of two ma
+-in components. The lower branch performs graph f
+-iltering in the same manner as the original HiGSP 
+-model, while the upper branch performs graph filte
+-ring using the newly constructed adjacency matrix 
+-proposed in this study [22]. By combining these two 
+-branches, the proposed model alleviates the inform
+-ation loss problem while achieving more personaliz
+-ed recommendations and benefiting from an ensem
+-ble effect.
+-The lower branch of Figure 1 constructs the adja
+-cency matrix using the same procedure as the origi
+-nal HiGSP model to prevent information loss cause
+-d by the proposed method. After constructing the a
+-djacency matrix, clustering is performed to group s
+-imilar users, followed by the application of a Linear 
+-Low-pass Filter to compute the rating scores. Subs
+-equently, the original adjacency matrix is processe
+-d using an Ideal Low-pass Filter and a High-order 
+-Low-pass Filter, respectively, to generate additional 
+-rating scores [22]. Through the application of multi
+-ple Low-pass Filters, the model effectively captures 
+-user preferences and improves recommendation qu
+-ality.
+-The upper branch of Figure 1 constructs a new a
+-djacency matrix using the proposed method and pe
+-rforms graph filtering based on this newly generate
+-d graph structure. Similar to the lower branch, clu
+-stering is first applied to group users with similar p
+-references, followed by a Linear Low-pass Filter to 
+-compute rating scores. The proposed adjacency ma
+-trix is then processed using both an Ideal Low-pass 
+-Filter and a High-order Low-pass Filter to generate 
+-rating scores. Unlike conventional approaches that 
+-rely solely on interaction information, the proposed 
+-method incorporates users' high rating information 
+-into the graph filtering process, enabling more acc
+-urate and personalized recommendations. In the fin
+-al stage, the four rating matrices generated from th
+-e above procedures are combined using weighted a
+-ggregation to produce the final rating matrix. Thro
+-ugh this framework, the proposed model addresses 
+-the limitations of the original HiGSP while simultane
+-ously benefiting from an ensemble effect, thereby i
+-mproving recommendation performance.
+-
+-=== 5쪽 ===
+-JKSCI
+-한국컴퓨터정보학회논문지
+-Journal of The Korea Society of Computer and Information 
+-Vol. 24 No. 1, pp. 0-0, January 2019
+-https://doi.org/10.9708/jksci.2019.24.01.000
+-IV. Experiments
+-Table 1. Datasets Used in the Experiments
+-As shown in Table 1, a total of five datasets were 
+-used to compare the performance of the existing m
+-odel and the proposed model. The datasets used in 
+-the experiments were ML-100K, ML-1M, ML-Latest-
+-Small, FilmTrust, and CiaoDVD. The MovieLens dat
+-asets are representative benchmark datasets for re
+-commender systems provided by GroupLens Resear
+-ch and contain user–movie rating information [23]. 
+-CiaoDVD is a dataset containing product reviews an
+-d rating information and is widely used for user pr
+-eference analysis and recommendation performanc
+-e evaluation [24]. Although ML-100K and ML-1M we
+-re used in previous studies, the training and test se
+-ts were newly partitioned in this study to enable a 
+-more detailed analysis. In addition, ML-Latest-Smal
+-l, FilmTrust, and CiaoDVD were not used in previou
+-s experiments and were therefore employed to furt
+-her validate the generalization performance of the 
+-proposed model. To compare the characteristics of 
+-the datasets, the total number of users, total numb
+-er of items, number of user–item interactions, and 
+-density were analyzed and are presented in Table 
+-1. The density of each dataset was calculated using 
+-the following equation.
+-Table 2. Experimental Environment
+-The experiments in this study were conducted un
+-der the experimental environment described in Tabl
+-e 2 using the package versions listed in Table 3.
+-Table 3. Package Versions Used in the Experimenta
+-l Environment
+-Table 4. Hyperparameters Used in the Experiments
+-As shown in Table 1, a total of five datasets were 
+-used to compare the performance of the existing m
+-odel and the proposed model. The datasets employe
+-d in the experiments were ML-100K, ML-1M, ML-La
+-test-Small, FilmTrust, and CiaoDVD. The MovieLens 
+-datasets are representative benchmark datasets for 
+-recommender systems provided by GroupLens Rese
+-arch and contain user–movie rating information [2
+-3]. CiaoDVD is a dataset containing product reviews 
+-and rating information, and it is widely used for us
+-er preference analysis and recommendation perfor
+-mance evaluation [24].
+-Although ML-100K and ML-1M were used in previ
+-ous studies, the training and test sets were newly p
+-artitioned in this study to enable a more comprehe
+-nsive evaluation. In addition, ML-Latest-Small, Film
+-Trust, and CiaoDVD were not included in previous 
+-experiments and were therefore employed to furthe
+-r validate the generalization performance of the pr
+-oposed model. To compare the characteristics of th
+-e datasets, the total number of users, total number 
+-of items, number of user–item interactions, and dat
+-a density were analyzed and are summarized in Ta
+-ble 1. The density of each dataset was calculated u
+-sing the following equation.
+-Dataset
+-ML-
+-100K
+-ML-
+-Small
+-ML-
+-1M
+-Ciao
+-DVD
+-# of Relations
+-100K
+-100K
+-1M
+-72K
+-# of Users
+-943
+-610
+-6,040
+-17,615
+-# of Items
+-1,682
+-9,724
+-3,706
+-16,121
+-Resource
+-Property
+-OS
+-Ubuntu 22.04 LTS
+-CPU
+-13th Gen Intel(R) Core TM I9-13990K
+-RAM
+-DDR 5 32GB + 256G SWAP
+-GPU
+-NVIDIA GeForce RTX 4090
+-Package
+-Version
+-Python
+-3.7.10
+-Numpy
+-1.19.5
+-Pytorch
+-1.9.0
+-Scikit-learn
+-0.22.0
+-Scipy
+-1.5.2
+-Sparsesvd
+-0.2.2
+-Hyperparameter
+-Setting
+-alpha1
+-0.3
+-alpha2
+-0.7
+-order1
+-8
+-order2
+-8
+-pri_factor
+-256
+-n_cluster
+-5
+-HiGSP : Ours
+-5 : 5
+-random_state
+-2024
+-
+-=== 6쪽 ===
+-6   Performance Improvement of Recommendation Systems using User Evaluation Information
+-Table 5. Performance Comparison for Ratings2
+-Table 5 presents the performance comparison be
+-tween HiGSP and the proposed model when user ra
+-tings greater than 2 are used to construct the ratin
+-g-based adjacency matrix. As shown in the table, t
+-he proposed model generally achieved superior per
+-formance across all datasets, demonstrating the eff
+-ectiveness of incorporating user rating information 
+-into the recommendation process.
+-Table 6 presents the performance comparison be
+-tween HiGSP and the proposed model when user ra
+-tings greater than 5 are used to construct the ratin
+-g-based adjacency matrix [22]. The proposed model 
+-also demonstrated overall performance improveme
+-nts across all datasets.
+-For the ML-Latest-Small dataset, the final predic
+-tion was obtained by combining the outputs of HiGS
+-P and the proposed model with weights of 0.7 and 
+-0.3, respectively. For the ML-1M dataset, the outpu
+-ts were combined with weights of 0.8 for HiGSP and 
+-0.2 for the proposed model, and the reported perfo
+-rmance was measured using these weighted combin
+-ations.
+-Table 6. Performance Comparison for Ratings5
+-V. Conclusions
+-In this study, we proposed a method to improve t
+-he recommendation performance of Graph Signal P
+-rocessing-based recommender systems by addressi
+-ng the limitations of the existing HiGSP model [22]. 
+-In the original HiGSP model, user–item interactions 
+-associated with both high and low user ratings are 
+-treated equally when constructing the adjacency m
+-atrix, which limits the ability to generate personaliz
+-ed recommendations. To overcome this limitation, 
+-we introduced an additional adjacency matrix that i
+-ncorporates items receiving high user ratings. This 
+-approach strengthens the signals of users' preferre
+-d items while providing an ensemble effect, thereby 
+-enabling more accurate prediction of user preferen
+-Dataset
+-Metrics
+-HiGSP
+-Ours(≥2)
+-ML-100
+-K
+-F1@5
+-0.2099
+-0.2139 (+1.91%)
+-F1@10
+-0.2718
+-0.2750 (+1.18%)
+-MRR@5
+-0.5830
+-0.5971 (+2.42%)
+-MRR@10
+-0.5434
+-0.5511 (+1.42%)
+-NDCG@5
+-0.6366
+-0.6484 (+1.85%)
+-NDCG@10
+-0.6182
+-0.6226 (+0.71%)
+-ML-Lat
+-est-Sm
+-all
+-F1@5
+-0.1001
+-0.1050 (+4.90%)
+-F1@10
+-0.1478
+-0.1501 (+1.56%)
+-MRR@5
+-0.3270
+-0.3495 (+6.88%)
+-MRR@10
+-0.3421
+-0.3520 (+2.89%)
+-NDCG@5
+-0.3977
+-0.4188 (+5.31%)
+-NDCG@10
+-0.4439
+-0.4523 (+1.89%)
+-ML-1M
+-F1@5
+-0.1789
+-0.1805 (+0.89%)
+-F1@10
+-0.2457
+-0.2462 (+0.20%)
+-MRR@5
+-0.5984
+-0.6000 (+0.27%)
+-MRR@10
+-0.5603
+-0.5601 (-0.04%)
+-NDCG@5
+-0.6571
+-0.6591 (+0.30%)
+-NDCG@10
+-0.6407
+-0.6410 (+0.05%)
+-CiaoDV
+-D
+-F1@5
+-0.0080
+-0.0083 (+3.75%)
+-F1@10
+-0.0085
+-0.0092 (+8.24%)
+-MRR@5
+-0.0133
+-0.0139 (+4.51%)
+-MRR@10
+-0.0136
+-0.0151 (+11.03%)
+-NDCG@5
+-0.0166
+-0.0170 (+2.41%)
+-NDCG@10
+-0.0204
+-0.0223 (+9.31%)
+-Dataset
+-Metrics
+-HiGSP
+-Ours(≥5)
+-ML-100
+-K
+-F1@5
+-0.2099
+-0.2115 (+0.76%)
+-F1@10
+-0.2718
+-0.2728 (+0.37%)
+-MRR@5
+-0.5830
+-0.5902 (+1.23%)
+-MRR@10
+-0.5434
+-0.5490 (+1.03%)
+-NDCG@5
+-0.6366
+-0.6434 (+1.07%)
+-NDCG@10
+-0.6182
+-0.6219 (+0.6%)
+-ML-Lat
+-est-Sma
+-ll
+-F1@5
+-0.1001
+-0.1080 (+7.89%)
+-F1@10
+-0.1478
+-0.1491 (+0.88%)
+-MRR@5
+-0.3270
+-0.3490 (+6.73%)
+-MRR@10
+-0.3421
+-0.3429 (+0.23%)
+-NDCG@5
+-0.3977
+-0.4195 (+5.48%)
+-NDCG@10
+-0.4439
+-0.4480 (+0.92%)
+-ML-1M
+-F1@5
+-0.1789
+-0.1804 (+0.84%)
+-F1@10
+-0.2457
+-0.2473 (+0.65%)
+-MRR@5
+-0.5984
+-0.6014 (+0.50%)
+-MRR@10
+-0.5603
+-0.5625 (+0.39%)
+-NDCG@5
+-0.6571
+-0.6607 (+0.55%)
+-NDCG@10
+-0.6407
+-0.6427 (+0.31%)
+-CiaoDV
+-D
+-F1@5
+-0.0080
+-0.0092 (+15.0%)
+-F1@10
+-0.0085
+-0.0089 (+4.71%)
+-MRR@5
+-0.0133
+-0.0155 (+16.54%)
+-MRR@10
+-0.0136
+-0.0141 (+3.68%)
+-NDCG@5
+-0.0166
+-0.0190 (+14.46%)
+-NDCG@10
+-0.0204
+-0.0212 (+3.92%)
+-
+-=== 7쪽 ===
+-JKSCI
+-한국컴퓨터정보학회논문지
+-Journal of The Korea Society of Computer and Information
+-Vol. 24 No. 1, pp. 0-0, January 2019
+-https://doi.org/10.9708/jksci.2019.24.01.000
+-ces.
+-To evaluate the effectiveness of the proposed me
+-thod, experiments were conducted on five benchma
+-rk datasets by applying two variants of the propose
+-d model and comparing their performance with tha
+-t of the original HiGSP model. Experimental results 
+-showed that all proposed models, namely Ratings2, 
+-Ratings3, Ratings4, and Ratings5, consistently achie
+-ved better overall recommendation performance th
+-an the original HiGSP model across the five dataset
+-s. In particular, the proposed method demonstrated 
+-remarkable performance improvements on the Ciao
+-DVD dataset.
+-An earlier version of this work was presented at 
+-a conference [25]. As future work, we plan to addre
+-ss the additional computational cost introduced by 
+-using two adjacency matrices in the proposed meth
+-od. Specifically, we intend to develop a framework t
+-hat employs a single weighted adjacency matrix, ai
+-ming to further improve recommendation accuracy 
+-while reducing computational complexity.
+-ACKNOWLEDGEMENT
+- This work was supported by Kyonggi Universi
+-ty‘s Graduate Research Assistantship 2026. This 
+-work was supported by the Institute of Informati
+-on & Communications Technology Planning & Ev
+-aluation(IITP)-ICAN(ICT Challenge and Advanced 
+-Network of HRD) grant funded by the Korea gove
+-rnment(Ministry of Science and ICT) (IITP-2024-0
+-0436954) and supported by Basic Science Resear
+-ch Program through the National Research Foun
+-dation of Korea(NRF) funded by the Ministry of E
+-ducation (RS-2020NR049579).
+-REFERENCES 
+-[1] A. I. Saleh, A. I. El Desouky, and H. A. Shereen, “Promotin
+-g the performance of vertical recommendation systems by a
+-pplying new classification techniques,” Knowledge-Based Sy
+-stems, vol. 75, pp.192-223, 2015.
+-[2] M. Goyani, N. Chaurasiya, “A review of movie recommendat
+-ion system: Limitations, Survey and Challenges,” ELCVIA: 
+-Electronic Letters on Computer Vision and Image Analysis, 
+-vol. 19, no. 3, pp. 18-37, 2020.
+-[3] Y. Hu, Y. Koren, and C. Volinsky, “Collaborative Filtering f
+-or Implicit Feedback Datasets,” 2008 Eighth IEEE Internati
+-onal Conference on Data Mining, pp. 263-272, 2008.
+-[4] E. Çano, M. Morisio, “Hybrid Recommender Systems: A Sys
+-tematic Literature Review,” Intelligent Data Analysis, vol. 2
+-1, no. 6, pp. 1487-1524, 2017.
+-[5] D. Goldberg, D. Nichols, B. M. Oki, and D. Terry, “Using 
+-Collaborative Filtering to Weave an Information Tapestry,” 
+-Communications of the ACM, vol. 35, no. 12, pp. 61–70, 
+-1992.
+-[6] P. Resnick, N. Iacovou, M. Suchak, P. Bergstrom, and J. Rie
+-dl, “GroupLens: An Open Architecture for Collaborative Fil
+-tering of Netnews,” Proceedings of the 1994 ACM Confere
+-nce on Computer Supported Cooperative Work, pp. 175–18
+-6, 1994.
+-[7] B. Sarwar, G. Karypis, J. Konstan, and J. Riedl, “Item-based 
+-Collaborative Filtering Recommendation Algorithms,” Procee
+-dings of the 10th International Conference on World Wide 
+-Web, pp. 285–295, 2001.
+-[8] Y. Koren, R. Bell, and C. Volinsky, “Matrix Factorization Te
+-chniques for Recommender Systems,” Computer, vol. 42, n
+-o. 8, pp. 30-37, 2009.
+-[9] P. Covington, J. Adams, and E. Sargin, “Deep Neural Networ
+-ks for YouTube Recommendations,” Proceedings of the 10t
+-h ACM Conference on Recommender Systems, pp. 191–19
+-8, 2016.
+-[10] X. He, L. Liao, H. Zhang, L. Nie, X. Hu, and T. Chua, “N
+-eural Collaborative Filtering,” Proceedings of the 26th Inter
+-national Conference on World Wide Web, pp. 173–182, 20
+-17.
+-[11] M. Naumov, D. Mudigere, H. J. M. Shi, J. Huang, N. Sund
+-araman, P. Jongsoo, X. Wang, U. Gupta, C. J. Wu, A. Az
+-zolini, D. Dzhulgakov, A. Mallevich, I. Cherniavskii, Y. L
+-u, R. Krishnamoorthi, A. Yu, V. Kondratenko, S. Pereira, 
+-X. Chen, and M. Smelyanskiy, “Deep Learning Recommend
+-ation Model for Personalization and Recommendation Syste
+-ms,” arXiv:1906.00091, 2019.
+-[12] T. N. Kipf and M. Welling, “Semi-supervised Classification 
+-with Graph Convolutional Networks,” Proceedings of the In
+-ternational Conference on Learning Representations (ICLR), 
+-2017.
+-[13] X. Wang, X. He, M. Wang, F. Feng, and T. S. Chua, “Neu
+-ral Graph Collaborative Filtering,” Proceedings of the 42nd 
+-International ACM SIGIR Conference on Research and Dev
+-
+-=== 8쪽 ===
+-8   Performance Improvement of Recommendation Systems using User Evaluation Information
+-elopment in Information Retrieval, pp. 165–174, 2019.
+-[14] X. He, K. Deng, X. Wang, Y. Li, Y. Zhang, and M. Wan
+-g, “LightGCN: Simplifying and Powering Graph Convolutio
+-n Network for Recommendation,” Proceedings of the 43rd I
+-nternational ACM SIGIR Conference on Research and Deve
+-lopment in Information Retrieval, pp. 639–648, 2020.
+-[15] C. Liu, C. Yu, N. Gui, Z. Yu, and S. Deng, “SimGCL: Gr
+-aph Contrastive Learning by Finding Homophily in Heterop
+-hily,” Knowledge and Information Systems, vol. 66, no. 3, 
+-pp. 2089–2114, 2023.
+-[16] J. Yu, X. Xia, T. Chen, L. Cui, N. Q. V. Hung, and H. Yi
+-n, “XSimGCL: Towards Extremely Simple Graph Contrastiv
+-e Learning for Recommendation,” IEEE Transactions on Kn
+-owledge and Data Engineering, vol. 36, no. 2, pp. 913-926, 
+-2024.
+-[17] X. Dong, D. Thanou, L. Toni, M. Bronstein, and P. Frossar
+-d, “Graph Signal Processing for Machine Learning: A Revi
+-ew and New Perspectives,” arXiv:2007.16061, 2020.
+-[18] R. Ramakrishna, H. T. Wai, and A. Scaglione, “A User Gui
+-de to Low-Pass Graph Signal Processing and Its Applicatio
+-ns: Tools and Applications,” IEEE Signal Processing Magaz
+-ine, vol. 37, no. 6, pp. 74-85, 2020.
+-[19] Y. Shen, Y. Wu, Y. Zhang, C. Shan, J. Zhang, B. K. Letai
+-ef, and D. Li, “How Powerful is Graph Convolution for Re
+-commendation?,” Proceedings of the 30th ACM Internationa
+-l Conference on Information & Knowledge Management, p
+-p. 1619–1629, 2021.
+-[20] J. Liu, D. Li, H. Gu, T. Lu, P. Zhang, L. Shang, and N. G
+-u, “Personalized Graph Signal Processing for Collaborative 
+-Filtering,” Proceedings of the ACM Web Conference 2023, 
+-pp. 1264–1272, 2023.
+-[21] P. Jinduk, S. Yongmin, and S. Wonyong, “Turbo-CF: Matri
+-x Decomposition-Free Graph Filtering for Fast Recommenda
+-tion,” Proceedings of the 47th International ACM SIGIR C
+-onference on Research and Development in Information Ret
+-rieval, pp. 2672–2676, 2024.
+-[22] J. Xia, D. Li, H. Gu, T. Lu, P. Zhang, L. Shang, and N. 
+-Gu, “Hierarchical Graph Signal Processing for Collaborative 
+-Filtering,” Proceedings of the ACM Web Conference 2024, 
+-pp. 3229–3240, 2024.
+-[23] F. M. Harper and J. A. Konstan, “The MovieLens Datasets: 
+-History and Context,” ACM Transactions on Interactive Inte
+-lligent Systems, vol. 5, no. 4, Article 19, pp. 1–19, 2015.
+-[24] P. Massa and P. Avesani, “Trust-aware Recommender Syste
+-ms,” Proceedings of the 2007 ACM Conference on Recom
+-mender Systems (RecSys ’07), pp. 17–24, 2007.
+-[25] H.-C. Lee, J. Jeon, and N. Kim, “Effects of User Ratings i
+-n GSP-Based Recommendation Systems,” Proceedings of th
+-e IEEE ICUFN 2025, 2025.

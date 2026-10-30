@@ -1,0 +1,18 @@
+{
+  "stage": "2차 원고",
+  "previous": "1차 · 06.17/06.22/06.29 원고 묶음",
+  "files": {
+    "원고단계/2차/원고.pdf": {
+      "bytes": 402989,
+      "sha256": "15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc"
+    },
+    "원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp": {
+      "bytes": 287232,
+      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082"
+    },
+    "원고단계/2차/심사답변서 2.hwp": {
+      "bytes": 86528,
+      "sha256": "362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac"
+    }
+  }
+}

@@ -208,9 +208,9 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 -Evaluation Information
 -Hee-Chan Kim *, 
 -1)Yun-suk Kwak **, Namgi Kim ***
--*Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                            
--**Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                        
--***Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
+-*Student,  Kyonggi University, Suwon, Korea                            
+-**Student,  Kyonggi University, Suwon, Korea                        
+-***Professor,  Kyonggi University, Suwon, Korea
 -[Abstract]
 -Graph Signal Processing (GSP)-based recommender systems have attracted attention due to their high 
 -computational efficiency compared with Graph Convolutional Network (GCN)-based approaches. Howeve
@@ -230,9 +230,9 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 -L-1M, CiaoDVD 데이터셋에서 실험을 수행하였다. 실험 결과, 대부분의 지표에서 HiGSP보다 높은 
 -성능을 보였으나, Ratings2의 ML-1M MRR@10에서는 소폭 감소하였다.
 -▸주제어 : 추천시스템, 그래프 신호 처리, 그래프 필터링, 사용자 평점, HiGSP
--  *Hee-Chan Kim(train1212@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
--  **Yun-suk Kwak(lukeyun@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
--  ***Namgi Kim(ngkim@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+-  *Hee-Chan Kim(train1212@kyonggi.ac.kr),  Kyonggi University
+-  **Yun-suk Kwak(lukeyun@kyonggi.ac.kr),  Kyonggi University
+-  ***Namgi Kim(ngkim@kyonggi.ac.kr),  Kyonggi University
 -"This paper is an extended version of a paper presented at the IEEE ICUFN held in Lisbon, Portugal in 2025."
 -∙Received: 2019. 01. 01, Revised: 2019. 01. 10, Accepted: 2019. 01. 20.
 -Copyright ⓒ 2019 The Korea Society of Computer and Information                                               
@@ -243,13 +243,13 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 +With the rapid advancement of the Internet and the
 +사용자평가정보를활용한추천시스템의성능개선
 +김희찬1, 곽윤석2, 김남기*3
-+1경기대학교컴퓨터과학과, 2경기대학교컴퓨터과학과학생, 3경기대학교컴퓨터과학과교수
++1경기대학교, 2경기대학교학생, 3경기대학교교수
 +Performance Improvement of Recommendation Systems
 +using User Evaluation Information
 +Heechan Kim1, Yunsuk Kwak2, Namgi Kim3*
-+1Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+2Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+3Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
++1 Kyonggi University, Suwon, Korea
++2Student,  Kyonggi University, Suwon, Korea
++3Professor,  Kyonggi University, Suwon, Korea
 +요  약
 +기존그래프신호처리(Graph Signal Processing, GSP) 기반추천시스템은사용자와아이템의상호작용
 +여부를중심으로그래프를구성하여평점에나타난사용자선호를충분히반영하지못한다. 본논문에서는이러한한
@@ -1756,7 +1756,7 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 +• 2025년2월
 +:
 +경기대학교
-+컴퓨터과학과석사
++석사
 +<관심분야>
 +강화학습, 메타러닝, 네트워크
 +곽 윤 석(Yunsuk Kwak)               [정회원]
@@ -1765,21 +1765,21 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 +2월
 +:
 +경기대학교
-+인공지능전공학사
++학사
 +• 2026년3월~ 현재: 경기
-+대학교컴퓨터과학과석사과
++대학교석사과
 +정
 +<관심분야>
 +인공지능, 컴퓨터 비전, 딥러닝, 개인정보 보호
 +김 남 기(Namgi Kim)               [정회원]
 +• 1997년: 서강대학교컴퓨터
 +공학과학사
-+• 2000년: KAIST 전산학과
++• 2000년: KAIST 
 +석사
-+• 2005년: KAIST 전산학과
++• 2005년: KAIST 
 +박사
 +• 2007년~ 현재: 경기대학
-+교AI컴퓨터공학부교수
++교교수
 +<관심분야>
 +컴퓨터 네트워크, 이상 탐지, 추천시스템 최적화, 
 +멀티캐스트 라우팅
@@ -1969,13 +1969,13 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 +With the rapid advancement of the Internet and the
 +사용자평가정보를활용한추천시스템의성능개선
 +김희찬1, 곽윤석2, 김남기*3
-+1경기대학교컴퓨터과학과, 2경기대학교컴퓨터과학과학생, 3경기대학교컴퓨터과학과교수
++1경기대학교, 2경기대학교학생, 3경기대학교교수
 +Performance Improvement of Recommendation Systems
 +using User Evaluation Information
 +Heechan Kim1, Yunsuk Kwak2, Namgi Kim3*
-+1Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+2Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+3Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
++1 Kyonggi University, Suwon, Korea
++2Student,  Kyonggi University, Suwon, Korea
++3Professor,  Kyonggi University, Suwon, Korea
 +요  약
 +기존그래프신호처리(Graph Signal Processing, GSP) 기반추천시스템은사용자와아이템의상호작용
 +여부를중심으로그래프를구성하여평점에나타난사용자선호를충분히반영하지못한다. 본논문에서는이러한한
@@ -2872,7 +2872,7 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 +• 2025년2월
 +:
 +경기대학교
-+컴퓨터과학과석사
++석사
 +<관심분야>
 +강화학습, 메타러닝, 네트워크
 +곽 윤 석(Yunsuk Kwak)               [정회원]
@@ -2881,21 +2881,21 @@ Binary files /dev/null and 원고단계/3차/논문투고양식_2026.hwp differ
 +2월
 +:
 +경기대학교
-+인공지능전공학사
++학사
 +• 2026년3월~ 현재: 경기
-+대학교컴퓨터과학과석사과
++대학교석사과
 +정
 +<관심분야>
 +인공지능, 컴퓨터 비전, 딥러닝, 개인정보 보호
 +김 남 기(Namgi Kim)               [정회원]
 +• 1997년: 서강대학교컴퓨터
 +공학과학사
-+• 2000년: KAIST 전산학과
++• 2000년: KAIST 
 +석사
-+• 2005년: KAIST 전산학과
++• 2005년: KAIST 
 +박사
 +• 2007년~ 현재: 경기대학
-+교AI컴퓨터공학부교수
++교교수
 +<관심분야>
 +컴퓨터 네트워크, 이상 탐지, 추천시스템 최적화, 
 +멀티캐스트 라우팅

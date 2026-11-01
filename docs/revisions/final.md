@@ -12,10 +12,10 @@
 
 | 파일 | 종류 | 바이트 | SHA-256 |
 |---|---|---:|---|
-| [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) | .pdf | 469606 | `e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4` |
+| [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | .pdf | 469606 | `e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4` |
 | [논문/최종_원문_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | .pdf | 518941 | `73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd` |
-| [논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | .hwp | 739328 | `0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499` |
-| [원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EC%B5%9C%EC%A2%85/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%9D%B4%EC%96%91%20%EB%8F%99%EC%9D%98%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp) | .hwp | 109056 | `cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18` |
+| [논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp.md) | .hwp | 739328 | `0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499` |
+| [원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EC%B5%9C%EC%A2%85/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%9D%B4%EC%96%91%20%EB%8F%99%EC%9D%98%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp.md) | .hwp | 109056 | `cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18` |
 
 ## 🔎 해석·검증 범위
 

@@ -4,19 +4,32 @@
   "files": {
     "논문/최종_논문.pdf": {
       "bytes": 469606,
-      "sha256": "e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4"
+      "sha256": "e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4",
+      "public_path": "논문/최종_원문_논문.pdf",
+      "public_bytes": 487137,
+      "public_sha256": "0712c5ba5000ef6e9f3e0db7c89762cff26684a85461bab3953071beaccd3df1"
     },
     "논문/최종_원문_논문.pdf": {
       "bytes": 518941,
-      "sha256": "73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd"
+      "sha256": "73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd",
+      "public_path": "논문/최종_원문_논문.pdf",
+      "public_bytes": 487137,
+      "public_sha256": "0712c5ba5000ef6e9f3e0db7c89762cff26684a85461bab3953071beaccd3df1"
     },
     "논문/최종_원문_논문.hwp": {
       "bytes": 739328,
-      "sha256": "0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499"
+      "sha256": "0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499",
+      "public_path": "논문/최종_원문_논문.hwp.md",
+      "public_bytes": 455,
+      "public_sha256": "25a0fb59867bb277fa28680674eb81191491cb10f36426d9334a58c8f236aeb0"
     },
     "원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp": {
       "bytes": 109056,
-      "sha256": "cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18"
+      "sha256": "cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18",
+      "public_path": "원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp.md",
+      "public_bytes": 408,
+      "public_sha256": "df323b960addada60c0bd948a74f821d71817ccdbe362861f1b8b97b54135f75"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

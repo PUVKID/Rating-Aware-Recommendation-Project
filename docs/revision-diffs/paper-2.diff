@@ -48,10 +48,10 @@ Binary files 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp
 @@ -9,18 +9,17 @@
  Hee-Chan Kim *, 
  1)Yun-suk Kwak **, Namgi Kim ***
- *Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                            
--**Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                           
-+**Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                        
- ***Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
+ *Student,  Kyonggi University, Suwon, Korea                            
+-**Student,  Kyonggi University, Suwon, Korea                           
++**Student,  Kyonggi University, Suwon, Korea                        
+ ***Professor,  Kyonggi University, Suwon, Korea
  [Abstract]
  Graph Signal Processing (GSP)-based recommender systems have attracted attention due to their high 
  computational efficiency compared with Graph Convolutional Network (GCN)-based approaches. Howeve
@@ -80,10 +80,10 @@ Binary files 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp
 +성능을 보였으나, Ratings2의 ML-1M MRR@10에서는 소폭 감소하였다.
  ▸주제어 : 추천시스템, 그래프 신호 처리, 그래프 필터링, 사용자 평점, HiGSP
 -∙First Author: Hee-Chan Kim, Corresponding Author: Namgi Kim
--  *Hee-Chan Kim(이메일@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
-+  *Hee-Chan Kim(train1212@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
-   **Yun-suk Kwak(lukeyun@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
-   ***Namgi Kim(ngkim@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+-  *Hee-Chan Kim(이메일@kyonggi.ac.kr),  Kyonggi University
++  *Hee-Chan Kim(train1212@kyonggi.ac.kr),  Kyonggi University
+   **Yun-suk Kwak(lukeyun@kyonggi.ac.kr),  Kyonggi University
+   ***Namgi Kim(ngkim@kyonggi.ac.kr),  Kyonggi University
  "This paper is an extended version of a paper presented at the IEEE ICUFN held in Lisbon, Portugal in 2025."
 @@ -44,75 +41,85 @@
  === 2쪽 ===
@@ -1517,8 +1517,8 @@ Binary files 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp
 -Evaluation Information
 -Hee-Chan Kim *, 
 -1)Yun-suk Kwak *, Namgi Kim **
--*Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea                            
-- **Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
+-*Student,  Kyonggi University, Suwon, Korea                            
+- **Professor,  Kyonggi University, Suwon, Korea
 -[Abstract]
 -Graph Signal Processing (GSP)-based recommender systems have attracted attention due to their high 
 -computational efficiency compared with Graph Convolutional Network (GCN)-based approaches. Howeve
@@ -1539,9 +1539,9 @@ Binary files 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp
 -되었으며, 이를 통해 사용자 평점 정보를 활용한 그래프 필터링이 추천 성능 향상에 효과적임을 
 -확인하였다.
 -▸주제어 : 추천시스템, 그래프 신호 처리, 그래프 필터링, 사용자 평점, HiGSP
--  *Hee-Chan Kim(train1212@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
--  **Yun-suk Kwak(lukeyun@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
--  ***Namgi Kim(ngkim@kyonggi.ac.kr), Dept. of Computer Science, Kyonggi University
+-  *Hee-Chan Kim(train1212@kyonggi.ac.kr),  Kyonggi University
+-  **Yun-suk Kwak(lukeyun@kyonggi.ac.kr),  Kyonggi University
+-  ***Namgi Kim(ngkim@kyonggi.ac.kr),  Kyonggi University
 -"This paper is an extended version of a paper presented at the IEEE ICUFN held in Lisbon, Portugal in 2025."
 -∙Received: 2019. 01. 01, Revised: 2019. 01. 10, Accepted: 2019. 01. 20.
 -Copyright ⓒ 2019 The Korea Society of Computer and Information                                               

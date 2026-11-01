@@ -1,0 +1,765 @@
+# 개인정보 값은 공개 비교에서 제외했습니다. 원본의 실제 전체 차이는 별도 비공개로 보존합니다.
+--- before/README.md
++++ after/README.md
+@@ -29,7 +29,7 @@
+ 
+ [현재 원문 PDF·공식 링크 교체 위치](docs/PAPERS.md) · [모든 실제 차수·최종본·전체 비교](docs/REVISION_INDEX.md)
+ 
+-- **최종 원문**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)
++- **최종 원문**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp.md)
+ 
+ 공식 공개 URL은 아직 등록하지 않았습니다. 추후 [논문 전용 표](docs/PAPERS.md)의 교체 칸과 이 항목을 함께 갱신합니다.
+ 
+@@ -64,7 +64,7 @@
+ 
+ **논문 그림** — 공개 원고 4쪽 그림 1: 평점 정보를 반영하는 제안 모델의 구조입니다.
+ 
+-[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
++[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)
+ 
+ </details>
+ 
+@@ -116,7 +116,7 @@
+     └── 최종_논문.pdf
+ ```
+ 
+-- [전체 최종 원고](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
++- [전체 최종 원고](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)
+ 
+ ## 🧩 평점 정보와 가중 결합
+ 
+@@ -170,3 +170,35 @@
+ 연구 방법과 결과, 다음에 확인할 과제를 함께 살펴볼 수 있습니다.
+ 
+ </div>
++
++
++> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
++
++현재 최종 원고는 [사진을 포함한 최종 PDF](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)입니다. 이전 초안은 해당 차수의 자료로 구분합니다.
++
++
++<details>
++<summary>📚 차수별 논문 공개본 전체 보기</summary>
++
++| 원고·공개 경로 | 논문 |
++| :--- | :--- |
++| 논문/최종_원문_논문.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) |
++| 원고단계/1차/06.17_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.17_%EC%9B%90%EA%B3%A0.pdf) |
++| 원고단계/1차/06.22_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.22_%EC%9B%90%EA%B3%A0.pdf) |
++| 원고단계/1차/06.29_영문_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) |
++| 원고단계/2차/원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf) |
++| 원고단계/3차/원문_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EC%9B%90%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) |
++
++</details>
++
++
++<details>
++<summary>🧹 공개 자료 정리 기록</summary>
++
++| 검수 대상 | 연결 자료 | 상세·이번 비교 |
++| :--- | :--- | :--- |
++| **기존 코드와 자료** | [📁 검수 자료](docs/publication-review) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
++
++[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
++
++</details>
+--- before/docs/PAPERS.md
++++ after/docs/PAPERS.md
+@@ -1,9 +1,14 @@
+ # 📄 내 논문 PDF와 공식 링크 교체 위치
+ 
+-현재 링크는 보존 중인 원문 PDF입니다. 나중에 공개된 공식 논문 URL을 확인하면 아래 `공식 공개 URL` 열과 첫 화면의 `내 논문 PDF` 항목을 함께 교체합니다. 공식 링크가 공개되면 현재 PDF 링크와 함께 갱신합니다.
++현재 링크에서 논문 공개본을 읽을 수 있습니다. 나중에 공개된 공식 논문 URL을 확인하면 아래 `공식 공개 URL` 열과 첫 화면의 `내 논문 PDF` 항목을 함께 교체합니다. 공식 링크가 공개되면 현재 PDF 링크와 함께 갱신합니다.
+ 
+ | 원고 단계 | 지금 바로 읽는 PDF | 편집 원본 | 공식 공개 URL(교체 위치) |
+ |---|---|---|---|
+-| 최종 원문 | [PDF 원문](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | [원본](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | 미등록 — 공식 URL 확인 후 이 칸 교체 |
++| 최종 원문 | [PDF 원문](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | [원본](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp.md) | 미등록 — 공식 URL 확인 후 이 칸 교체 |
+ 
+-저자 성명·소속·이메일·전화·저자소개·사진을 포함한 원문을 보관합니다. 과거 공개 정제 사본은 기존 경로에 남고 현재 원문과 구분합니다. 인증정보·식별 가능한 환자 의료 원본·별도로 보관하는 외부 비공개 자료는 포함하지 않습니다.
++저자 성명·학교·이메일·전화·저자소개·사진을 보존하고 학과 정보를 제외한 PDF를 제공합니다. 현재 최종 링크는 지정한 사진 포함 PDF로 통일했습니다. 이전 공개 사본은 로컬에 보존합니다. 인증정보·식별 가능한 환자 의료 원본·별도로 보관하는 외부 비공개 자료는 포함하지 않습니다.
++
++
++> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
++
++현재 최종 원고는 [사진을 포함한 최종 PDF](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)입니다. 이전 초안은 해당 차수의 자료로 구분합니다.
+--- before/docs/PUBLIC_CHANGELOG_2026-10-30.md
++++ after/docs/PUBLIC_CHANGELOG_2026-10-30.md
+@@ -67,7 +67,7 @@
+ - [전체 단계·직전 단계 차이](REVISION_INDEX.md)에 파일별 근거와 원고 설명을 연결했습니다. 공백·주석·코드셀·Markdown·텍스트·수치·실험 설정을 전체 비교하며 ipynb의 바이너리 이미지 출력만 바이트 길이·SHA-256·원문 링크로 표시합니다. 원문 ipynb 자체는 보존합니다.
+ - UTF-8, 비밀 패턴, 실제 로컬 링크, 노트북 JSON, source/public SHA 및 코드 셀 보존, PDF 열기를 검사했습니다. 원본0바이트 노트북은 그대로 남기며 JSON·실행·성능 근거에서 제외합니다.
+ - 의료 원본 후보가 포함된 노트북 이미지 출력만 제외한 사본은 비공개 대응표에 source/public 해시와 변환 이유를 구별해 기록했습니다.
+-- 원문에 실린 본인·공동저자의 성명·소속·이메일·전화·ORCID·이력·사진은 최신 공개 지시에 따라 보존합니다. 기존 원격 정제 사본은 이력으로 유지합니다.
++- 본인·공동저자의 성명·학교·이메일·전화·ORCID·이력·사진을 보존하고, 학과 정보와 지정된 개인정보를 제외한 공개본을 제공합니다. 기존 원격 정제 사본은 이력으로 유지합니다.
+ - 인증키·비밀번호, 대용량 모델·원데이터, 연구와 무관한 결제 자료·도구 설치 캐시와 본인 비저자·공개권한 근거 불명확 외부 원고는 별도 제외·보류 근거로 관리합니다. 원본은 수정·삭제하지 않았습니다.
+ - 새 학습·임상·제조 장비·추천 성능 실험은 수행하지 않았습니다. 저장 표와 원고 보고값을 새 실측으로 소개하지 않습니다.
+ - 이 변경 기록 시점에는 원격 쓰기·커밋·푸시를 수행하지 않았고 부모 통합 독립 검토와 반영을 기다립니다.
+--- before/docs/REVISION_INDEX.md
++++ after/docs/REVISION_INDEX.md
+@@ -7,4 +7,4 @@
+ | [1차 · 06.17/06.22/06.29 원고 묶음](revisions/paper-1.md) | 동일 폴더 안에서 06.17·06.22·06.29 수정본과 영문 최종본이 이어집니다. 06.17 PDF에는 학회 양식의 예시 저자소개가 남고, 06.29 영문 초록에는 five benchmark datasets라고 쓰지만 본문 실험 표는 네 데이터셋을 제시합니다. 이는 원고 단계의 불일치로 보존하며 실제 다섯 데이터셋 실험을 추가 주장하지 않습니다. 06.22와06.29 수정본은 HWP만 확인되어 원본 fingerprint와 본문 비교로 구별합니다. | hwp·pdf·png·pptx | [직접 자료](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.17_%EC%9B%90%EA%B3%A0.pdf) | [전체 차이](revision-diffs/paper-1.diff) |
+ | [2차 원고](revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 바로잡고, Ratings2·Ratings5의 임계값2·5, ML-1M MRR@10 감소 예외, 기본5:5 결합 비율 및 참조문헌을 구체화합니다. 그래프 필터 설명도 Linear에서 High-order로 바뀐 부분이 있습니다. 원고 수정이며 새 실험 실행을 확인한 것은 아닙니다. | hwp·pdf | [직접 자료](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf) | [전체 차이](revision-diffs/paper-2.diff) |
+ | [3차 · 사물인터넷학회 양식 원고](revisions/paper-3.md) | 2차와 해시가 같은 영문 HWP 사본이 함께 남고, 별도 12.hwp/PDF는 한글 제목·국영문 초록과 한국사물인터넷학회 양식으로 재구성합니다. 초록은 F1·MRR·NDCG와 Ratings2 23/24·Ratings5 24/24 비교를 명시합니다. | hwp·pdf | [직접 자료](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EC%9B%90%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) | [전체 차이](revision-diffs/paper-3.diff) |
+-| [최종 원고](revisions/final.md) | 3차 12.hwp에서 표의 잘린 NDCG@ 표기를 NDCG@10으로 정리한 차이를 확인했습니다. 최종 PDF의 추천 방법·결과표는 원고 보고값이며 재현 코드·원데이터·새 측정은 제공되지 않습니다. | hwp·pdf | [직접 자료](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) | [전체 차이](revision-diffs/final.diff) |
++| [최종 원고](revisions/final.md) | 3차 12.hwp에서 표의 잘린 NDCG@ 표기를 NDCG@10으로 정리한 차이를 확인했습니다. 최종 PDF의 추천 방법·결과표는 원고 보고값이며 재현 코드·원데이터·새 측정은 제공되지 않습니다. | hwp·pdf | [직접 자료](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | [전체 차이](revision-diffs/final.diff) |
+--- before/docs/changes/2026-10-30-자료와차수정리.md
++++ after/docs/changes/2026-10-30-자료와차수정리.md
+@@ -38,13 +38,13 @@
+ | [docs/revisions/paper-1.md](../../docs/revisions/paper-1.md) |
+ | [docs/revisions/paper-2.md](../../docs/revisions/paper-2.md) |
+ | [docs/revisions/paper-3.md](../../docs/revisions/paper-3.md) |
+-| [논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) |
++| [논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp.md) |
+ | [논문/최종_원문_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) |
+-| [원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.17%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp) |
+-| [원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.22%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp) |
++| [원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.17%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp.md) |
++| [원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.22%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp.md) |
+ | [원고단계/1차/06.17_원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.17_%EC%9B%90%EA%B3%A0.pdf) |
+ | [원고단계/1차/06.29_영문_원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) |
+-| [원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/mainDocument-1%5B26M-07-082%5D-Original_1.hwp) |
++| [원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/mainDocument-1%5B26M-07-082%5D-Original_1.hwp.md) |
+ | [원고단계/1차/그림/논문 그림.pptx](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7.pptx) |
+ | [원고단계/1차/그림/그림1.png](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%EA%B7%B8%EB%A6%BC1.png) |
+ | [원고단계/1차/그림/그림10.png](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%EA%B7%B8%EB%A6%BC10.png) |
+@@ -56,21 +56,21 @@
+ | [원고단계/1차/그림/그림7.png](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%EA%B7%B8%EB%A6%BC7.png) |
+ | [원고단계/1차/그림/그림8.png](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%EA%B7%B8%EB%A6%BC8.png) |
+ | [원고단계/1차/그림/그림9.png](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%EA%B7%B8%EB%A6%BC9.png) |
+-| [원고단계/1차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp) |
+-| [원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp) |
+-| [원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp) |
+-| [원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp) |
+-| [원고단계/2차/심사답변서 2.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%8B%AC%EC%82%AC%EB%8B%B5%EB%B3%80%EC%84%9C%202.hwp) |
++| [원고단계/1차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp.md) |
++| [원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp.md) |
++| [원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp.md) |
++| [원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp.md) |
++| [원고단계/2차/심사답변서 2.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%8B%AC%EC%82%AC%EB%8B%B5%EB%B3%80%EC%84%9C%202.hwp.md) |
+ | [원고단계/2차/원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf) |
+-| [원고단계/3차/12.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/12.hwp) |
+-| [원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp) |
+-| [원고단계/3차/논문 최종 투고 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8.hwp) |
+-| [원고단계/3차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp) |
++| [원고단계/3차/12.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/12.hwp.md) |
++| [원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp.md) |
++| [원고단계/3차/논문 최종 투고 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8.hwp.md) |
++| [원고단계/3차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp.md) |
+ | [원고단계/3차/원문_원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EC%9B%90%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) |
+ | [원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/1%EC%B0%A8/%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EA%B7%B8%EB%A6%BC/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7.pptx) |
+ | [원고단계/관련문서/3차/논문 최종 투고 양식.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/3%EC%B0%A8/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8.pdf) |
+ | [원고단계/관련문서/3차/논문투고양식_2026.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/3%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.pdf) |
+-| [원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EC%B5%9C%EC%A2%85/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%9D%B4%EC%96%91%20%EB%8F%99%EC%9D%98%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp) |
++| [원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EC%B5%9C%EC%A2%85/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%9D%B4%EC%96%91%20%EB%8F%99%EC%9D%98%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp.md) |
+ 
+ </details>
+ 
+--- before/docs/revision-manifests/final.json
++++ after/docs/revision-manifests/final.json
+@@ -4,19 +4,32 @@
+   "files": {
+     "논문/최종_논문.pdf": {
+       "bytes": 469606,
+-      "sha256": "e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4"
++      "sha256": "e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4",
++      "public_path": "논문/최종_원문_논문.pdf",
++      "public_bytes": 487137,
++      "public_sha256": "0712c5ba5000ef6e9f3e0db7c89762cff26684a85461bab3953071beaccd3df1"
+     },
+     "논문/최종_원문_논문.pdf": {
+       "bytes": 518941,
+-      "sha256": "73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd"
++      "sha256": "73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd",
++      "public_path": "논문/최종_원문_논문.pdf",
++      "public_bytes": 487137,
++      "public_sha256": "0712c5ba5000ef6e9f3e0db7c89762cff26684a85461bab3953071beaccd3df1"
+     },
+     "논문/최종_원문_논문.hwp": {
+       "bytes": 739328,
+-      "sha256": "0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499"
++      "sha256": "0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499",
++      "public_path": "논문/최종_원문_논문.hwp.md",
++      "public_bytes": 455,
++      "public_sha256": "25a0fb59867bb277fa28680674eb81191491cb10f36426d9334a58c8f236aeb0"
+     },
+     "원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp": {
+       "bytes": 109056,
+-      "sha256": "cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18"
++      "sha256": "cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18",
++      "public_path": "원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp.md",
++      "public_bytes": 408,
++      "public_sha256": "df323b960addada60c0bd948a74f821d71817ccdbe362861f1b8b97b54135f75"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/paper-1.json
++++ after/docs/revision-manifests/paper-1.json
+@@ -4,83 +4,144 @@
+   "files": {
+     "원고단계/1차/06.17_원고.pdf": {
+       "bytes": 990860,
+-      "sha256": "2cbeeb844d29e0b2ff9678e53af9e125ddac87f5cdc44262e984203891afa99f"
++      "sha256": "2cbeeb844d29e0b2ff9678e53af9e125ddac87f5cdc44262e984203891afa99f",
++      "public_path": "원고단계/1차/06.17_원고.pdf",
++      "public_bytes": 972751,
++      "public_sha256": "b8a47d8fb775347dae642a29d29043c62b03aee7e47ad39aeffb77662b969f80"
+     },
+     "원고단계/1차/06.29_영문_원고.pdf": {
+       "bytes": 390409,
+-      "sha256": "5ffd68fd8e8cffa632d2f9ec30cdb96481f26507ae54110076fc3bd1f1645b71"
++      "sha256": "5ffd68fd8e8cffa632d2f9ec30cdb96481f26507ae54110076fc3bd1f1645b71",
++      "public_path": "원고단계/1차/06.29_영문_원고.pdf",
++      "public_bytes": 375014,
++      "public_sha256": "b454b038eaeaf1ad0575a1afb49cc748ff3f07759394bdfd637eb98c032a8ad3"
+     },
+     "원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp": {
+       "bytes": 1359360,
+-      "sha256": "76d62566214e255710bfcd65a195238fc8d06fafa56be8245c0ef391ba724752"
++      "sha256": "76d62566214e255710bfcd65a195238fc8d06fafa56be8245c0ef391ba724752",
++      "public_path": "원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp.md",
++      "public_bytes": 423,
++      "public_sha256": "78b51cb15d809fa808da7ea03596d187d1dc5f57efbd1149135580c941b29cbd"
+     },
+     "원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp": {
+       "bytes": 858112,
+-      "sha256": "884e8c7373aa44f1cdf2bb7327bfd4132414e6f18a33f589dc1f9735a7c60656"
++      "sha256": "884e8c7373aa44f1cdf2bb7327bfd4132414e6f18a33f589dc1f9735a7c60656",
++      "public_path": "원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp.md",
++      "public_bytes": 423,
++      "public_sha256": "f7df3c862deb8ce9696c2062d8869f61df88895d179c9e544b3c30c80f2facd7"
+     },
+     "원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp": {
+       "bytes": 262144,
+-      "sha256": "c0c6ed9a59d60c7687e4a91d028e05f53f9e19738ad34ddb3ce168f387f0d982"
++      "sha256": "c0c6ed9a59d60c7687e4a91d028e05f53f9e19738ad34ddb3ce168f387f0d982",
++      "public_path": "원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp.md",
++      "public_bytes": 442,
++      "public_sha256": "f5d9530333bb87331fc66197775ae421f9d24c724baf051051539ac0c76dad77"
+     },
+     "원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp": {
+       "bytes": 286208,
+-      "sha256": "a7a1c23e62df80ee179f456186ff2ccf0b412f79c90dd7b68566ed572c34545d"
++      "sha256": "a7a1c23e62df80ee179f456186ff2ccf0b412f79c90dd7b68566ed572c34545d",
++      "public_path": "원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp.md",
++      "public_bytes": 442,
++      "public_sha256": "f5d9530333bb87331fc66197775ae421f9d24c724baf051051539ac0c76dad77"
+     },
+     "원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp": {
+       "bytes": 282624,
+-      "sha256": "dc3b2ed80ba74003b4cfa57ed5e23be51e1d77a522579b5278b579d1d914e481"
++      "sha256": "dc3b2ed80ba74003b4cfa57ed5e23be51e1d77a522579b5278b579d1d914e481",
++      "public_path": "원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp.md",
++      "public_bytes": 442,
++      "public_sha256": "f5d9530333bb87331fc66197775ae421f9d24c724baf051051539ac0c76dad77"
+     },
+     "원고단계/1차/논문투고양식_2026.hwp": {
+       "bytes": 125440,
+-      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb"
++      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb",
++      "public_path": "원고단계/1차/논문투고양식_2026.hwp.md",
++      "public_bytes": 405,
++      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
+     },
+     "원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx": {
+       "bytes": 406977,
+-      "sha256": "9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7"
++      "sha256": "9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7",
++      "public_path": "원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx",
++      "public_bytes": 398477,
++      "public_sha256": "66a59f7adc7296bdc62a813f46a911e6c0fd8ad0af01296d2732b4ffba80c35f"
+     },
+     "원고단계/1차/그림/논문 그림.pptx": {
+       "bytes": 406977,
+-      "sha256": "9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7"
++      "sha256": "9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7",
++      "public_path": "원고단계/1차/그림/논문 그림.pptx",
++      "public_bytes": 398477,
++      "public_sha256": "66a59f7adc7296bdc62a813f46a911e6c0fd8ad0af01296d2732b4ffba80c35f"
+     },
+     "원고단계/1차/그림/그림1.png": {
+       "bytes": 21190,
+-      "sha256": "97d5f42dcb92f7f411a0d0f4e75872e7e12c7cab4143ba8e4676054f4b61d87b"
++      "sha256": "97d5f42dcb92f7f411a0d0f4e75872e7e12c7cab4143ba8e4676054f4b61d87b",
++      "public_path": "원고단계/1차/그림/그림1.png",
++      "public_bytes": 21190,
++      "public_sha256": "97d5f42dcb92f7f411a0d0f4e75872e7e12c7cab4143ba8e4676054f4b61d87b"
+     },
+     "원고단계/1차/그림/그림10.png": {
+       "bytes": 110487,
+-      "sha256": "4a518bc608a8351006efa09285f7958d0b1cf186cd82bfcf756c807ce3c93ccf"
++      "sha256": "4a518bc608a8351006efa09285f7958d0b1cf186cd82bfcf756c807ce3c93ccf",
++      "public_path": "원고단계/1차/그림/그림10.png",
++      "public_bytes": 110487,
++      "public_sha256": "4a518bc608a8351006efa09285f7958d0b1cf186cd82bfcf756c807ce3c93ccf"
+     },
+     "원고단계/1차/그림/그림2.png": {
+       "bytes": 226711,
+-      "sha256": "102a5875e58a27da7dcefe30d6046471b2734321b437cc8e5fdd12067bcadd00"
++      "sha256": "102a5875e58a27da7dcefe30d6046471b2734321b437cc8e5fdd12067bcadd00",
++      "public_path": "원고단계/1차/그림/그림2.png",
++      "public_bytes": 226711,
++      "public_sha256": "102a5875e58a27da7dcefe30d6046471b2734321b437cc8e5fdd12067bcadd00"
+     },
+     "원고단계/1차/그림/그림3.png": {
+       "bytes": 107576,
+-      "sha256": "6692573be67dd04dd92ffef7a8e996d99e1e04d3317cf9b86d40a8c66eaff1b5"
++      "sha256": "6692573be67dd04dd92ffef7a8e996d99e1e04d3317cf9b86d40a8c66eaff1b5",
++      "public_path": "원고단계/1차/그림/그림3.png",
++      "public_bytes": 107576,
++      "public_sha256": "6692573be67dd04dd92ffef7a8e996d99e1e04d3317cf9b86d40a8c66eaff1b5"
+     },
+     "원고단계/1차/그림/그림4.png": {
+       "bytes": 37464,
+-      "sha256": "2759ef8c71dc5aaa26a4ee5d2829f6f4ff36cd94a7b8320829c14a8b544be05d"
++      "sha256": "2759ef8c71dc5aaa26a4ee5d2829f6f4ff36cd94a7b8320829c14a8b544be05d",
++      "public_path": "원고단계/1차/그림/그림4.png",
++      "public_bytes": 37464,
++      "public_sha256": "2759ef8c71dc5aaa26a4ee5d2829f6f4ff36cd94a7b8320829c14a8b544be05d"
+     },
+     "원고단계/1차/그림/그림5.png": {
+       "bytes": 18109,
+-      "sha256": "31fc8d8ab585cedfd7d7f6ddc3b624040cc9701a3ed3915a57e1dc0b633a1d7d"
++      "sha256": "31fc8d8ab585cedfd7d7f6ddc3b624040cc9701a3ed3915a57e1dc0b633a1d7d",
++      "public_path": "원고단계/1차/그림/그림5.png",
++      "public_bytes": 18109,
++      "public_sha256": "31fc8d8ab585cedfd7d7f6ddc3b624040cc9701a3ed3915a57e1dc0b633a1d7d"
+     },
+     "원고단계/1차/그림/그림6.png": {
+       "bytes": 59047,
+-      "sha256": "17398d61ac5be83e00b3ade53a4e9e90ee6fd3e3b13d251d222f6e57b2b59955"
++      "sha256": "17398d61ac5be83e00b3ade53a4e9e90ee6fd3e3b13d251d222f6e57b2b59955",
++      "public_path": "원고단계/1차/그림/그림6.png",
++      "public_bytes": 59047,
++      "public_sha256": "17398d61ac5be83e00b3ade53a4e9e90ee6fd3e3b13d251d222f6e57b2b59955"
+     },
+     "원고단계/1차/그림/그림7.png": {
+       "bytes": 95822,
+-      "sha256": "55a6fde9d752c09c3693e066559db00beff6867e382bb154b22b67f972d1be48"
++      "sha256": "55a6fde9d752c09c3693e066559db00beff6867e382bb154b22b67f972d1be48",
++      "public_path": "원고단계/1차/그림/그림7.png",
++      "public_bytes": 95822,
++      "public_sha256": "55a6fde9d752c09c3693e066559db00beff6867e382bb154b22b67f972d1be48"
+     },
+     "원고단계/1차/그림/그림8.png": {
+       "bytes": 112486,
+-      "sha256": "0a7b6f63201f8da42861f28d1c40c44689e10eb9d2511e65c9c8dc0222e8b649"
++      "sha256": "0a7b6f63201f8da42861f28d1c40c44689e10eb9d2511e65c9c8dc0222e8b649",
++      "public_path": "원고단계/1차/그림/그림8.png",
++      "public_bytes": 112486,
++      "public_sha256": "0a7b6f63201f8da42861f28d1c40c44689e10eb9d2511e65c9c8dc0222e8b649"
+     },
+     "원고단계/1차/그림/그림9.png": {
+       "bytes": 143451,
+-      "sha256": "65c4b6c50432d9bd3d94542a8d2e4e27d538795caf31e3c508afc449dc3951bd"
++      "sha256": "65c4b6c50432d9bd3d94542a8d2e4e27d538795caf31e3c508afc449dc3951bd",
++      "public_path": "원고단계/1차/그림/그림9.png",
++      "public_bytes": 143451,
++      "public_sha256": "65c4b6c50432d9bd3d94542a8d2e4e27d538795caf31e3c508afc449dc3951bd"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/paper-2.json
++++ after/docs/revision-manifests/paper-2.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "원고단계/2차/원고.pdf": {
+       "bytes": 402989,
+-      "sha256": "15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc"
++      "sha256": "15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc",
++      "public_path": "원고단계/2차/원고.pdf",
++      "public_bytes": 386793,
++      "public_sha256": "7e36fb06d21d90820e1f35e98082acfe1b98b160ae8962d86ea3b9de5d82640f"
+     },
+     "원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp": {
+       "bytes": 287232,
+-      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082"
++      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082",
++      "public_path": "원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md",
++      "public_bytes": 417,
++      "public_sha256": "f8a50437fcdd2209c557d840e971a69cfde57d660545309520bf83c1dda97ebe"
+     },
+     "원고단계/2차/심사답변서 2.hwp": {
+       "bytes": 86528,
+-      "sha256": "362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac"
++      "sha256": "362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac",
++      "public_path": "원고단계/2차/심사답변서 2.hwp.md",
++      "public_bytes": 405,
++      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/paper-3.json
++++ after/docs/revision-manifests/paper-3.json
+@@ -4,31 +4,53 @@
+   "files": {
+     "원고단계/3차/원문_원고.pdf": {
+       "bytes": 520699,
+-      "sha256": "205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21"
++      "sha256": "205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21",
++      "public_path": "원고단계/3차/원문_원고.pdf",
++      "public_bytes": 488779,
++      "public_sha256": "f16f879c479dd15a552386686696a864a1e707f916ce39aa2599fe97c570c8f0"
+     },
+     "원고단계/3차/12.hwp": {
+       "bytes": 739328,
+-      "sha256": "aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b"
++      "sha256": "aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b",
++      "public_path": "원고단계/3차/12.hwp.md",
++      "public_bytes": 436,
++      "public_sha256": "02d6121b7bb4c34ad31bcea0ea5310bba31e0e5449c2cf2f670fbfe4aabfec4e"
+     },
+     "원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp": {
+       "bytes": 287232,
+-      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082"
++      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082",
++      "public_path": "원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md",
++      "public_bytes": 431,
++      "public_sha256": "97ea0c7d65654049ea5a0d5cac62edf82072591f2f5f258fe7473758402f3653"
+     },
+     "원고단계/3차/논문 최종 투고 양식.hwp": {
+       "bytes": 65536,
+-      "sha256": "de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373"
++      "sha256": "de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373",
++      "public_path": "원고단계/3차/논문 최종 투고 양식.hwp.md",
++      "public_bytes": 405,
++      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
+     },
+     "원고단계/3차/논문투고양식_2026.hwp": {
+       "bytes": 125440,
+-      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb"
++      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb",
++      "public_path": "원고단계/3차/논문투고양식_2026.hwp.md",
++      "public_bytes": 405,
++      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
+     },
+     "원고단계/관련문서/3차/논문 최종 투고 양식.pdf": {
+       "bytes": 276627,
+-      "sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e"
++      "sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e",
++      "public_path": "원고단계/관련문서/3차/논문 최종 투고 양식.pdf",
++      "public_bytes": 276627,
++      "public_sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e"
+     },
+     "원고단계/관련문서/3차/논문투고양식_2026.pdf": {
+       "bytes": 255450,
+-      "sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697"
++      "sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697",
++      "public_path": "원고단계/관련문서/3차/논문투고양식_2026.pdf",
++      "public_bytes": 255450,
++      "public_sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revisions/final.md
++++ after/docs/revisions/final.md
+@@ -12,10 +12,10 @@
+ 
+ | 파일 | 종류 | 바이트 | SHA-256 |
+ |---|---|---:|---|
+-| [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) | .pdf | 469606 | `e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4` |
++| [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | .pdf | 469606 | `e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4` |
+ | [논문/최종_원문_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | .pdf | 518941 | `73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd` |
+-| [논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | .hwp | 739328 | `0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499` |
+-| [원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EC%B5%9C%EC%A2%85/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%9D%B4%EC%96%91%20%EB%8F%99%EC%9D%98%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp) | .hwp | 109056 | `cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18` |
++| [논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp.md) | .hwp | 739328 | `0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499` |
++| [원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EC%B5%9C%EC%A2%85/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%9D%B4%EC%96%91%20%EB%8F%99%EC%9D%98%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp.md) | .hwp | 109056 | `cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18` |
+ 
+ ## 🔎 해석·검증 범위
+ 
+--- before/docs/revisions/paper-1.md
++++ after/docs/revisions/paper-1.md
+@@ -14,12 +14,12 @@
+ |---|---|---:|---|
+ | [원고단계/1차/06.17_원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.17_%EC%9B%90%EA%B3%A0.pdf) | .pdf | 990860 | `2cbeeb844d29e0b2ff9678e53af9e125ddac87f5cdc44262e984203891afa99f` |
+ | [원고단계/1차/06.29_영문_원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) | .pdf | 390409 | `5ffd68fd8e8cffa632d2f9ec30cdb96481f26507ae54110076fc3bd1f1645b71` |
+-| [원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.17%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp) | .hwp | 1359360 | `76d62566214e255710bfcd65a195238fc8d06fafa56be8245c0ef391ba724752` |
+-| [원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.22%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp) | .hwp | 858112 | `884e8c7373aa44f1cdf2bb7327bfd4132414e6f18a33f589dc1f9735a7c60656` |
+-| [원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/mainDocument-1%5B26M-07-082%5D-Original_1.hwp) | .hwp | 262144 | `c0c6ed9a59d60c7687e4a91d028e05f53f9e19738ad34ddb3ce168f387f0d982` |
+-| [원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp) | .hwp | 286208 | `a7a1c23e62df80ee179f456186ff2ccf0b412f79c90dd7b68566ed572c34545d` |
+-| [원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp) | .hwp | 282624 | `dc3b2ed80ba74003b4cfa57ed5e23be51e1d77a522579b5278b579d1d914e481` |
+-| [원고단계/1차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp) | .hwp | 125440 | `78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb` |
++| [원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.17%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp.md) | .hwp | 1359360 | `76d62566214e255710bfcd65a195238fc8d06fafa56be8245c0ef391ba724752` |
++| [원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%2806.22%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp.md) | .hwp | 858112 | `884e8c7373aa44f1cdf2bb7327bfd4132414e6f18a33f589dc1f9735a7c60656` |
++| [원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/mainDocument-1%5B26M-07-082%5D-Original_1.hwp.md) | .hwp | 262144 | `c0c6ed9a59d60c7687e4a91d028e05f53f9e19738ad34ddb3ce168f387f0d982` |
++| [원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%A0%95%EB%B3%B8.hwp.md) | .hwp | 286208 | `a7a1c23e62df80ee179f456186ff2ccf0b412f79c90dd7b68566ed572c34545d` |
++| [원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EC%98%81%EB%AC%B8%20%2806.29%29%20%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp.md) | .hwp | 282624 | `dc3b2ed80ba74003b4cfa57ed5e23be51e1d77a522579b5278b579d1d914e481` |
++| [원고단계/1차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp.md) | .hwp | 125440 | `78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb` |
+ | [원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/1%EC%B0%A8/%ED%9D%AC%EC%B0%AC%EC%9D%B4%20%ED%98%95%20%EB%85%BC%EB%AC%B8%20%EA%B7%B8%EB%A6%BC/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7.pptx) | .pptx | 406977 | `9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7` |
+ | [원고단계/1차/그림/논문 그림.pptx](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7.pptx) | .pptx | 406977 | `9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7` |
+ | [원고단계/1차/그림/그림1.png](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/%EA%B7%B8%EB%A6%BC/%EA%B7%B8%EB%A6%BC1.png) | .png | 21190 | `97d5f42dcb92f7f411a0d0f4e75872e7e12c7cab4143ba8e4676054f4b61d87b` |
+--- before/docs/revisions/paper-2.md
++++ after/docs/revisions/paper-2.md
+@@ -13,8 +13,8 @@
+ | 파일 | 종류 | 바이트 | SHA-256 |
+ |---|---|---:|---|
+ | [원고단계/2차/원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf) | .pdf | 402989 | `15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc` |
+-| [원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
+-| [원고단계/2차/심사답변서 2.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%8B%AC%EC%82%AC%EB%8B%B5%EB%B3%80%EC%84%9C%202.hwp) | .hwp | 86528 | `362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac` |
++| [원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp.md) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
++| [원고단계/2차/심사답변서 2.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%8B%AC%EC%82%AC%EB%8B%B5%EB%B3%80%EC%84%9C%202.hwp.md) | .hwp | 86528 | `362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac` |
+ 
+ ## 🔎 해석·검증 범위
+ 
+--- before/docs/revisions/paper-3.md
++++ after/docs/revisions/paper-3.md
+@@ -13,10 +13,10 @@
+ | 파일 | 종류 | 바이트 | SHA-256 |
+ |---|---|---:|---|
+ | [원고단계/3차/원문_원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EC%9B%90%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) | .pdf | 520699 | `205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21` |
+-| [원고단계/3차/12.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/12.hwp) | .hwp | 739328 | `aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b` |
+-| [원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
+-| [원고단계/3차/논문 최종 투고 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8.hwp) | .hwp | 65536 | `de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373` |
+-| [원고단계/3차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp) | .hwp | 125440 | `78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb` |
++| [원고단계/3차/12.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/12.hwp.md) | .hwp | 739328 | `aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b` |
++| [원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp.md) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
++| [원고단계/3차/논문 최종 투고 양식.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8.hwp.md) | .hwp | 65536 | `de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373` |
++| [원고단계/3차/논문투고양식_2026.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.hwp.md) | .hwp | 125440 | `78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb` |
+ | [원고단계/관련문서/3차/논문 최종 투고 양식.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/3%EC%B0%A8/%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8.pdf) | .pdf | 276627 | `1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e` |
+ | [원고단계/관련문서/3차/논문투고양식_2026.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/3%EC%B0%A8/%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%96%91%EC%8B%9D_2026.pdf) | .pdf | 255450 | `a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697` |
+ 
+--- before/docs/versions/final-paper.md
++++ after/docs/versions/final-paper.md
+@@ -2,7 +2,7 @@
+ 
+ 상호작용 그래프와 평점 정보를 결합하여 추천 순위를 평가하는 원고입니다.
+ 
+-[최종 원고 읽기](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) · [프로젝트 소개](../../README.md) · [연구 자료](../VERSIONS.md)
++[최종 원고 읽기](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [프로젝트 소개](../../README.md) · [연구 자료](../VERSIONS.md)
+ 
+ ## 🔎 연구 범위
+ 
+@@ -22,8 +22,8 @@
+ 
+ ## 📍 관련 자료
+ 
+-- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 4–6쪽
+-- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 7–8쪽
++- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 4–6쪽
++- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 7–8쪽
+ 
+ 셀 번호는 0부터, 소스 행 번호와 PDF 쪽 번호는 1부터 셉니다. 
+ 
+
+Binary: 논문/최종_논문.pdf
+Before bytes=469606 sha256=e6e450c8c707ea159e201f9828a5906f076139634cb2fc5fb22b0ac6706a68a4
+After bytes=None sha256=None
+
+Binary: 논문/최종_원문_논문.hwp
+Before bytes=739328 sha256=0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499
+After bytes=None sha256=None
+--- before/논문/최종_원문_논문.hwp.md
++++ after/논문/최종_원문_논문.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 논문/최종_원문_논문.pdf
+Before bytes=518941 sha256=73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd
+After bytes=487137 sha256=0712c5ba5000ef6e9f3e0db7c89762cff26684a85461bab3953071beaccd3df1
+
+Binary: 원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp
+Before bytes=1359360 sha256=76d62566214e255710bfcd65a195238fc8d06fafa56be8245c0ef391ba724752
+After bytes=None sha256=None
+--- before/원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp.md
++++ after/원고단계/1차/(06.17) 희찬이 형 논문 수정본.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](06.17_%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp
+Before bytes=858112 sha256=884e8c7373aa44f1cdf2bb7327bfd4132414e6f18a33f589dc1f9735a7c60656
+After bytes=None sha256=None
+--- before/원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp.md
++++ after/원고단계/1차/(06.22) 희찬이 형 논문 수정본.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](06.22_%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/1차/06.17_원고.pdf
+Before bytes=990860 sha256=2cbeeb844d29e0b2ff9678e53af9e125ddac87f5cdc44262e984203891afa99f
+After bytes=972751 sha256=b8a47d8fb775347dae642a29d29043c62b03aee7e47ad39aeffb77662b969f80
+
+Binary: 원고단계/1차/06.22_원고.pdf
+Before bytes=None sha256=None
+After bytes=615096 sha256=b59db2dbdbdeb3c2cc094b0c920f8c99fd0528d2fe6d630f380f85faf5e913e4
+
+Binary: 원고단계/1차/06.29_영문_원고.pdf
+Before bytes=390409 sha256=5ffd68fd8e8cffa632d2f9ec30cdb96481f26507ae54110076fc3bd1f1645b71
+After bytes=375014 sha256=b454b038eaeaf1ad0575a1afb49cc748ff3f07759394bdfd637eb98c032a8ad3
+
+Binary: 원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp
+Before bytes=262144 sha256=c0c6ed9a59d60c7687e4a91d028e05f53f9e19738ad34ddb3ce168f387f0d982
+After bytes=None sha256=None
+--- before/원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp.md
++++ after/원고단계/1차/mainDocument-1[26M-07-082]-Original_1.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/1차/그림/논문 그림.pptx
+Before bytes=406977 sha256=9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7
+After bytes=398477 sha256=66a59f7adc7296bdc62a813f46a911e6c0fd8ad0af01296d2732b4ffba80c35f
+
+Binary: 원고단계/1차/논문투고양식_2026.hwp
+Before bytes=125440 sha256=78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb
+After bytes=None sha256=None
+--- before/원고단계/1차/논문투고양식_2026.hwp.md
++++ after/원고단계/1차/논문투고양식_2026.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++이 편집 문서는 비공개로 보관합니다. 공개 논문과 연구 내용은 [논문 안내](../../docs/PAPERS.md)에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp
+Before bytes=286208 sha256=a7a1c23e62df80ee179f456186ff2ccf0b412f79c90dd7b68566ed572c34545d
+After bytes=None sha256=None
+--- before/원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp.md
++++ after/원고단계/1차/영문 (06.29) 희찬이 형 논문 수정본.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp
+Before bytes=282624 sha256=dc3b2ed80ba74003b4cfa57ed5e23be51e1d77a522579b5278b579d1d914e481
+After bytes=None sha256=None
+--- before/원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp.md
++++ after/원고단계/1차/영문 (06.29) 희찬이 형 논문 최종본.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp
+Before bytes=287232 sha256=f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082
+After bytes=None sha256=None
+--- before/원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md
++++ after/원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/2차/심사답변서 2.hwp
+Before bytes=86528 sha256=362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac
+After bytes=None sha256=None
+--- before/원고단계/2차/심사답변서 2.hwp.md
++++ after/원고단계/2차/심사답변서 2.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++이 편집 문서는 비공개로 보관합니다. 공개 논문과 연구 내용은 [논문 안내](../../docs/PAPERS.md)에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/2차/원고.pdf
+Before bytes=402989 sha256=15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc
+After bytes=386793 sha256=7e36fb06d21d90820e1f35e98082acfe1b98b160ae8962d86ea3b9de5d82640f
+
+Binary: 원고단계/3차/12.hwp
+Before bytes=739328 sha256=aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b
+After bytes=None sha256=None
+--- before/원고단계/3차/12.hwp.md
++++ after/원고단계/3차/12.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EC%9B%90%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp
+Before bytes=287232 sha256=f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082
+After bytes=None sha256=None
+--- before/원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md
++++ after/원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](../2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/3차/논문 최종 투고 양식.hwp
+Before bytes=65536 sha256=de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373
+After bytes=None sha256=None
+--- before/원고단계/3차/논문 최종 투고 양식.hwp.md
++++ after/원고단계/3차/논문 최종 투고 양식.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++이 편집 문서는 비공개로 보관합니다. 공개 논문과 연구 내용은 [논문 안내](../../docs/PAPERS.md)에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/3차/논문투고양식_2026.hwp
+Before bytes=125440 sha256=78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb
+After bytes=None sha256=None
+--- before/원고단계/3차/논문투고양식_2026.hwp.md
++++ after/원고단계/3차/논문투고양식_2026.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++이 편집 문서는 비공개로 보관합니다. 공개 논문과 연구 내용은 [논문 안내](../../docs/PAPERS.md)에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원고단계/3차/원문_원고.pdf
+Before bytes=520699 sha256=205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21
+After bytes=488779 sha256=f16f879c479dd15a552386686696a864a1e707f916ce39aa2599fe97c570c8f0
+
+Binary: 원고단계/관련문서/1차/희찬이 형 논문 그림/논문 그림.pptx
+Before bytes=406977 sha256=9836bb2573d21d417a08edcedffeccc617b49d40e083b3295da9144a781111e7
+After bytes=398477 sha256=66a59f7adc7296bdc62a813f46a911e6c0fd8ad0af01296d2732b4ffba80c35f
+
+Binary: 원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp
+Before bytes=109056 sha256=cfba0a20744f288ac044ad031ba040d117a9e62362bf96422047e292d09def18
+After bytes=None sha256=None
+--- before/원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp.md
++++ after/원고단계/관련문서/최종/저작권 이양 동의서 양식.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++이 편집 문서는 비공개로 보관합니다. 공개 논문과 연구 내용은 [논문 안내](../../../docs/PAPERS.md)에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+--- before/docs/PRIVACY_CHANGELOG_2026-10-30.md
++++ after/docs/PRIVACY_CHANGELOG_2026-10-30.md
+@@ -0,0 +1,7 @@
++# 📝 개인정보 정리와 논문 공개본
++
++저자·공동저자의 성명, 학교, 이메일, ORCID와 사진을 유지하고 학과·학부 세부 표기를 제외했습니다. 편집 원문은 로컬에 보존하며 검수한 PDF를 제공합니다. 연구 알고리즘과 보고 수치는 바꾸지 않았습니다.
++
++[📚 논문 안내](PAPERS.md) · [🔎 공개 가능한 전체 비교](privacy-changes.diff) · [📋 이번 실제 파일별 변경·크기·해시](publication-review/공개파일변경.json)
++
++제외한 개인정보 값을 공개 패치에 다시 기록하지 않습니다. 원본의 실제 전체 차이는 로컬에 보존하고, 공개 바이너리는 이전·현재 크기와 SHA-256으로 구분합니다.

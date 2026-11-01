@@ -206,7 +206,7 @@ Binary files 원고단계/3차/논문투고양식_2026.hwp and 논문/최종_원
 +Vol. X, No. X, pp. -, 2021
  사용자평가정보를활용한추천시스템의성능개선
  김희찬1, 곽윤석2, 김남기*3
- 1경기대학교컴퓨터과학과, 2경기대학교컴퓨터과학과학생, 3경기대학교컴퓨터과학과교수
+ 1경기대학교, 2경기대학교학생, 3경기대학교교수
 @@ -51,6 +49,8 @@
  
  === 2쪽 ===
@@ -785,13 +785,13 @@ Binary files 원고단계/3차/논문투고양식_2026.hwp and 논문/최종_원
 -(서체:중고딕, 크기: 10pt, 가운데정렬)
 +사용자평가정보를활용한추천시스템의성능개선
 +김희찬1, 곽윤석2, 김남기*3
-+1경기대학교컴퓨터과학과, 2경기대학교컴퓨터과학과학생, 3경기대학교컴퓨터과학과교수
++1경기대학교, 2경기대학교학생, 3경기대학교교수
 +Performance Improvement of Recommendation Systems
 +using User Evaluation Information
 +Heechan Kim1, Yunsuk Kwak2, Namgi Kim3*
-+1Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+2Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+3Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
++1 Kyonggi University, Suwon, Korea
++2Student,  Kyonggi University, Suwon, Korea
++3Professor,  Kyonggi University, Suwon, Korea
  요  약
 -본논문은사물인터넷융복합논문지투고요령입니다.
 -(서체: 신명조, 크기: 8pt, 혼합정렬)
@@ -1789,7 +1789,7 @@ Binary files 원고단계/3차/논문투고양식_2026.hwp and 논문/최종_원
 +• 2025년2월
 +:
 +경기대학교
-+컴퓨터과학과석사
++석사
 +<관심분야>
 +강화학습, 메타러닝, 네트워크
 +곽 윤 석(Yunsuk Kwak)               [정회원]
@@ -1798,21 +1798,21 @@ Binary files 원고단계/3차/논문투고양식_2026.hwp and 논문/최종_원
 +2월
 +:
 +경기대학교
-+인공지능전공학사
++학사
 +• 2026년3월~ 현재: 경기
-+대학교컴퓨터과학과석사과
++대학교석사과
 +정
 +<관심분야>
 +인공지능, 컴퓨터 비전, 딥러닝, 개인정보 보호
 +김 남 기(Namgi Kim)               [정회원]
 +• 1997년: 서강대학교컴퓨터
 +공학과학사
-+• 2000년: KAIST 전산학과
++• 2000년: KAIST 
 +석사
-+• 2005년: KAIST 전산학과
++• 2005년: KAIST 
 +박사
 +• 2007년~ 현재: 경기대학
-+교AI컴퓨터공학부교수
++교교수
 +<관심분야>
 +컴퓨터 네트워크, 이상 탐지, 추천시스템 최적화, 
 +멀티캐스트 라우팅
@@ -1825,13 +1825,13 @@ Binary files /dev/null and 원고단계/관련문서/최종/저작권 이양 동
 +Vol. X, No. X, pp. -, 2021
 +사용자평가정보를활용한추천시스템의성능개선
 +김희찬1, 곽윤석2, 김남기*3
-+1경기대학교컴퓨터과학과, 2경기대학교컴퓨터과학과학생, 3경기대학교컴퓨터과학과교수
++1경기대학교, 2경기대학교학생, 3경기대학교교수
 +Performance Improvement of Recommendation Systems
 +using User Evaluation Information
 +Heechan Kim1, Yunsuk Kwak2, Namgi Kim3*
-+1Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+2Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+3Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
++1 Kyonggi University, Suwon, Korea
++2Student,  Kyonggi University, Suwon, Korea
++3Professor,  Kyonggi University, Suwon, Korea
 +요  약
 +기존그래프신호처리(Graph Signal Processing, GSP) 기반추천시스템은사용자와아이템의상호작용
 +여부를중심으로그래프를구성하여평점에나타난사용자선호를충분히반영하지못한다. 본논문에서는이러한한
@@ -2722,7 +2722,7 @@ Binary files /dev/null and 원고단계/관련문서/최종/저작권 이양 동
 +• 2025년2월
 +:
 +경기대학교
-+컴퓨터과학과석사
++석사
 +<관심분야>
 +강화학습, 메타러닝, 네트워크
 +곽 윤 석(Yunsuk Kwak)               [정회원]
@@ -2731,21 +2731,21 @@ Binary files /dev/null and 원고단계/관련문서/최종/저작권 이양 동
 +2월
 +:
 +경기대학교
-+인공지능전공학사
++학사
 +• 2026년3월~ 현재: 경기
-+대학교컴퓨터과학과석사과
++대학교석사과
 +정
 +<관심분야>
 +인공지능, 컴퓨터 비전, 딥러닝, 개인정보 보호
 +김 남 기(Namgi Kim)               [정회원]
 +• 1997년: 서강대학교컴퓨터
 +공학과학사
-+• 2000년: KAIST 전산학과
++• 2000년: KAIST 
 +석사
-+• 2005년: KAIST 전산학과
++• 2005년: KAIST 
 +박사
 +• 2007년~ 현재: 경기대학
-+교AI컴퓨터공학부교수
++교교수
 +<관심분야>
 +컴퓨터 네트워크, 이상 탐지, 추천시스템 최적화, 
 +멀티캐스트 라우팅
@@ -2757,13 +2757,13 @@ Binary files /dev/null and 원고단계/관련문서/최종/저작권 이양 동
 +Vol. X, No. X, pp. -, 2021
 +사용자평가정보를활용한추천시스템의성능개선
 +김희찬1, 곽윤석2, 김남기*3
-+1경기대학교컴퓨터과학과, 2경기대학교컴퓨터과학과학생, 3경기대학교컴퓨터과학과교수
++1경기대학교, 2경기대학교학생, 3경기대학교교수
 +Performance Improvement of Recommendation Systems
 +using User Evaluation Information
 +Heechan Kim1, Yunsuk Kwak2, Namgi Kim3*
-+1Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+2Student, Dept. of Computer Science, Kyonggi University, Suwon, Korea
-+3Professor, Dept. of Computer Science, Kyonggi University, Suwon, Korea
++1 Kyonggi University, Suwon, Korea
++2Student,  Kyonggi University, Suwon, Korea
++3Professor,  Kyonggi University, Suwon, Korea
 +요  약
 +기존그래프신호처리(Graph Signal Processing, GSP) 기반추천시스템은사용자와아이템의상호작용
 +여부를중심으로그래프를구성하여평점에나타난사용자선호를충분히반영하지못한다. 본논문에서는이러한한
@@ -3654,7 +3654,7 @@ Binary files /dev/null and 원고단계/관련문서/최종/저작권 이양 동
 +• 2025년2월
 +:
 +경기대학교
-+컴퓨터과학과석사
++석사
 +<관심분야>
 +강화학습, 메타러닝, 네트워크
 +곽 윤 석(Yunsuk Kwak)               [정회원]
@@ -3663,21 +3663,21 @@ Binary files /dev/null and 원고단계/관련문서/최종/저작권 이양 동
 +2월
 +:
 +경기대학교
-+인공지능전공학사
++학사
 +• 2026년3월~ 현재: 경기
-+대학교컴퓨터과학과석사과
++대학교석사과
 +정
 +<관심분야>
 +인공지능, 컴퓨터 비전, 딥러닝, 개인정보 보호
 +김 남 기(Namgi Kim)               [정회원]
 +• 1997년: 서강대학교컴퓨터
 +공학과학사
-+• 2000년: KAIST 전산학과
++• 2000년: KAIST 
 +석사
-+• 2005년: KAIST 전산학과
++• 2005년: KAIST 
 +박사
 +• 2007년~ 현재: 경기대학
-+교AI컴퓨터공학부교수
++교교수
 +<관심분야>
 +컴퓨터 네트워크, 이상 탐지, 추천시스템 최적화, 
 +멀티캐스트 라우팅

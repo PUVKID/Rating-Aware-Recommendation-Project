@@ -4,31 +4,53 @@
   "files": {
     "원고단계/3차/원문_원고.pdf": {
       "bytes": 520699,
-      "sha256": "205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21"
+      "sha256": "205f85a39d289712bd792307ecc7493f37601ac3168c7276174e7be9a6352f21",
+      "public_path": "원고단계/3차/원문_원고.pdf",
+      "public_bytes": 488779,
+      "public_sha256": "f16f879c479dd15a552386686696a864a1e707f916ce39aa2599fe97c570c8f0"
     },
     "원고단계/3차/12.hwp": {
       "bytes": 739328,
-      "sha256": "aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b"
+      "sha256": "aa14560c9503d7ef17cc6184351964a8f91b4e9961d9b99a301abd0814a50c1b",
+      "public_path": "원고단계/3차/12.hwp.md",
+      "public_bytes": 436,
+      "public_sha256": "02d6121b7bb4c34ad31bcea0ea5310bba31e0e5449c2cf2f670fbfe4aabfec4e"
     },
     "원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp": {
       "bytes": 287232,
-      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082"
+      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082",
+      "public_path": "원고단계/3차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md",
+      "public_bytes": 431,
+      "public_sha256": "97ea0c7d65654049ea5a0d5cac62edf82072591f2f5f258fe7473758402f3653"
     },
     "원고단계/3차/논문 최종 투고 양식.hwp": {
       "bytes": 65536,
-      "sha256": "de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373"
+      "sha256": "de6b187fe2b3ac6a193f3761fc536b4d6b2a25f83e173b7ac6a4893892919373",
+      "public_path": "원고단계/3차/논문 최종 투고 양식.hwp.md",
+      "public_bytes": 405,
+      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
     },
     "원고단계/3차/논문투고양식_2026.hwp": {
       "bytes": 125440,
-      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb"
+      "sha256": "78222e462610a4f63ad57ce96eab1ca7f386ad30334bcca2276b604c8f14cfdb",
+      "public_path": "원고단계/3차/논문투고양식_2026.hwp.md",
+      "public_bytes": 405,
+      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
     },
     "원고단계/관련문서/3차/논문 최종 투고 양식.pdf": {
       "bytes": 276627,
-      "sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e"
+      "sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e",
+      "public_path": "원고단계/관련문서/3차/논문 최종 투고 양식.pdf",
+      "public_bytes": 276627,
+      "public_sha256": "1e045c7b35391e6c59960d3007c3a721c3fe381eef1ca53a7f68a6182491739e"
     },
     "원고단계/관련문서/3차/논문투고양식_2026.pdf": {
       "bytes": 255450,
-      "sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697"
+      "sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697",
+      "public_path": "원고단계/관련문서/3차/논문투고양식_2026.pdf",
+      "public_bytes": 255450,
+      "public_sha256": "a2ed4c61c311cf2986cf4510e3de12f014fa25993ee2265b682499b45280c697"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

@@ -29,7 +29,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 [현재 원문 PDF·공식 링크 교체 위치](docs/PAPERS.md) · [모든 실제 차수·최종본·전체 비교](docs/REVISION_INDEX.md)
 
-- **최종 원문**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)
+- **최종 원문**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp.md)
 
 공식 공개 URL은 아직 등록하지 않았습니다. 추후 [논문 전용 표](docs/PAPERS.md)의 교체 칸과 이 항목을 함께 갱신합니다.
 
@@ -64,7 +64,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 **논문 그림** — 공개 원고 4쪽 그림 1: 평점 정보를 반영하는 제안 모델의 구조입니다.
 
-[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
+[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)
 
 </details>
 
@@ -116,7 +116,7 @@ F --> G[추천 순위와 지표 평가]
     └── 최종_논문.pdf
 ```
 
-- [전체 최종 원고](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
+- [전체 최종 원고](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)
 
 ## 🧩 평점 정보와 가중 결합
 
@@ -170,3 +170,35 @@ CiaoDVD에서는 K=5의 세 지표 모두 Ratings5가 Ratings2보다 높지만, 
 연구 방법과 결과, 다음에 확인할 과제를 함께 살펴볼 수 있습니다.
 
 </div>
+
+
+> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
+
+현재 최종 원고는 [사진을 포함한 최종 PDF](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)입니다. 이전 초안은 해당 차수의 자료로 구분합니다.
+
+
+<details>
+<summary>📚 차수별 논문 공개본 전체 보기</summary>
+
+| 원고·공개 경로 | 논문 |
+| :--- | :--- |
+| 논문/최종_원문_논문.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) |
+| 원고단계/1차/06.17_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.17_%EC%9B%90%EA%B3%A0.pdf) |
+| 원고단계/1차/06.22_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.22_%EC%9B%90%EA%B3%A0.pdf) |
+| 원고단계/1차/06.29_영문_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8/06.29_%EC%98%81%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) |
+| 원고단계/2차/원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf) |
+| 원고단계/3차/원문_원고.pdf | [📄 PDF 열기](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8/%EC%9B%90%EB%AC%B8_%EC%9B%90%EA%B3%A0.pdf) |
+
+</details>
+
+
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **기존 코드와 자료** | [📁 검수 자료](docs/publication-review) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
+
+[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
+
+</details>

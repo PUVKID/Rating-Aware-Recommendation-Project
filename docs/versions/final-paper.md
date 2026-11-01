@@ -2,7 +2,7 @@
 
 상호작용 그래프와 평점 정보를 결합하여 추천 순위를 평가하는 원고입니다.
 
-[최종 원고 읽기](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) · [프로젝트 소개](../../README.md) · [연구 자료](../VERSIONS.md)
+[최종 원고 읽기](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · [프로젝트 소개](../../README.md) · [연구 자료](../VERSIONS.md)
 
 ## 🔎 연구 범위
 
@@ -22,8 +22,8 @@
 
 ## 📍 관련 자료
 
-- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 4–6쪽
-- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 7–8쪽
+- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 4–6쪽
+- [논문/최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) · `원고 본문` · PDF 7–8쪽
 
 셀 번호는 0부터, 소스 행 번호와 PDF 쪽 번호는 1부터 셉니다. 
 

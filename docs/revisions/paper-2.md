@@ -13,8 +13,8 @@
 | 파일 | 종류 | 바이트 | SHA-256 |
 |---|---|---:|---|
 | [원고단계/2차/원고.pdf](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%9B%90%EA%B3%A0.pdf) | .pdf | 402989 | `15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc` |
-| [원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
-| [원고단계/2차/심사답변서 2.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%8B%AC%EC%82%AC%EB%8B%B5%EB%B3%80%EC%84%9C%202.hwp) | .hwp | 86528 | `362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac` |
+| [원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/Performance%20Improvement%20of%20Recommendation%20Systems%20using%20User%20Evaluation%20Information.hwp.md) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
+| [원고단계/2차/심사답변서 2.hwp](../../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8/%EC%8B%AC%EC%82%AC%EB%8B%B5%EB%B3%80%EC%84%9C%202.hwp.md) | .hwp | 86528 | `362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac` |
 
 ## 🔎 해석·검증 범위
 

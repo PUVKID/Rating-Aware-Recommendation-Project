@@ -4,15 +4,25 @@
   "files": {
     "원고단계/2차/원고.pdf": {
       "bytes": 402989,
-      "sha256": "15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc"
+      "sha256": "15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc",
+      "public_path": "원고단계/2차/원고.pdf",
+      "public_bytes": 386793,
+      "public_sha256": "7e36fb06d21d90820e1f35e98082acfe1b98b160ae8962d86ea3b9de5d82640f"
     },
     "원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp": {
       "bytes": 287232,
-      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082"
+      "sha256": "f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082",
+      "public_path": "원고단계/2차/Performance Improvement of Recommendation Systems using User Evaluation Information.hwp.md",
+      "public_bytes": 417,
+      "public_sha256": "f8a50437fcdd2209c557d840e971a69cfde57d660545309520bf83c1dda97ebe"
     },
     "원고단계/2차/심사답변서 2.hwp": {
       "bytes": 86528,
-      "sha256": "362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac"
+      "sha256": "362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac",
+      "public_path": "원고단계/2차/심사답변서 2.hwp.md",
+      "public_bytes": 405,
+      "public_sha256": "de00cbe8198d76309cc4ca9c913b2be810f30663342577366bed818a76792a9c"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

@@ -37,10 +37,10 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 | 단계 | 설명 | 파일 종류 | 전체 차이 |
 |---|---|---|---|
-| [1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md) | 동일 폴더 안에서 06.17·06.22·06.29 수정본과 영문 최종본이 이어집니다. 06.17 PDF에는 학회 양식의 예시 저자소개가 남고, 06.29 영문 초록에는 five benchmark datasets라고 쓰지만 본문 실험 표는 네 데이터셋을 제시합니다. 이는 원고 단계의 불일치로 보존하며 실제 다섯 데이터셋 실험을 추가 주장하지 않습니다. 06.22와06.29 수정본은 HWP만 확인되어 원본 fingerprint와 본문 비교로 구별합니다. | hwp·pdf·png·pptx | [직전 단계 비교](docs/revision-diffs/paper-1.diff) |
-| [2차 원고](docs/revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 바로잡고, Ratings2·Ratings5의 임계값2·5, ML-1M MRR@10 감소 예외, 기본5:5 결합 비율 및 참조문헌을 구체화합니다. 그래프 필터 설명도 Linear에서 High-order로 바뀐 부분이 있습니다. 원고 수정이며 새 실험 실행을 확인한 것은 아닙니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/paper-2.diff) |
-| [3차 · 사물인터넷학회 양식 원고](docs/revisions/paper-3.md) | 2차와 해시가 같은 영문 HWP 사본이 함께 남고, 별도 12.hwp/PDF는 한글 제목·국영문 초록과 한국사물인터넷학회 양식으로 재구성합니다. 초록은 F1·MRR·NDCG와 Ratings2 23/24·Ratings5 24/24 비교를 명시합니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/paper-3.diff) |
-| [최종 원고](docs/revisions/final.md) | 3차 12.hwp에서 표의 잘린 NDCG@ 표기를 NDCG@10으로 정리한 차이를 확인했습니다. 최종 PDF의 추천 방법·결과표는 원고 보고값이며 재현 코드·원데이터·새 측정은 제공되지 않습니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/final.diff) |
+| [1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md) | 동일 폴더 안에서 06.17·06.22·06.29 수정본과 영문 최종본이 이어집니다. 06.17 PDF에는 학회 양식의 예시 저자소개가 남고, 06.29 영문 초록에는 five benchmark datasets라고 쓰지만 본문 실험 표는 네 데이터셋을 제시합니다. 이는 원고 단계의 불일치로 보존하며 실제 다섯 데이터셋 실험을 추가 주장하지 않습니다. 06.22와06.29 수정본은 HWP만 확인되어 원본 fingerprint와 본문 비교로 구별합니다. | hwp·pdf·png·pptx | [직전 단계 비교](docs/revision-diffs/paper-1.diff) · [자료 폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8) |
+| [2차 원고](docs/revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 바로잡고, Ratings2·Ratings5의 임계값2·5, ML-1M MRR@10 감소 예외, 기본5:5 결합 비율 및 참조문헌을 구체화합니다. 그래프 필터 설명도 Linear에서 High-order로 바뀐 부분이 있습니다. 원고 수정이며 새 실험 실행을 확인한 것은 아닙니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/paper-2.diff) · [자료 폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/2%EC%B0%A8) |
+| [3차 · 사물인터넷학회 양식 원고](docs/revisions/paper-3.md) | 2차와 해시가 같은 영문 HWP 사본이 함께 남고, 별도 12.hwp/PDF는 한글 제목·국영문 초록과 한국사물인터넷학회 양식으로 재구성합니다. 초록은 F1·MRR·NDCG와 Ratings2 23/24·Ratings5 24/24 비교를 명시합니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/paper-3.diff) · [자료 폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/3%EC%B0%A8) |
+| [최종 원고](docs/revisions/final.md) | 3차 12.hwp에서 표의 잘린 NDCG@ 표기를 NDCG@10으로 정리한 차이를 확인했습니다. 최종 PDF의 추천 방법·결과표는 원고 보고값이며 재현 코드·원데이터·새 측정은 제공되지 않습니다. | hwp·pdf | [직전 단계 비교](docs/revision-diffs/final.diff) · [자료 폴더](%EB%85%BC%EB%AC%B8) |
 
 <a name="overview"></a>
 
@@ -192,13 +192,4 @@ CiaoDVD에서는 K=5의 세 지표 모두 Ratings5가 Ratings2보다 높지만, 
 </details>
 
 
-<details>
-<summary>🧹 공개 자료 정리 기록</summary>
 
-| 검수 대상 | 연결 자료 | 상세·이번 비교 |
-| :--- | :--- | :--- |
-| **기존 코드와 자료** | [📁 검수 자료](docs/publication-review) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
-
-[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
-
-</details>

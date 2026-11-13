@@ -1,21 +1,23 @@
-<div align="center">
+<a id="-performance-improvement-of-recommendation-systems-using-user-evaluation-information"></a>
 
-# 📄 Performance Improvement of Recommendation Systems using User Evaluation Information
+# Performance Improvement of Recommendation Systems using User Evaluation Information
 
 사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 10쪽 최종 전체 원고입니다.
 
-</div>
+[목적·구성·사용법·결과의 상세 안내](../revisions/final.md) · [프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md)
 
-[📖 목적·구성·사용법·결과의 상세 안내](../revisions/final.md) · [🏠 프로젝트](../../README.md) · [🗂️ 전체 차수](../REVISION_INDEX.md)
+<a id="-이-자료를-읽는-순서"></a>
 
-## 🧭 이 자료를 읽는 순서
+## 이 자료를 읽는 순서
 
 1. 초록에서 전체 상호작용·평점 그래프의 두 경로를 파악합니다.
 2. 방법의 그래프 필터와 가중 결합식을 읽고 표의 하이퍼파라미터를 확인합니다.
 3. 네 데이터셋의 K5·10 결과를 지표별로 비교합니다.
 4. 개선한 조합과 ML-1M MRR@10의 예외를 함께 읽고 결합 비율의 영향을 확인합니다.
 
-## 🔎 연결된 내용
+<a id="-연결된-내용"></a>
+
+## 연결된 내용
 
 | 구성 | 읽을 내용 |
 | --- | --- |
@@ -26,13 +28,14 @@
 | 평가 지표 | F1·MRR·NDCG를 K5·10과 데이터셋별로 나누어 읽습니다. |
 | 기본 결합 | 기본 5:5 비율과 Ratings5의 데이터셋별 예외를 표와 함께 확인합니다. |
 
+<a id="-해석-범위"></a>
 
-## 📊 해석 범위
+## 해석 범위
 
 최종 원고는 Ratings2의 24개 조합 중 23개, Ratings5의 24개 조합 전체에서 HiGSP 대비 개선을 보고합니다. 데이터셋·지표·평점 임계값별 원고 보고 결과로 읽습니다.
 
 <details>
-<summary>📎 파일·크기·SHA-256과 자료 연결</summary>
+<summary>파일·크기·SHA-256과 자료 연결</summary>
 
 | 원문 파일 | 바이트 | SHA-256 |
 |---|---:|---|
@@ -41,4 +44,4 @@
 
 </details>
 
-[➡️ 전체 설명으로 이동](../revisions/final.md)
+[전체 설명으로 이동](../revisions/final.md)

@@ -15,9 +15,26 @@
 | 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
 | --- | --- | --- | --- |
 | [1차 · 06.17/06.22/06.29 원고 묶음](revisions/paper-1.md) | 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다. | [폴더](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8) | [전체 비교](revision-diffs/paper-1.diff) |
-| [2차 원고](revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다. | [폴더](../%EB%85%BC%EB%AC%B8) | [전체 비교](revision-diffs/paper-2.diff) |
+| [2차 원고](revisions/paper-2.md) | [상세 설명](#layout18-table-1-row-2-field-1) | [폴더](../%EB%85%BC%EB%AC%B8) | [전체 비교](revision-diffs/paper-2.diff) |
 | [3차 · 사물인터넷학회 양식 원고](revisions/paper-3.md) | 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다. | [폴더](../%EB%85%BC%EB%AC%B8) | [전체 비교](revision-diffs/paper-3.diff) |
-| [최종 원고](revisions/final.md) | 사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다. | [폴더](../%EB%85%BC%EB%AC%B8) | [전체 비교](revision-diffs/final.diff) |
+| [최종 원고](revisions/final.md) | [상세 설명](#layout18-table-1-row-4-field-1) | [폴더](../%EB%85%BC%EB%AC%B8) | [전체 비교](revision-diffs/final.diff) |
+
+<a id="layout18-table-1-row-2-field-1"></a>
+
+**[2차 원고](revisions/paper-2.md)**
+
+**주요 내용**
+
+평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다.
+
+<a id="layout18-table-1-row-4-field-1"></a>
+
+**[최종 원고](revisions/final.md)**
+
+**주요 내용**
+
+사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다.
+
 
 <a id="-자료-이용"></a>
 

@@ -25,14 +25,78 @@
 
 ## 연결된 내용
 
-| 구성 | 읽을 내용 |
-| --- | --- |
-| 최종 전체 본문 | 현재 게재본은 공식 페이지로 안내하고 사진을 포함한 기존 HWP는 투고 원고로 보존합니다. |
-| 보고 결과 | 네 데이터셋×두 K×세지표 24조합에서 Ratings2는 23개, Ratings5는 24개 개선을 보고합니다. |
-| 평점 그래프 | 임계값 2·5 이상인 평가 정보를 이용해 Ratings2·Ratings5를 구성합니다. |
-| 이중 경로 | 기존 전체 상호작용 경로와 평점 정보를 이용한 경로를 결합합니다. |
-| 평가 지표 | F1·MRR·NDCG를 K5·10과 데이터셋별로 나누어 읽습니다. |
-| 기본 결합 | 기본 5:5 비율과 Ratings5의 데이터셋별 예외를 표와 함께 확인합니다. |
+<a id="layout18-table-1-row-1"></a>
+
+**최종 전체 본문**
+
+**구성**
+
+최종 전체 본문
+
+**읽을 내용**
+
+현재 게재본은 공식 페이지로 안내하고 사진을 포함한 기존 HWP는 투고 원고로 보존합니다.
+
+<a id="layout18-table-1-row-2"></a>
+
+**보고 결과**
+
+**구성**
+
+보고 결과
+
+**읽을 내용**
+
+네 데이터셋×두 K×세지표 24조합에서 Ratings2는 23개, Ratings5는 24개 개선을 보고합니다.
+
+<a id="layout18-table-1-row-3"></a>
+
+**평점 그래프**
+
+**구성**
+
+평점 그래프
+
+**읽을 내용**
+
+임계값 2·5 이상인 평가 정보를 이용해 Ratings2·Ratings5를 구성합니다.
+
+<a id="layout18-table-1-row-4"></a>
+
+**이중 경로**
+
+**구성**
+
+이중 경로
+
+**읽을 내용**
+
+기존 전체 상호작용 경로와 평점 정보를 이용한 경로를 결합합니다.
+
+<a id="layout18-table-1-row-5"></a>
+
+**평가 지표**
+
+**구성**
+
+평가 지표
+
+**읽을 내용**
+
+F1·MRR·NDCG를 K5·10과 데이터셋별로 나누어 읽습니다.
+
+<a id="layout18-table-1-row-6"></a>
+
+**기본 결합**
+
+**구성**
+
+기본 결합
+
+**읽을 내용**
+
+기본 5:5 비율과 Ratings5의 데이터셋별 예외를 표와 함께 확인합니다.
+
 
 <a id="-해석-범위"></a>
 
@@ -43,10 +107,38 @@
 <details>
 <summary>파일·크기·SHA-256과 자료 연결</summary>
 
-| 원문 파일 | 바이트 | SHA-256 |
-|---|---:|---|
-| [공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306) | 518941 | `73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd` |
-| [최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | 739328 | `0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499` |
+<a id="layout18-table-2-row-1"></a>
+
+**[공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)**
+
+**원문 파일**
+
+[공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)
+
+**바이트**
+
+518941
+
+**SHA-256**
+
+`73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd`
+
+<a id="layout18-table-2-row-2"></a>
+
+**[최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)**
+
+**원문 파일**
+
+[최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)
+
+**바이트**
+
+739328
+
+**SHA-256**
+
+`0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499`
+
 
 </details>
 

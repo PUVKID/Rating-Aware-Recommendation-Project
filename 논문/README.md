@@ -12,8 +12,25 @@
 
 | 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
 | --- | --- | --- | --- |
-| [2차 원고](../docs/revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다. | [폴더](.) | [전체 비교](../docs/revision-diffs/paper-2.diff) |
+| [2차 원고](../docs/revisions/paper-2.md) | [상세 설명](#layout18-table-1-row-1-field-1) | [폴더](.) | [전체 비교](../docs/revision-diffs/paper-2.diff) |
 | [3차 · 사물인터넷학회 양식 원고](../docs/revisions/paper-3.md) | 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다. | [폴더](.) | [전체 비교](../docs/revision-diffs/paper-3.diff) |
-| [최종 원고](../docs/revisions/final.md) | 사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다. | [폴더](.) | [전체 비교](../docs/revision-diffs/final.diff) |
+| [최종 원고](../docs/revisions/final.md) | [상세 설명](#layout18-table-1-row-3-field-1) | [폴더](.) | [전체 비교](../docs/revision-diffs/final.diff) |
+
+<a id="layout18-table-1-row-1-field-1"></a>
+
+**[2차 원고](../docs/revisions/paper-2.md)**
+
+**주요 내용**
+
+평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다.
+
+<a id="layout18-table-1-row-3-field-1"></a>
+
+**[최종 원고](../docs/revisions/final.md)**
+
+**주요 내용**
+
+사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다.
+
 
 [프로젝트](../README.md) · [전체 차수](../docs/REVISION_INDEX.md)

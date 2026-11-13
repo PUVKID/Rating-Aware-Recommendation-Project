@@ -437,13 +437,68 @@ Ratings2의ML-1M 열화와 작은 개선을 유지합니다. CiaoDVD는K5에서R
 <details>
 <summary>이 단계의 파일 기록과 전체 해시</summary>
 
-아래 표는 해당 단계가 기록될 당시의 파일 정보입니다. 현재 첨부는 [프로젝트 자료 안내](../PAPERS.md)에서 확인할 수 있습니다.
+아래 내용는 해당 단계가 기록될 당시의 파일 정보입니다. 현재 첨부는 [프로젝트 자료 안내](../PAPERS.md)에서 확인할 수 있습니다.
 
-| 파일 | 종류 | 바이트 | SHA-256 |
-|---|---|---:|---|
-| `원고단계/2차/원고.pdf` | .pdf | 402989 | `15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc` |
-| [최신 편집 원문](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | .hwp | 287232 | `f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082` |
-| [최신 편집 원문](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | .hwp | 86528 | `362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac` |
+<a id="layout18-table-22-row-1"></a>
+
+**`원고단계/2차/원고.pdf`**
+
+**파일**
+
+`원고단계/2차/원고.pdf`
+
+**종류**
+
+.pdf
+
+**바이트**
+
+402989
+
+**SHA-256**
+
+`15c7d79c61032e3a8df436910de78617604af5314850a239d1158802e60277fc`
+
+<a id="layout18-table-22-row-2"></a>
+
+**[최신 편집 원문](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)**
+
+**파일**
+
+[최신 편집 원문](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)
+
+**종류**
+
+.hwp
+
+**바이트**
+
+287232
+
+**SHA-256**
+
+`f144fde40deb947feb71b31dd12fd37d2e7753dd7d2d746a2214ab9755bc6082`
+
+<a id="layout18-table-22-row-3"></a>
+
+**[최신 편집 원문](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)**
+
+**파일**
+
+[최신 편집 원문](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)
+
+**종류**
+
+.hwp
+
+**바이트**
+
+86528
+
+**SHA-256**
+
+`362bb6eb3a0397902b3352c6a103fd22dfcef55b6f730abf3659adc1040972ac`
+
 
 </details>
 

@@ -8,6 +8,18 @@
 
 사용자 평점을 반영한 그래프 필터로 추천 순위를 만드는 연구입니다.
 
+<!-- reading-levels17:start -->
+| 읽기 수준 | 안내 내용 |
+| --- | --- |
+| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+
+**논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25–33쪽, 2026.10에 게재되었습니다. 전체 9쪽 게재본은 [공식 KCI 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)에서 읽을 수 있습니다. 표지의 DOI는 10.20465/KIOTS.2026.12.5.025이며 온라인 읽기는 KCI로 안내합니다. **HWP는 기존 투고 원고**입니다. 게재본 PDF는 저장소에 첨부하지 않습니다. 과거 차수의 파일 구성도·해시·쪽수는 해당 투고 자료의 이력으로 읽어 주세요.
+<!-- reading-levels17:end -->
+
 분야: 추천 시스템 › 그래프 신호 처리 › 평점 반영 이중 그래프 필터
 
 `논문·연구 자료` `Document`
@@ -42,7 +54,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 **논문 그림** — 공개 원고 4쪽 그림 1: 평점 정보를 반영하는 제안 모델의 구조입니다.
 
-[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)
+[근거 파일 보기](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)
 
 <a name="input-processing-output"></a>
 
@@ -65,7 +77,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 | 자료 | 원문 파일 |
 |---|---|
-| 최종 논문 · 평점 기반 추천 | [PDF 다운로드](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) |
+| 최종 논문 · 평점 기반 추천 | [공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306) |
 | 최종 논문 · 평점 기반 추천 | [HWP 다운로드](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) |
 
 [자료별 설명](docs/PAPERS.md) · [코드 차수와 변경 이력](docs/REVISION_INDEX.md)
@@ -79,7 +91,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 | [1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md) | 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다. | [폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8) | [전체 비교](docs/revision-diffs/paper-1.diff) |
 | [2차 원고](docs/revisions/paper-2.md) | 평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/paper-2.diff) |
 | [3차 · 사물인터넷학회 양식 원고](docs/revisions/paper-3.md) | 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/paper-3.diff) |
-| [최종 원고](docs/revisions/final.md) | 사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 10쪽 최종 전체 원고입니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/final.diff) |
+| [최종 원고](docs/revisions/final.md) | 사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/final.diff) |
 
 <a id="-프로젝트-소개"></a>
 
@@ -120,7 +132,7 @@ F --> G[추천 순위와 지표 평가]
     └── 최종_논문.pdf
 ```
 
-- [전체 최종 원고](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)
+- [전체 최종 원고](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)
 
 <a id="-평점-정보와-가중-결합"></a>
 
@@ -148,7 +160,7 @@ ML-100K, ML-Latest-Small, ML-1M, CiaoDVD를 사용한 비교를 설명합니다.
 
 ## 자료 구성과 결과 해석
 
-현재 첨부는 최종 전체 원문과 같은 판의 편집 원본으로 통일했습니다. 1~3차의 수정 내용은 변경 설명과 비교 이력에 남겼습니다.
+현재 게재본은 공식 KCI 페이지로 안내하고 기존 편집 원본은 투고 원고로 보존합니다. 1~3차의 수정 내용은 변경 설명과 비교 이력에 남겼습니다.
 
 추천서비스의 실제 사용자 기록이나 데이터셋 원본은 업로드하지 않습니다. 현재 최종 원문은 저자명·공식 소속·이메일·저자소개 사진과 연구 본문·도표를 보존하며 이전 공개본은 Git 변경 이력에서 확인할 수 있습니다.
 
@@ -187,7 +199,7 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 | 모든 지표가 개선되었나요? | Ratings2의 ML-1M MRR@10 감소를 포함하여 조건별 결과를 확인하세요. |
 | 상대 개선율이 크게 보입니다. | 낮은 기준 점수에서는 상대율이 커질 수 있으므로 절대 점수 차이도 함께 보세요. |
 
-현재 최종 원고는 [사진을 포함한 최종 PDF](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf)입니다. 이전 초안은 해당 차수의 자료로 구분합니다.
+현재 최종 원고는 [공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)입니다. 이전 초안은 해당 차수의 자료로 구분합니다.
 
 <a id="-현재-첨부-문서"></a>
 
@@ -333,11 +345,11 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 
 ### 최종 원고 · 사용자 평점을 활용한 추천 성능 비교
 
-사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 10쪽 최종 전체 원고입니다.
+사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다.
 
 | 구성 | 처리 내용 |
 | --- | --- |
-| 최종 전체 본문 | 사진을 포함한 최종 PDF와 같은 판의 HWP를 제공합니다. |
+| 최종 전체 본문 | 현재 게재본은 공식 페이지로 안내하고 사진을 포함한 기존 HWP는 투고 원고로 보존합니다. |
 | 보고 결과 | 네 데이터셋×두 K×세지표 24조합에서 Ratings2는 23개, Ratings5는 24개 개선을 보고합니다. |
 | 평점 그래프 | 임계값 2·5 이상인 평가 정보를 이용해 Ratings2·Ratings5를 구성합니다. |
 | 이중 경로 | 기존 전체 상호작용 경로와 평점 정보를 이용한 경로를 결합합니다. |

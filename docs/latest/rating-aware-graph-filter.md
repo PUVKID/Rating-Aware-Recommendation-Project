@@ -2,7 +2,13 @@
 
 # Performance Improvement of Recommendation Systems using User Evaluation Information
 
-사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 10쪽 최종 전체 원고입니다.
+<!-- reading-levels17:start -->
+**읽기 수준 선택** · [LEVEL 1 - Beginner](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
+
+**논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25–33쪽, 2026.10에 게재되었습니다. 전체 9쪽 게재본은 [공식 KCI 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)에서 읽을 수 있습니다. 표지의 DOI는 10.20465/KIOTS.2026.12.5.025이며 온라인 읽기는 KCI로 안내합니다. **HWP는 기존 투고 원고**입니다. 게재본 PDF는 저장소에 첨부하지 않습니다. 과거 차수의 파일 구성도·해시·쪽수는 해당 투고 자료의 이력으로 읽어 주세요.
+<!-- reading-levels17:end -->
+
+사용자 평점 정보를 기존 상호작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다.
 
 [목적·구성·사용법·결과의 상세 안내](../revisions/final.md) · [프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md)
 
@@ -21,7 +27,7 @@
 
 | 구성 | 읽을 내용 |
 | --- | --- |
-| 최종 전체 본문 | 사진을 포함한 최종 PDF와 같은 판의 HWP를 제공합니다. |
+| 최종 전체 본문 | 현재 게재본은 공식 페이지로 안내하고 사진을 포함한 기존 HWP는 투고 원고로 보존합니다. |
 | 보고 결과 | 네 데이터셋×두 K×세지표 24조합에서 Ratings2는 23개, Ratings5는 24개 개선을 보고합니다. |
 | 평점 그래프 | 임계값 2·5 이상인 평가 정보를 이용해 Ratings2·Ratings5를 구성합니다. |
 | 이중 경로 | 기존 전체 상호작용 경로와 평점 정보를 이용한 경로를 결합합니다. |
@@ -39,7 +45,7 @@
 
 | 원문 파일 | 바이트 | SHA-256 |
 |---|---:|---|
-| [최종_원문_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.pdf) | 518941 | `73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd` |
+| [공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306) | 518941 | `73a18db184a7d63ccab5f8d57d31d3e10079cda68e93d0353fbf6095a41226dd` |
 | [최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) | 739328 | `0382a4f19d559927066fd3899b6184bb5dda86b62d55a6be0eb230dbef11d499` |
 
 </details>

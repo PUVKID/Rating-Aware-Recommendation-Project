@@ -1071,7 +1071,7 @@ F1·MRR·NDCG 비교
 
 ## 파일별 역할
 
-| 파일 · 이용 방법 |
+| 내용 |
 | --- |
 | **파일**<br>[공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)<br><br>**이용 방법**<br>전체 원문·도표 읽기 |
 | **파일**<br>[논문/최종_원문_논문.hwp](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp)<br><br>**이용 방법**<br>기존 투고 원고 편집본 |

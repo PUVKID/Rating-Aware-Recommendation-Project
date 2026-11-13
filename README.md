@@ -9,7 +9,7 @@
 사용자 평점을 반영한 그래프 필터로 추천 순위를 만드는 연구입니다.
 
 <!-- reading-levels17:start -->
-| 읽기 수준 · 안내 내용 |
+| 내용 |
 | --- |
 | **읽기 수준**<br>[LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md)<br><br>**안내 내용**<br>낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
 | **읽기 수준**<br>[LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md)<br><br>**안내 내용**<br>핵심 개념과 처리 흐름의 관계 이해 |
@@ -105,7 +105,7 @@ HiGSP 기반 두 그래프·필터 점수 결합
 
 ## 논문과 최신 자료
 
-| 자료 · 원문 파일 |
+| 내용 |
 | --- |
 | **자료**<br>최종 논문 · 평점 기반 추천<br><br>**원문 파일**<br>[공식 게재 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306) |
 | **자료**<br>최종 논문 · 평점 기반 추천<br><br>**원문 파일**<br>[HWP 다운로드](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EC%9B%90%EB%AC%B8_%EB%85%BC%EB%AC%B8.hwp) |
@@ -116,7 +116,7 @@ HiGSP 기반 두 그래프·필터 점수 결합
 
 ## 전체 차수
 
-| 차수·단계 · 주요 내용 · 자료 · 직전 비교 |
+| 내용 |
 | --- |
 | **차수·단계**<br>[1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md)<br><br>**주요 내용**<br>06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다.<br><br>**자료**<br>[폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8)<br><br>**직전 비교**<br>[전체 비교](docs/revision-diffs/paper-1.diff) |
 | **차수·단계**<br>[2차 원고](docs/revisions/paper-2.md)<br><br>**주요 내용**<br>[상세 설명](#layout18-table-4-row-2-field-1)<br><br>**자료**<br>[폴더](%EB%85%BC%EB%AC%B8)<br><br>**직전 비교**<br>[전체 비교](docs/revision-diffs/paper-2.diff) |
@@ -384,7 +384,7 @@ Ratings2의 ML-1M MRR@10 감소를 포함하여 조건별 결과를 확인하세
 
 현재 제공하는 원문과 직전 공개본의 비교입니다. 이전 원고·발표와 코드는 전체 차수 표에서 확인할 수 있습니다.
 
-| 문서 · 자료 폴더 · 상세 · 직전 공개본 전체 비교 |
+| 내용 |
 | --- |
 | **문서**<br>최종 논문 · 평점 기반 추천<br><br>**자료 폴더**<br>[폴더](%EB%85%BC%EB%AC%B8)<br><br>**상세**<br>[설명](docs/latest/rating-aware-graph-filter.md)<br><br>**직전 공개본 전체 비교**<br>[전체 비교](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C-%EC%A0%84%EC%B2%B4%EB%B9%84%EA%B5%90.md) |
 

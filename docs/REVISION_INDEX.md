@@ -12,7 +12,7 @@
 
 [프로젝트 전체 소개](../README.md)
 
-| 차수·단계 · 주요 내용 · 자료 · 직전 비교 |
+| 내용 |
 | --- |
 | **차수·단계**<br>[1차 · 06.17/06.22/06.29 원고 묶음](revisions/paper-1.md)<br><br>**주요 내용**<br>06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다.<br><br>**자료**<br>[폴더](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8)<br><br>**직전 비교**<br>[전체 비교](revision-diffs/paper-1.diff) |
 | **차수·단계**<br>[2차 원고](revisions/paper-2.md)<br><br>**주요 내용**<br>[상세 설명](#layout18-table-1-row-2-field-1)<br><br>**자료**<br>[폴더](../%EB%85%BC%EB%AC%B8)<br><br>**직전 비교**<br>[전체 비교](revision-diffs/paper-2.diff) |

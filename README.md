@@ -109,7 +109,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 한국 사물 인터넷 학회의 **사물 인터넷 융 복합 논문지** 양식으로 작성한 연구 원고입니다.
 
-| 항목 (Category) | 원고에서 다루는 내용 |
+| 항목 | 원고에서 다루는 내용 |
 | --- | --- |
 | 두 그래프 구성 | 전체 상호작용 그래프와 평점 2 또는 5 이상 그래프를 구분합니다. |
 | 그래프 필터링 | 사용자 군집과 이상·고차 저역통과 필터를 적용합니다. |

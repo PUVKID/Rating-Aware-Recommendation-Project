@@ -12,12 +12,12 @@
 
 [프로젝트 전체 소개](../README.md)
 
-| 내용 |
-| --- |
-| **차수·단계**<br>[1차 · 06.17/06.22/06.29 원고 묶음](revisions/paper-1.md)<br><br>**주요 내용**<br>06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다.<br><br>**자료**<br>[폴더](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8)<br><br>**직전 비교**<br>[전체 비교](revision-diffs/paper-1.diff) |
-| **차수·단계**<br>[2차 원고](revisions/paper-2.md)<br><br>**주요 내용**<br>[상세 설명](#layout18-table-1-row-2-field-1)<br><br>**자료**<br>[폴더](../%EB%85%BC%EB%AC%B8)<br><br>**직전 비교**<br>[전체 비교](revision-diffs/paper-2.diff) |
-| **차수·단계**<br>[3차 · 사물인터넷학회 양식 원고](revisions/paper-3.md)<br><br>**주요 내용**<br>국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다.<br><br>**자료**<br>[폴더](../%EB%85%BC%EB%AC%B8)<br><br>**직전 비교**<br>[전체 비교](revision-diffs/paper-3.diff) |
-| **차수·단계**<br>[최종 원고](revisions/final.md)<br><br>**주요 내용**<br>[상세 설명](#layout18-table-1-row-4-field-1)<br><br>**자료**<br>[폴더](../%EB%85%BC%EB%AC%B8)<br><br>**직전 비교**<br>[전체 비교](revision-diffs/final.diff) |
+| 차수·단계 | 자료 |
+| --- | --- |
+| [1차 · 06.17/06.22/06.29 원고 묶음](revisions/paper-1.md) | **주요 내용** 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다.<br>**자료** [폴더](../%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8)<br>**직전 비교** [전체 비교](revision-diffs/paper-1.diff) |
+| [2차 원고](revisions/paper-2.md) | **주요 내용** [상세 설명](#layout18-table-1-row-2-field-1)<br>**자료** [폴더](../%EB%85%BC%EB%AC%B8)<br>**직전 비교** [전체 비교](revision-diffs/paper-2.diff) |
+| [3차 · 사물인터넷학회 양식 원고](revisions/paper-3.md) | **주요 내용** 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다.<br>**자료** [폴더](../%EB%85%BC%EB%AC%B8)<br>**직전 비교** [전체 비교](revision-diffs/paper-3.diff) |
+| [최종 원고](revisions/final.md) | **주요 내용** [상세 설명](#layout18-table-1-row-4-field-1)<br>**자료** [폴더](../%EB%85%BC%EB%AC%B8)<br>**직전 비교** [전체 비교](revision-diffs/final.diff) |
 
 <a id="layout18-table-1-row-2-field-1"></a>
 

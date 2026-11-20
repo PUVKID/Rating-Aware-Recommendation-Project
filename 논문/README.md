@@ -10,11 +10,11 @@
 
 이 폴더에 연결된 연구·개발 단계의 목적과 차이는 아래 개별 설명에서 확인할 수 있습니다.
 
-| 내용 |
-| --- |
-| **차수·단계**<br>[2차 원고](../docs/revisions/paper-2.md)<br><br>**주요 내용**<br>[상세 설명](#layout18-table-1-row-1-field-1)<br><br>**자료**<br>[폴더](.)<br><br>**직전 비교**<br>[전체 비교](../docs/revision-diffs/paper-2.diff) |
-| **차수·단계**<br>[3차 · 사물인터넷학회 양식 원고](../docs/revisions/paper-3.md)<br><br>**주요 내용**<br>국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다.<br><br>**자료**<br>[폴더](.)<br><br>**직전 비교**<br>[전체 비교](../docs/revision-diffs/paper-3.diff) |
-| **차수·단계**<br>[최종 원고](../docs/revisions/final.md)<br><br>**주요 내용**<br>[상세 설명](#layout18-table-1-row-3-field-1)<br><br>**자료**<br>[폴더](.)<br><br>**직전 비교**<br>[전체 비교](../docs/revision-diffs/final.diff) |
+| 차수·단계 | 자료 |
+| --- | --- |
+| [2차 원고](../docs/revisions/paper-2.md) | **주요 내용** [상세 설명](#layout18-table-1-row-1-field-1)<br>**자료** [폴더](.)<br>**직전 비교** [전체 비교](../docs/revision-diffs/paper-2.diff) |
+| [3차 · 사물인터넷학회 양식 원고](../docs/revisions/paper-3.md) | **주요 내용** 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다.<br>**자료** [폴더](.)<br>**직전 비교** [전체 비교](../docs/revision-diffs/paper-3.diff) |
+| [최종 원고](../docs/revisions/final.md) | **주요 내용** [상세 설명](#layout18-table-1-row-3-field-1)<br>**자료** [폴더](.)<br>**직전 비교** [전체 비교](../docs/revision-diffs/final.diff) |
 
 <a id="layout18-table-1-row-1-field-1"></a>
 

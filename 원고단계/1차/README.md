@@ -5,29 +5,29 @@
 <!-- reading-levels17:start -->
 **읽기 수준 선택** · [LEVEL 1 - Beginner](../../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](../../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](../../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](../../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](../../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
 
-**논문 읽기:** 김희 찬·곽윤석·김남기의 논문은 사물 인터넷 융 복합 논문 지 12(5), 25 –33쪽, 2026.10에 게재되었습니다.
+**논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25 –33쪽, 2026.10에 게재되었습니다.
 
-전체 9쪽 게재 본은 [공식 KCI 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)에서 읽을 수 있습니다.
+전체 9쪽 게재본은 [공식 KCI 페이지](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003399306)에서 읽을 수 있습니다.
 
 표지의 DOI는 10.20465/KIOTS.2026.12.5.025이며 온라인 읽기는 KCI로 안내합니다.
 
 **HWP는 기존 투고 원고**입니다.
 
-게재 본 PDF는 저장소에 첨부하지 않습니다.
+게재본 PDF는 저장소에 첨부하지 않습니다.
 
-과거 차수의 파일 구성도·해 시·쪽 수는 해당 투고 자료의 이력으로 읽어 주세요.
+과거 차수의 파일 구성도·해시·쪽 수는 해당 투고 자료의 이력으로 읽어 주세요.
 <!-- reading-levels17:end -->
 
 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다.
 
 | 주요 구성 | 내용 |
 | --- | --- |
-| <a id="layout18-table-1-row-1"></a> 초기 주장 비교 | 영문 초록의 five benchmark datasets와 본문의 네 데이터 셋 표 등 당시 불일치를 구분합니다. |
+| <a id="layout18-table-1-row-1"></a> 초기 주장 비교 | 영문 초록의 five benchmark datasets와 본문의 네 데이터셋 표 등 당시 불일치를 구분합니다. |
 | <a id="layout18-table-1-row-2"></a> 편집의 변화 | 한글·영문 표현과 그래프 필터 설명이 단계마다 달라지는 흐름을 비교합니다. |
-| <a id="layout18-table-1-row-3"></a> 평점 그래프 | 임계 값 2·5 이상인 평가 정보를 이용해 Ratings2·Ratings5를 구성합니다. |
+| <a id="layout18-table-1-row-3"></a> 평점 그래프 | 임계값 2·5 이상인 평가 정보를 이용해 Ratings2·Ratings5를 구성합니다. |
 | <a id="layout18-table-1-row-4"></a> 이중 경로 | 기존 전체 상호작용 경로와 평점 정보를 이용한 경로를 결합합니다. |
-| <a id="layout18-table-1-row-5"></a> 평가 지표 | F1·MRR·NDCG를 K5·10과 데이터 셋별로 나누어 읽습니다. |
-| <a id="layout18-table-1-row-6"></a> 기본 결합 | 기본 5:5 비율과 Ratings5의 데이터 셋별 예외를 표와 함께 확인합니다. |
+| <a id="layout18-table-1-row-5"></a> 평가 지표 | F1·MRR·NDCG를 K5·10과 데이터셋별로 나누어 읽습니다. |
+| <a id="layout18-table-1-row-6"></a> 기본 결합 | 기본 5:5 비율과 Ratings5의 데이터셋별 예외를 표와 함께 확인합니다. |
 
 
 <a id="-이용-순서"></a>

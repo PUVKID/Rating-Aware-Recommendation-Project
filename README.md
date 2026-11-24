@@ -106,7 +106,7 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 저자: **김희찬 · 곽윤석 · 김남기**
 
-한국 사물 인터넷 학회의 **사물 인터넷 융 복합 논문지** 양식으로 작성한 연구 원고입니다.
+한국사물인터넷학회의 **사물인터넷융복합논문지** 양식으로 작성한 연구 원고입니다.
 
 | 항목 | 원고에서 다루는 내용 |
 | --- | --- |

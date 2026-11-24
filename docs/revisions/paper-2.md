@@ -5,11 +5,11 @@
 <!-- reading-levels17:start -->
 | 읽기 수준 | 설명의 초점 |
 | --- | --- |
-| [LEVEL 1 · Beginner](#reading-level-1) | 목적과 동작부터 |
-| [LEVEL 2 · Explorer](#reading-level-2) | 구성과 연결 원리 |
-| [LEVEL 3 · Practitioner](#reading-level-3) | 준비·실행·결과 확인 |
-| [LEVEL 4 · Advanced](#reading-level-4) | 구현·설계·실패 처리 |
-| [LEVEL 5 · Expert](#reading-level-5) | 근거·프로토콜·한계 검토 |
+| [LEVEL 1 · Beginner](#user-content-reading-level-1) | 목적과 동작부터 |
+| [LEVEL 2 · Explorer](#user-content-reading-level-2) | 구성과 연결 원리 |
+| [LEVEL 3 · Practitioner](#user-content-reading-level-3) | 준비·실행·결과 확인 |
+| [LEVEL 4 · Advanced](#user-content-reading-level-4) | 구현·설계·실패 처리 |
+| [LEVEL 5 · Expert](#user-content-reading-level-5) | 근거·프로토콜·한계 검토 |
 
 **논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25 –33쪽, 2026.10에 게재되었습니다.
 
@@ -109,7 +109,7 @@ Ratings2는 24개 비교 중 23개, Ratings5는 24개 모두 향상을 보고합
 
 평점을 쓰면 도움이 될 수 있지만 모든 자료·지표에서 같은 효과가 나오는 것은 아닙니다. 실제 사용자 원기록·데이터셋·실행 코드는 공개하지 않습니다. 낮아진 지표도 결과의 일부입니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
@@ -200,7 +200,7 @@ MRR·F1·NDCG는 다른 평가이므로 일부 개선만으로 전부 우수하�
 
 자료·임계값·가중치·K가 달라지면 비교 의미가 달라집니다. 큰 상대 향상률도 작은 원점수의 변화일 수 있습니다. 원고 단계의 개정을 새로운 성능 실험으로 세지 않습니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
@@ -291,7 +291,7 @@ ML-100K·ML-Latest-Small·ML-1M·CiaoDVD의 자료 조건을 확인합니다. Ra
 
 재실행 필수 입력 부재, 분할 계보 미공개, 조건별 예외를 기록합니다. 제시되지 않은 신뢰구간·검정·운영 성능을 추가하지 않습니다. 현재 게재 링크와 과거 자료 목록도 구분합니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
@@ -382,7 +382,7 @@ Ratings2의 ML-1M 열화와 작은 개선을 유지합니다. CiaoDVD는 K5에�
 
 평점 희소화와 기존 정보 보존의 균형은 데이터에 의존합니다. 서로 다른 가중치로 얻은 결과를 임계값 하나의 효과로 설명하지 않습니다. 미공개 분할·실행 정보가 일반화와 독립 재현을 제한합니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>

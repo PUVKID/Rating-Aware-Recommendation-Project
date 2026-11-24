@@ -24,7 +24,7 @@
 과거 차수의 파일 구성도·해시·쪽 수는 해당 투고 자료의 이력으로 읽어 주세요.
 
 <details open>
-<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
+<summary>LEVEL 1 · Beginner — 목적과 동작부터</summary>
 
 <a id="reading-level-1"></a>
 
@@ -56,7 +56,7 @@
 | <a id="layout18-table-1-row-6"></a> 기본 결합 | 기본 5:5 비율과 Ratings5의 데이터셋별 예외를 표와 함께 확인합니다. |
 
 
-같은 물건을 봤다는 사실뿐 아니라 사용자가 몇 점을 줬는지 추천에 반영하는 연구입니다. 예를 들어 낮은 점수와 높은 점수를 모두 같은 선호로 취급하지 않으려는 방법입니다. **평점 임계값·데이터셋·지표마다 개선 정도가 다릅니다.**
+같은 물건을 봤다는 사실뿐 아니라 사용자가 몇 점을 줬는지 추천에 반영하는 연구입니다. 예를 들어 낮은 점수와 높은 점수를 모두 같은 선호로 취급하지 않으려는 방법입니다. 평점 임계값·데이터셋·지표마다 개선 정도가 다릅니다.
 
 ### LEVEL 1 · 달라진 내용과 차수 관계
 
@@ -98,7 +98,7 @@
 
 기본 결합 비율·평점 임계값·데이터셋·지표에 따라 효과가 다릅니다. 전체 사용자에게 추천 품질이 동일하게 좋아진다거나 운영 서비스의 결과로 확대하지 않습니다.
 
-Ratings2는 24개 비교 중 23개, Ratings5는 24개 모두 향상을 보고합니다. 하지만 Ratings2의 ML-1M MRR @10은 0.5603에서 0.5601로 낮아졌습니다. **모든 조건에서 항상 좋아진 방법이라고 설명하지 않습니다.**
+Ratings2는 24개 비교 중 23개, Ratings5는 24개 모두 향상을 보고합니다. 하지만 Ratings2의 ML-1M MRR @10은 0.5603에서 0.5601로 낮아졌습니다. 모든 조건에서 항상 좋아진 방법이라고 설명하지 않습니다.
 
 ### LEVEL 1 · 주의할 범위
 
@@ -116,7 +116,7 @@ Ratings2는 24개 비교 중 23개, Ratings5는 24개 모두 향상을 보고합
 </details>
 
 <details>
-<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
+<summary>LEVEL 2 · Explorer — 구성과 연결 원리</summary>
 
 <a id="reading-level-2"></a>
 
@@ -208,7 +208,7 @@ MRR·F1·NDCG는 다른 평가이므로 일부 개선만으로 전부 우수하�
 </details>
 
 <details>
-<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
+<summary>LEVEL 3 · Practitioner — 준비·실행·결과 확인</summary>
 
 <a id="reading-level-3"></a>
 
@@ -300,7 +300,7 @@ ML-100K·ML-Latest-Small·ML-1M·CiaoDVD의 자료 조건을 확인합니다. Ra
 </details>
 
 <details>
-<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+<summary>LEVEL 4 · Advanced — 구현·설계·실패 처리</summary>
 
 <a id="reading-level-4"></a>
 
@@ -392,7 +392,7 @@ Ratings2의 ML-1M 열화와 작은 개선을 유지합니다. CiaoDVD는 K5에�
 </details>
 
 <details>
-<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
+<summary>LEVEL 5 · Expert — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 

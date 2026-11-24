@@ -11,11 +11,11 @@
 <!-- reading-levels17:start -->
 | 읽기 수준 | 안내 내용 |
 | --- | --- |
-| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
-| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
-| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
-| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
-| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
 
 **논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25 –33쪽, 2026.10에 게재되었습니다.
 
@@ -231,7 +231,7 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 <a id="-1차--평점-기반-추천-원고의-수정-흐름"></a>
 
 <details>
-<summary><strong>1차·평점 기반 추천 원고의 수정 흐름</strong></summary>
+<summary>1차·평점 기반 추천 원고의 수정 흐름</summary>
 
 <a id="1차평점-기반-추천-원고의-수정-흐름"></a>
 
@@ -310,7 +310,7 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 </details>
 
 <details>
-<summary><strong>3차·사물 인터넷 학회 양식과 참고 문헌 편집</strong></summary>
+<summary>3차·사물 인터넷 학회 양식과 참고 문헌 편집</summary>
 
 <a id="3차사물-인터넷-학회-양식과-참고-문헌-편집"></a>
 
@@ -350,7 +350,7 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 </details>
 
 <details>
-<summary><strong>최종 원고 · 사용자 평점을 활용한 추천 성능 비교</strong></summary>
+<summary>최종 원고 · 사용자 평점을 활용한 추천 성능 비교</summary>
 
 <a id="최종-원고--사용자-평점을-활용한-추천-성능-비교"></a>
 

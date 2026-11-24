@@ -11,11 +11,11 @@
 <!-- reading-levels17:start -->
 | 읽기 수준 | 안내 내용 |
 | --- | --- |
-| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
-| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
-| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
-| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
-| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
 
 **논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25 –33쪽, 2026.10에 게재되었습니다.
 
@@ -92,12 +92,12 @@ Performance Improvement of Recommendation Systems using User Evaluation Informat
 
 ## 전체 차수
 
-| 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
-| --- | --- | --- | --- |
-| [1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md) | 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다. | [폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8) | [전체 비교](docs/revision-diffs/paper-1-%EC%97%B4%EB%9E%8C.md) |
-| [2차 원고](docs/revisions/paper-2.md) | <a id="layout18-table-4-row-2-field-1"></a>평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/paper-2-%EC%97%B4%EB%9E%8C.md) |
-| [3차 · 사물인터넷학회 양식 원고](docs/revisions/paper-3.md) | 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/paper-3-%EC%97%B4%EB%9E%8C.md) |
-| [최종 원고](docs/revisions/final.md) | <a id="layout18-table-4-row-4-field-1"></a>사용자 평점 정보를 기존 상호 작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10 쪽 투고 원고를 설명하는 단계입니다.<br>현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/revision-diffs/final-%EC%97%B4%EB%9E%8C.md) |
+| 차수·단계 | 주요 내용 | 자료 · 직전 비교 |
+| --- | --- | --- |
+| [1차 · 06.17/06.22/06.29 원고 묶음](docs/revisions/paper-1.md) | 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다. | [폴더](%EC%9B%90%EA%B3%A0%EB%8B%A8%EA%B3%84/1%EC%B0%A8)<br>[전체 비교](docs/revision-diffs/paper-1-%EC%97%B4%EB%9E%8C.md) |
+| [2차 원고](docs/revisions/paper-2.md) | <a id="layout18-table-4-row-2-field-1"></a>평가 대상을 네 데이터셋으로 정리하고 평점 임계값·결합 비율과 지표의 예외를 명확히 한 원고 단계입니다. | [폴더](%EB%85%BC%EB%AC%B8)<br>[전체 비교](docs/revision-diffs/paper-2-%EC%97%B4%EB%9E%8C.md) |
+| [3차 · 사물인터넷학회 양식 원고](docs/revisions/paper-3.md) | 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다. | [폴더](%EB%85%BC%EB%AC%B8)<br>[전체 비교](docs/revision-diffs/paper-3-%EC%97%B4%EB%9E%8C.md) |
+| [최종 원고](docs/revisions/final.md) | <a id="layout18-table-4-row-4-field-1"></a>사용자 평점 정보를 기존 상호 작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10 쪽 투고 원고를 설명하는 단계입니다.<br>현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다. | [폴더](%EB%85%BC%EB%AC%B8)<br>[전체 비교](docs/revision-diffs/final-%EC%97%B4%EB%9E%8C.md) |
 
 
 <a id="-프로젝트-소개"></a>
@@ -214,9 +214,9 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 
 현재 제공하는 원문과 직전 공개본의 비교입니다. 이전 원고·발표와 코드는 전체 차수 표에서 확인할 수 있습니다.
 
-| 문서 | 자료 폴더 | 상세 | 직전 공개본 전체 비교 |
-| --- | --- | --- | --- |
-| 최종 논문 · 평점 기반 추천 | [폴더](%EB%85%BC%EB%AC%B8) | [설명](docs/latest/rating-aware-graph-filter.md) | [전체 비교](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C-%EC%A0%84%EC%B2%B4%EB%B9%84%EA%B5%90.md) |
+| 문서 | 자료 폴더 | 상세 · 직전 공개본 전체 비교 |
+| --- | --- | --- |
+| 최종 논문 · 평점 기반 추천 | [폴더](%EB%85%BC%EB%AC%B8) | [설명](docs/latest/rating-aware-graph-filter.md)<br>[전체 비교](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C-%EC%A0%84%EC%B2%B4%EB%B9%84%EA%B5%90.md) |
 
 [최신 문서 구성 변경](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C.md)
 
@@ -231,9 +231,9 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 <a id="-1차--평점-기반-추천-원고의-수정-흐름"></a>
 
 <details>
-<summary>1차·평점 기반 추천 원고의 수정 흐름</summary>
+<summary><strong>1차·평점 기반 추천 원고의 수정 흐름</strong></summary>
 
-### 1차·평점 기반 추천 원고의 수정 흐름
+<a id="1차평점-기반-추천-원고의-수정-흐름"></a>
 
 06.17·06.22·06.29의 수정본과 영문 원고가 이어진 초기 편집 단계입니다.
 
@@ -310,9 +310,9 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 </details>
 
 <details>
-<summary>3차·사물 인터넷 학회 양식과 참고 문헌 편집</summary>
+<summary><strong>3차·사물 인터넷 학회 양식과 참고 문헌 편집</strong></summary>
 
-### 3차·사물 인터넷 학회 양식과 참고 문헌 편집
+<a id="3차사물-인터넷-학회-양식과-참고-문헌-편집"></a>
 
 국영문 초록·제목·양식을 정리한 편집 단계이며, 같은 연구의 여러 참고문헌 판을 구분해 읽습니다.
 
@@ -350,9 +350,9 @@ F1은 추천 목록의 정밀도·재현율을 함께, MRR은 정답의 순위�
 </details>
 
 <details>
-<summary>최종 원고 · 사용자 평점을 활용한 추천 성능 비교</summary>
+<summary><strong>최종 원고 · 사용자 평점을 활용한 추천 성능 비교</strong></summary>
 
-### 최종 원고 · 사용자 평점을 활용한 추천 성능 비교
+<a id="최종-원고--사용자-평점을-활용한-추천-성능-비교"></a>
 
 사용자 평점 정보를 기존 상호 작용 그래프와 결합해 추천 순위의 성능을 비교한 당시 10 쪽 투고 원고를 설명하는 단계입니다. 현재 9쪽 게재본은 공식 KCI 페이지에서 확인합니다.
 

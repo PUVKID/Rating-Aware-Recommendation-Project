@@ -3,7 +3,13 @@
 # 3차·사물 인터넷 학회 양식과 참고 문헌 편집
 
 <!-- reading-levels17:start -->
-**읽기 수준 선택** · [LEVEL 1 - Beginner](#reading-level-1) · [LEVEL 2 - Explorer](#reading-level-2) · [LEVEL 3 - Practitioner](#reading-level-3) · [LEVEL 4 - Advanced](#reading-level-4) · [LEVEL 5 - Expert](#reading-level-5)
+| 읽기 수준 | 설명의 초점 |
+| --- | --- |
+| [LEVEL 1 · Beginner](#reading-level-1) | 목적과 동작부터 |
+| [LEVEL 2 · Explorer](#reading-level-2) | 구성과 연결 원리 |
+| [LEVEL 3 · Practitioner](#reading-level-3) | 준비·실행·결과 확인 |
+| [LEVEL 4 · Advanced](#reading-level-4) | 구현·설계·실패 처리 |
+| [LEVEL 5 · Expert](#reading-level-5) | 근거·프로토콜·한계 검토 |
 
 **논문 읽기:** 김희찬·곽윤석·김남기의 논문은 사물인터넷융복합논문지 12(5), 25 –33쪽, 2026.10에 게재되었습니다.
 
@@ -16,6 +22,9 @@
 게재본 PDF는 저장소에 첨부하지 않습니다.
 
 과거 차수의 파일 구성도·해시·쪽 수는 해당 투고 자료의 이력으로 읽어 주세요.
+
+<details open>
+<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
 
 <a id="reading-level-1"></a>
 
@@ -103,6 +112,12 @@ Ratings2는 24개 비교 중 23개, Ratings5는 24개 모두 향상을 보고합
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
 
+
+</details>
+
+<details>
+<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
+
 <a id="reading-level-2"></a>
 
 ## LEVEL 2 - Explorer
@@ -188,6 +203,12 @@ MRR·F1·NDCG는 다른 평가이므로 일부 개선만으로 전부 우수하�
 자료·임계값·가중치·K가 달라지면 비교 의미가 달라집니다. 큰 상대 향상률도 작은 원점수의 변화일 수 있습니다. 원고 단계의 개정을 새로운 성능 실험으로 세지 않습니다.
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+
+
+</details>
+
+<details>
+<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
 
 <a id="reading-level-3"></a>
 
@@ -275,6 +296,12 @@ ML-100K·ML-Latest-Small·ML-1M·CiaoDVD의 자료 조건을 확인합니다. Ra
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
 
+
+</details>
+
+<details>
+<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+
 <a id="reading-level-4"></a>
 
 ## LEVEL 4 - Advanced
@@ -360,6 +387,12 @@ Ratings2의 ML-1M 열화와 작은 개선을 유지합니다. CiaoDVD는 K5에�
 평점 희소화와 기존 정보 보존의 균형은 데이터에 의존합니다. 서로 다른 가중치로 얻은 결과를 임계값 하나의 효과로 설명하지 않습니다. 미공개 분할·실행 정보가 일반화와 독립 재현을 제한합니다.
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+
+
+</details>
+
+<details>
+<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 
@@ -502,3 +535,6 @@ Ratings2의 ML-1M 열화와 작은 개선을 유지합니다. CiaoDVD는 K5에�
 ---
 
 [프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md) · [자료 폴더](../../%EB%85%BC%EB%AC%B8) · [2차 원고](paper-2.md) · [최종 원고](final.md)
+
+</details>
+

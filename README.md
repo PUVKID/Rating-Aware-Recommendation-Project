@@ -25,7 +25,7 @@
   <source media="(max-width: 600px)" srcset="assets/readme/flow-ko-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/readme/flow-ko-light.svg" />
-  <img src="assets/readme/flow-ko-light.svg" alt="Rating Aware Recommendation Project: 상호작용 · 평점 → 이중 그래프 필터 → 추천 순위 · 지표" width="100%" />
+  <img src="assets/readme/flow-ko-light.svg" alt="상호작용 · 평점: 사용자·아이템 상호작용과 평점 → 이중 그래프 필터: 두 그래프의 필터 점수를 가중 결합 → 추천 순위 · 지표: 추천 순위와 NDCG·MRR 평가" width="100%" />
 </picture>
 <!-- readme-header32:end -->
 

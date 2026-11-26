@@ -26,7 +26,7 @@
   <source media="(max-width: 600px)" srcset="../assets/readme/flow-en-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/readme/flow-en-light.svg" />
-  <img src="../assets/readme/flow-en-light.svg" alt="Rating Aware Recommendation Project: Interactions · ratings → Dual-graph filtering → Rankings · metrics" width="100%" />
+  <img src="../assets/readme/flow-en-light.svg" alt="Interactions · ratings: User-item interactions and ratings → Dual-graph filtering: Weight scores from two graph filters → Rankings · metrics: Rankings evaluated with NDCG and MRR" width="100%" />
 </picture>
 <!-- readme-header32:end -->
 

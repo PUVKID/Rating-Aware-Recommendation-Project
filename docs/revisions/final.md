@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-최종-원고--사용자-평점을-활용한-추천-성능-비교"></a>
 
 # 최종 원고 · 사용자 평점을 활용한 추천 성능 비교

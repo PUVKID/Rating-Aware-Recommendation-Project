@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-2차--평점-임계값과-지표-해석-구체화"></a>
 
 # 2차·평점 임계 값과 지표 해석 구체화

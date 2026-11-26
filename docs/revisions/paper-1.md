@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-1차--평점-기반-추천-원고의-수정-흐름"></a>
 
 # 1차·평점 기반 추천 원고의 수정 흐름

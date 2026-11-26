@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-3차--사물인터넷학회-양식과-참고문헌-편집"></a>
 
 # 3차·사물 인터넷 학회 양식과 참고 문헌 편집
